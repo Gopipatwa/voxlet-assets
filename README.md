@@ -1,13 +1,27 @@
-# Asset Studio: Voxlet's own picture pack (plan)
+# Voxlet Assets: Voxlet's own picture pack
 
 Voxlet's videos use about 24,000 downloaded icons and illustrations (Tabler, Phosphor, Lucide,
 Material, Fluent Emoji, Open Doodles…). Most are UI symbols that never belong in a video, styles
 are mixed, and names follow the icon authors' words, not the words scripts use. The plan: build
 **our own pack**, in one style, made for the engine's animations, named with the words people
-actually say in quiz and explainer videos, shipped inside the app.
+actually say in quiz and explainer videos. This repo holds the catalogue, the drawing scripts and
+the drawings; the Voxlet app (separate repo) downloads the built pack from this repo's GitHub
+Releases. Licence: see [LICENSE](LICENSE) (own pack, for use through Voxlet only).
+
+## Publishing a new version of the pack
+
+```powershell
+python toolsuild_pack.py
+```
+
+This writes `distoxlet-own.zip` (index plus every drawn SVG; `dist/` is not in git). Make a
+GitHub Release in this repo (tag like `v2026.11.23`) and attach `distoxlet-own.zip` with exactly
+that name. The app's pack list (`native/video/assets/packs.json` in the voxlet repo, pack
+`voxlet-own`) downloads `releases/latest/download/voxlet-own.zip`, so the newest release is what
+users get when they install or re-install the pack. Update `size_mb` there when it grows a lot.
 
 **Made so far**: the viewer (with a border on/off toggle), the drawing helpers
-(`tools/draw_lib.py`), the first 646 drawings, the catalogue checker (`tools/check_catalog.py`) and the full
+(`tools/draw_lib.py`), 3,210 drawings, the pack builder (`tools/build_pack.py`), the catalogue checker (`tools/check_catalog.py`) and the full
 catalogue (47 categories, 467 groups, 7,824 items).
 
 > **New session?** Say **"start asset studio"**. Claude reads this file, finds the first unchecked
@@ -20,7 +34,7 @@ seconds (new ones get a green outline). You can pick a category, search an id, s
 background, click a drawing to see it big, and see which catalogue items aren't drawn yet.
 
 ```powershell
-python -m http.server 8765 --directory D:\v-clone\asset-studio
+python -m http.server 8765 --directory D:\voxlet-assets
 ```
 
 Then open http://localhost:8765/viewer.html. In the Claude app the same server is saved as
@@ -78,11 +92,12 @@ Tick each box here when it is done.
 - [ ] Optional `vidtool trace <png>` with vtracer, to turn hand sketches into SVG.
 
 ### Phase 4: ship the pack in the app
-- [ ] `vidtool pack`: builds the `voxlet-own` pack (an `index.json` like the library's; tags = name,
-      other names, group and category) from `svg/` and the catalogue.
-- [ ] Ship it inside the app and install it on first start, like the built-in `voxlet-music` and
-      `voxlet-sfx` packs (no download).
-- [ ] Search ranks `voxlet-own` first; the downloaded packs become the fallback.
+- [x] `tools/build_pack.py`: builds the `voxlet-own` pack zip (`index.json`: id, name, category, group,
+      kind, recolor, motion, tags = name, other names, group and category) from `svg/` and the catalogue.
+- [x] The app downloads it like the other packs (pack `voxlet-own` in the app's `packs.json`, format
+      `voxlet-own`, from this repo's latest GitHub Release); it is listed first.
+- [x] Search ranks `voxlet-own` first; the downloaded packs become the fallback.
+- [ ] First GitHub Release of this repo with `voxlet-own.zip` (needs the repo on GitHub).
 - [ ] Gemini's storyboard and quiz prompts get the catalogue's names, so they ask for pictures we
       have.
 
@@ -290,7 +305,7 @@ Example:
 ### The checker (`tools/check_catalog.py`)
 
 ```powershell
-python asset-studio\tools\check_catalog.py --warnings
+python tools\check_catalog.py --warnings
 ```
 
 - Errors (exit code 1): repeated ids, a category id that does not match its file name, repeated
