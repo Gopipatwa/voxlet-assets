@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M60 80 L100 70 L160 90 L230 70 L300 92 L380 72 L440 90 L450 160 L436 250 L452 340 L430 440 L360 424 L290 446 L220 424 L150 440 L90 420 L70 330 L84 240 L62 160Z" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M120 150 C150 120 200 130 220 160 C230 200 190 230 160 220 C130 210 100 180 120 150Z" fill="#E8CFA0"/>
+  <path d="M270 130 C310 110 380 130 380 180 C370 230 300 240 280 200Z" fill="#E8CFA0"/>
+  <path d="M200 280 C240 260 300 280 300 330 C290 380 220 390 200 340Z" fill="#E8CFA0"/>
+  <path d="M110 380 C150 340 220 410 280 370 C330 340 380 390 410 360" fill="none" stroke="#3D8BFD" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 12"/>
+  <polygon points="400.0,100.0 404.6,118.9 421.2,108.8 411.1,125.4 430.0,130.0 411.1,134.6 421.2,151.2 404.6,141.1 400.0,160.0 395.4,141.1 378.8,151.2 388.9,134.6 370.0,130.0 388.9,125.4 378.8,108.8 395.4,118.9" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M340 300 l22 -40 l22 40" fill="none" stroke="#E5484D" stroke-width="0"/>
+</svg>

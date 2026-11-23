@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="40" y="210" width="130" height="230" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="342" y="210" width="130" height="230" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="170" y="280" width="172" height="160" fill="#8F897E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="76" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="112" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="148" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="342" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="378" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="414" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="450" y="180" width="26" height="36" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M210 440 V350 C210 300 302 300 302 350 V440Z" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="225" y="60" width="6" height="100" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M231 60 H300 L280 90 L300 120 H231Z" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="96" y="250" width="20" height="44" rx="10" fill="#1F1F24"/>
+  <rect x="396" y="250" width="20" height="44" rx="10" fill="#1F1F24"/>
+</svg>

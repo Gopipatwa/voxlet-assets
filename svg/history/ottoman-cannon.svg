@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="rotate(-14 256 256)">
+    <path d="M60 220 H410 L450 200 V312 L410 292 H60 C40 292 40 220 60 220Z" fill="#B97C12" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="130" y="210" width="36" height="92" rx="6" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="250" y="210" width="36" height="92" rx="6" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="452" cy="256" rx="18" ry="58" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <circle cx="190" cy="400" r="70" fill="#E8B878" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="190" cy="400" r="58" fill="none" stroke="#6E4A2A" stroke-width="12"/>
+  <path d="M190 400 L248 400" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 400 L231 441" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 400 L190 458" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 400 L149 441" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 400 L132 400" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 400 L149 359" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 400 L190 342" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 400 L231 359" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="190" cy="400" r="14" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="440" width="472" height="18" rx="6" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="200" width="130" height="230" rx="12" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="180" y="200" width="130" height="230" rx="12" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="320" y="240" width="160" height="190" rx="16" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="390" y="190" width="80" height="60" rx="10" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="240" width="30" height="40" rx="8" fill="#FFFFFF"/>
+  <circle cx="75" cy="252" r="11" fill="#2E2A3B"/>
+  <rect x="100" y="240" width="30" height="40" rx="8" fill="#FFFFFF"/>
+  <circle cx="115" cy="252" r="11" fill="#2E2A3B"/>
+  <rect x="200" y="240" width="30" height="40" rx="8" fill="#FFFFFF"/>
+  <circle cx="215" cy="252" r="11" fill="#2E2A3B"/>
+  <rect x="240" y="240" width="30" height="40" rx="8" fill="#FFFFFF"/>
+  <circle cx="255" cy="252" r="11" fill="#2E2A3B"/>
+  <circle cx="100" cy="440" r="22" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="220" cy="440" r="22" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="360" cy="440" r="22" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="450" cy="440" r="22" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="410" y="270" width="50" height="50" rx="8" fill="#7DB2FF"/>
+  <circle cx="440" cy="150" r="22" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="464" cy="110" r="16" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

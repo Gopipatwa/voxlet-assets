@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="100" y="90" width="312" height="260" rx="10" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="80" y="72" width="352" height="36" rx="18" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="80" y="332" width="352" height="36" rx="18" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M140 150 h232" fill="none" stroke="#6E4A2A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 194 h192" fill="none" stroke="#6E4A2A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 238 h232" fill="none" stroke="#6E4A2A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 282 h192" fill="none" stroke="#6E4A2A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="400" r="50" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256.0,366.0 264.0,386.1 285.4,383.0 272.0,400.0 285.4,417.0 264.0,413.9 256.0,434.0 248.0,413.9 226.6,417.0 240.0,400.0 226.6,383.0 248.0,386.1" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M222 440 L200 480 M290 440 L312 480" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M222 440 L200 480 M290 440 L312 480" fill="none" stroke="#E5484D" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

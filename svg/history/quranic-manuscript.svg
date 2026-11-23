@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="70" y="60" width="372" height="392" rx="16" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="96" y="86" width="320" height="340" rx="8" fill="none" stroke="#E8A520" stroke-width="12"/>
+  <rect x="116" y="106" width="280" height="300" rx="4" fill="none" stroke="#3D8BFD" stroke-width="6"/>
+  <circle cx="256" cy="256" r="96" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256.0,172.0 272.8,215.3 315.4,196.6 296.7,239.2 340.0,256.0 296.7,272.8 315.4,315.4 272.8,296.7 256.0,340.0 239.2,296.7 196.6,315.4 215.3,272.8 172.0,256.0 215.3,239.2 196.6,196.6 239.2,215.3" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="256" r="34" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="386" cy="256" r="10" fill="#E8A520"/>
+  <circle cx="256" cy="386" r="10" fill="#E8A520"/>
+  <circle cx="126" cy="256" r="10" fill="#E8A520"/>
+  <circle cx="256" cy="126" r="10" fill="#E8A520"/>
+</svg>
