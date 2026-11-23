@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M256 280 C278.0 150 344.0 137.0 366 189.0 C349.5 234.5 355.0 260.5 333.0 280 C322.0 260.5 311.0 260.5 300.0 280 C289.0 267.0 272.5 267.0 256 280Z" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 280 L362.7 191.6" fill="none" stroke="#2E2A3B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 280 C234.0 150 168.0 137.0 146 189.0 C162.5 234.5 157.0 260.5 179.0 280 C190.0 260.5 201.0 260.5 212.0 280 C223.0 267.0 239.5 267.0 256 280Z" fill="#B9A0FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 280 L149.3 191.6" fill="none" stroke="#2E2A3B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M222 260 H290 L304 350 H208Z" fill="#8FDCA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="210" r="42" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M214 212 C200 150 242 130 256 150 C270 130 312 150 298 212 C288 170 224 170 214 212Z" fill="#8B5CF6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M214 200 L184 176 L220 224Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M298 200 L328 176 L292 224Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="240" cy="214" r="7.5" fill="#FFFFFF"/>
+  <circle cx="241" cy="215" r="5" fill="#1F1F24"/>
+  <circle cx="238" cy="212" r="1.6" fill="#FFFFFF"/>
+  <circle cx="272" cy="214" r="7.5" fill="#FFFFFF"/>
+  <circle cx="273" cy="215" r="5" fill="#1F1F24"/>
+  <circle cx="270" cy="212" r="1.6" fill="#FFFFFF"/>
+  <rect x="232" y="350" width="20" height="60" rx="8" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="262" y="350" width="20" height="60" rx="8" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M232 404 h22 l4 12 h-30Z M262 404 h22 l4 12 h-30Z" fill="#2F8A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

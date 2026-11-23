@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="170" y="290" width="172" height="150" rx="44" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="180" y="420" width="60" height="50" rx="14" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="420" width="60" height="50" rx="14" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="220" r="66" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M186 250 C180 350 250 410 256 410 C262 410 332 350 326 250 C310 310 202 310 186 250Z" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M186 200 C186 130 326 130 326 200Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="150" r="18" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="150" r="10" fill="#FFC83D"/>
+  <circle cx="232" cy="224" r="7.5" fill="#FFFFFF"/>
+  <circle cx="233" cy="225" r="5" fill="#1F1F24"/>
+  <circle cx="230" cy="222" r="1.6" fill="#FFFFFF"/>
+  <circle cx="280" cy="224" r="7.5" fill="#FFFFFF"/>
+  <circle cx="281" cy="225" r="5" fill="#1F1F24"/>
+  <circle cx="278" cy="222" r="1.6" fill="#FFFFFF"/>
+  <ellipse cx="256" cy="250" rx="16" ry="12" fill="#E0A878" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M380 440 L420 280" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M380 440 L420 280" fill="none" stroke="#9A6A3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M380 280 C400 250 450 250 470 280 C440 270 410 275 400 295Z" fill="#8A8F9B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>
