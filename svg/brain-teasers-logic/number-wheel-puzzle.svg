@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="200" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 256 L356 83" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 40 C12 0 88 0 88 45 C88 80 12 110 10 155 H92" transform="translate(240.4 101.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 256 L456 256" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 155 V5 L5 110 H98" transform="translate(353.0 166.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 256 L356 429" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 12 C40 0 8 40 8 100 C8 160 92 160 92 108 C92 65 30 60 10 95" transform="translate(353.0 296.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 256 L156 429" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 78 C12 78 12 5 50 5 C88 5 88 78 50 78 C6 78 6 155 50 155 C94 155 94 78 50 78Z" transform="translate(240.4 361.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 256 L56 256" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 34 L60 5 V155" transform="translate(108.1 296.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 5 C15 5 10 50 10 80 C10 110 15 155 50 155 C85 155 90 110 90 80 C90 50 85 5 50 5Z" transform="translate(147.5 296.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 256 L156 83" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 40 C14 0 86 0 86 42 C86 80 50 80 50 115 M50 148 V152" transform="translate(127.8 166.0) scale(0.3125)" fill="none" stroke="#F5913E" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="40" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

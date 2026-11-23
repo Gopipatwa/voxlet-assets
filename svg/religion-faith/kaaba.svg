@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="70,420 268,462 444,420 444,440 268,482 70,440" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="96,164 268,194 268,444 96,412" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="268,194 420,162 420,410 268,444" fill="#34343D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="96,164 248,138 420,162 268,194" fill="#45454F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="96,226 268,256 268,282 96,252" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="268,256 420,224 420,250 268,282" fill="#B97C12" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="326,308 384,296 384,392 326,404" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M120 239 L150 244 M180 249 L210 254 M240 254 L255 257" fill="none" stroke="#B97C12" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 266 L310 262 M340 256 L360 252 M390 245 L405 242" fill="none" stroke="#8A5C0E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

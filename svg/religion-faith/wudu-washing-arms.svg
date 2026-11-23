@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M100 360 L380 220" fill="none" stroke="#2E2A3B" stroke-width="90" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M100 360 L380 220" fill="none" stroke="#F2C29B" stroke-width="70" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(400 200) scale(-0.9 0.9)">
+    <path d="M-40 80 C-60 40 -66 0 -60 -30 C-56 -46 -36 -44 -36 -26 V-70 C-36 -84 -16 -84 -16 -70 V-86 C-16 -100 4 -100 4 -86 V-78 C4 -92 24 -92 24 -78 V-60 C24 -72 44 -72 44 -60 V10 C44 40 30 70 20 80 Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <path d="M180 260 C180 260 168 278 168 286 C168 298 192 298 192 286 C192 278 180 260 180 260Z" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M260 220 C260 220 248 238 248 246 C248 258 272 258 272 246 C272 238 260 220 260 220Z" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M330 190 C330 190 318 208 318 216 C318 228 342 228 342 216 C342 208 330 190 330 190Z" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

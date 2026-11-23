@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(52.5 20.0) scale(1.000)">
+    <path d="M251 316 L258 384 L260 436 Q269 445 278 436 L283 384 L282 314 Z" fill="#A0A4AB" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 422 H282 L285 442 H255 Z" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M175 311 L155 391 L166 438 Q175 445 184 434 L179 394 L205 320 Z" fill="#A0A4AB" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M162 422 H188 L191 442 H161 Z" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M120 259 C62 255 48 347 72 427 C92 367 102 307 124 291Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <polygon points="293,151 317,89 343,145" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M109 297 C104 245 136 232 172 235 C213 246 261 231 299 229 C338 236 350 286 344 315 C341 356 308 371 273 368 C237 365 201 352 172 358 C124 367 110 337 109 297 Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="166" cy="309" rx="40" ry="58" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M267 240 C296 225 295 159 310 144 L344 181 C333 211 350 278 338 322 Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M319.5 205.0 L373.1 223.0 A21.0 21.0 0 0 0 397.5 191.7 L367.1 144.1 A41.0 41.0 0 1 0 319.5 205.0 Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M273 316 L281 384 L282 436 Q292 446 302 436 L308 384 L308 314 Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M146 310 L126 391 L139 438 Q149 446 159 434 L155 394 L183 321 Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M109 297 C104 245 136 232 172 235 C213 246 261 231 299 229 C338 236 350 286 344 315 C341 356 308 371 273 368 C237 365 201 352 172 358 C124 367 110 337 109 297 Z" fill="#C9CED6"/>
+    <ellipse cx="166" cy="309" rx="40" ry="58" fill="#C9CED6"/>
+    <path d="M267 240 C296 225 295 159 310 144 L344 181 C333 211 350 278 338 322 Z" fill="#C9CED6"/>
+    <path d="M319.5 205.0 L373.1 223.0 A21.0 21.0 0 0 0 397.5 191.7 L367.1 144.1 A41.0 41.0 0 1 0 319.5 205.0 Z" fill="#C9CED6"/>
+    <path d="M273 316 L281 384 L282 436 Q292 446 302 436 L308 384 L308 314 Z" fill="#C9CED6"/>
+    <path d="M146 310 L126 391 L139 438 Q149 446 159 434 L155 394 L183 321 Z" fill="#C9CED6"/>
+    <path d="M279 422 H305 L308 442 H278 Z" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M136 422 H162 L165 442 H135 Z" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <defs><clipPath id="clip-1a068eb018"><path d="M109 297 C104 245 136 232 172 235 C213 246 261 231 299 229 C338 236 350 286 344 315 C341 356 308 371 273 368 C237 365 201 352 172 358 C124 367 110 337 109 297 Z"/></clipPath></defs>
+    <g clip-path="url(#clip-1a068eb018)">
+    </g>
+    <path d="M192 267 C204 308 192 337 174 356" fill="none" stroke="#8C9095" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M278 234 C308 217 291 151 312 138" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M278 234 C308 217 291 151 312 138" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="380" cy="203" r="20" fill="#E8B878"/>
+    <path d="M395 212 Q382 218 369 212" fill="none" stroke="#7F6542" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="391" cy="196" rx="6" ry="5" fill="#1F1F24"/>
+    <g id="part-eye-right" data-pivot="346 159">
+      <circle cx="345.7" cy="158.7" r="7.0" fill="#1F1F24"/>
+      <circle cx="348.1" cy="156.3" r="2.4" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

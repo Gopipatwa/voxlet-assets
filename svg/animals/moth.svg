@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="part-wing-left" data-pivot="256 256">
+    <path d="M250 250 C196 86 56 86 66 196 C76 256 156 266 250 256Z" fill="#B7A898" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M250 266 C146 276 96 326 126 386 C156 426 226 376 250 276Z" fill="#9A8A7A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g id="part-wing-right" data-pivot="256 256">
+    <path d="M262 250 C316 86 456 86 446 196 C436 256 356 266 262 256Z" fill="#B7A898" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M262 266 C366 276 416 326 386 386 C356 426 286 376 262 276Z" fill="#9A8A7A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <circle cx="126" cy="176" r="16" fill="#6E5A4A"/>
+  <circle cx="386" cy="176" r="16" fill="#6E5A4A"/>
+  <circle cx="166" cy="346" r="12" fill="#6E5A4A"/>
+  <circle cx="346" cy="346" r="12" fill="#6E5A4A"/>
+  <ellipse cx="256" cy="276" rx="14" ry="110" fill="#6E5A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="156" r="20" fill="#6E5A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M248 140 C226 96 206 86 196 80 M264 140 C286 96 306 86 316 80" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M248 140 C226 96 206 86 196 80 M264 140 C286 96 306 86 316 80" fill="none" stroke="#6E5A4A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

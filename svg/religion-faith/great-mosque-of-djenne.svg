@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="20" y="420" width="472" height="50" rx="20" fill="#EBCB94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="70" y="220" width="372" height="210" fill="#C68A5C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M90 220 V140 C90 120 140 120 140 140 V220" fill="#C68A5C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M230 220 V140 C230 120 280 120 280 140 V220" fill="#C68A5C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M370 220 V140 C370 120 420 120 420 140 V220" fill="#C68A5C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M90 260 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 320 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 380 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 260 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 320 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 380 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 260 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 320 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 380 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 260 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 320 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 380 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 260 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 320 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 380 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M340 260 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M340 320 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M340 380 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M390 260 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M390 320 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M390 380 h20" fill="none" stroke="#8E5A3A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

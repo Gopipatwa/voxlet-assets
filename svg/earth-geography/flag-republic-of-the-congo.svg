@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-republic-of-the-congo"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-republic-of-the-congo)">
+    <polygon points="0.0,0.0 300.0,0.0 0.0,200.0" fill="#009543"/>
+    <polygon points="300.0,0.0 300.0,200.0 0.0,200.0" fill="#DC241F"/>
+    <path d="M0 200 L300 0" fill="none" stroke="#FBDE4A" stroke-width="80" stroke-linecap="butt" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

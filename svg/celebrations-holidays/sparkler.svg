@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M150 460 L300 200" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 460 L300 200" fill="none" stroke="#C9CED6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L400 200" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L387 250" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L350 287" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L300 300" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L250 287" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L213 250" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L200 200" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L213 150" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L250 113" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L300 100" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L350 113" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 200 L387 150" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="300" cy="200" r="24" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-togo"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-togo)">
+    <rect x="0" y="0" width="300" height="40.5" fill="#006A4E"/>
+    <rect x="0" y="40" width="300" height="40.5" fill="#FFCE00"/>
+    <rect x="0" y="80" width="300" height="40.5" fill="#006A4E"/>
+    <rect x="0" y="120" width="300" height="40.5" fill="#FFCE00"/>
+    <rect x="0" y="160" width="300" height="40.5" fill="#006A4E"/>
+    <rect x="0" y="0" width="120" height="120" fill="#D21034"/>
+    <polygon points="60.0,26.0 67.6,49.5 92.3,49.5 72.4,64.0 80.0,87.5 60.0,73.0 40.0,87.5 47.6,64.0 27.7,49.5 52.4,49.5" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,164 @@
+{
+  "id": "travel-tourism",
+  "name": "Travel & Tourism",
+  "description": "Luggage, tickets, hotels, camping, beach holidays, sightseeing, souvenirs and visa stamps. Vehicles belong to transport-vehicles, passports and ID to law-government, landmarks to landmarks.",
+  "groups": [
+    {
+      "id": "luggage",
+      "name": "Luggage",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["roll", "pop"],
+      "items": [
+        "suitcase",
+        ["trolley bag", "rolling suitcase"],
+        ["backpack", "rucksack"],
+        ["travel bag", "duffel bag"],
+        "carry-on bag",
+        "packed suitcase",
+        "luggage tag",
+        "luggage scale",
+        "travel pillow",
+        "toiletry bag"
+      ]
+    },
+    {
+      "id": "tickets-docs",
+      "name": "Tickets and bookings",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        "ticket",
+        ["plane ticket", "air ticket"],
+        "boarding pass",
+        "train ticket",
+        "bus ticket",
+        "e-ticket",
+        "visa stamp",
+        "travel insurance",
+        "itinerary",
+        "hotel booking",
+        "travel checklist"
+      ]
+    },
+    {
+      "id": "hotel",
+      "name": "Hotels and stays",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "hotel",
+        "hotel room",
+        "hotel bed",
+        ["reception desk", "hotel reception"],
+        "room key card",
+        "do not disturb sign",
+        "room service",
+        "resort",
+        "hostel",
+        "guest house",
+        "holiday villa",
+        "houseboat"
+      ]
+    },
+    {
+      "id": "camping",
+      "name": "Camping and outdoors",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["sway", "flicker"],
+      "items": [
+        "camping",
+        "tent",
+        "campfire",
+        "sleeping bag",
+        "camping lantern",
+        "camping stove",
+        "hiking boots",
+        "hiking trail",
+        "trekking pole",
+        "picnic basket",
+        ["caravan", "camper"],
+        "log cabin"
+      ]
+    },
+    {
+      "id": "beach",
+      "name": "Beach holiday",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["wave", "sway"],
+      "items": [
+        "beach",
+        "beach umbrella",
+        ["beach chair", "deckchair"],
+        "sunglasses",
+        "sunscreen",
+        "sun hat",
+        "flip-flops",
+        "sandcastle",
+        "bucket and spade",
+        "surfboard",
+        "beach ball",
+        "swimming ring",
+        "seaside resort"
+      ]
+    },
+    {
+      "id": "sightseeing",
+      "name": "Sightseeing",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "sightseeing",
+        "tourist with camera",
+        "city tour bus",
+        "guided tour",
+        "tourist map",
+        "travel guidebook",
+        "selfie stick",
+        "postcard",
+        "binoculars",
+        "museum visit",
+        "cruise holiday",
+        "hot air balloon ride",
+        "road trip",
+        "world tour"
+      ]
+    },
+    {
+      "id": "souvenirs",
+      "name": "Souvenirs",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "souvenir",
+        "fridge magnet",
+        "snow globe",
+        "keychain souvenir",
+        "souvenir t-shirt",
+        "miniature landmark"
+      ]
+    },
+    {
+      "id": "travel-places",
+      "name": "Travel places",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "airport terminal",
+        "departure board",
+        "immigration counter",
+        "currency exchange counter",
+        "duty free shop",
+        "travel agency",
+        "tourist information centre"
+      ]
+    }
+  ]
+}

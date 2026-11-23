@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(100 290) scale(0.4 0.4) translate(-256 -256)">
+    <path d="M256 170 C200 90 150 130 200 170 M256 170 C312 90 362 130 312 170" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M256 170 C200 90 150 130 200 170 M256 170 C312 90 362 130 312 170" fill="none" stroke="#3D8BFD" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="100" y="220" width="312" height="230" rx="16" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="80" y="170" width="352" height="70" rx="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="232" y="170" width="48" height="280" fill="#3D8BFD"/>
+  </g>
+  <path d="M8 155 L50 5 L92 155 M24 100 H76" transform="translate(84.4 85.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(256 290) scale(0.4 0.4) translate(-256 -256)">
+    <path d="M256 170 C200 90 150 130 200 170 M256 170 C312 90 362 130 312 170" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M256 170 C200 90 150 130 200 170 M256 170 C312 90 362 130 312 170" fill="none" stroke="#3D8BFD" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="100" y="220" width="312" height="230" rx="16" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="80" y="170" width="352" height="70" rx="14" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="232" y="170" width="48" height="280" fill="#3D8BFD"/>
+  </g>
+  <path d="M14 155 V5 H55 C95 5 95 78 55 78 H14 M55 78 C100 78 100 155 55 155 H14" transform="translate(240.4 85.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(412 290) scale(0.4 0.4) translate(-256 -256)">
+    <path d="M256 170 C200 90 150 130 200 170 M256 170 C312 90 362 130 312 170" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M256 170 C200 90 150 130 200 170 M256 170 C312 90 362 130 312 170" fill="none" stroke="#3D8BFD" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="100" y="220" width="312" height="230" rx="16" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="80" y="170" width="352" height="70" rx="14" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="232" y="170" width="48" height="280" fill="#3D8BFD"/>
+  </g>
+  <path d="M90 30 C70 0 10 0 10 80 C10 160 70 160 90 130" transform="translate(396.4 85.0) scale(0.3125)" fill="none" stroke="#2E2A3B" stroke-width="25.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

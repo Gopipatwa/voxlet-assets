@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-albania"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-albania)">
+    <rect x="0" y="0" width="300" height="200" fill="#E41E20"/>
+    <path d="M150 60 L160 80 L200 60 L190 100 L210 110 L170 120 L160 150 H140 L130 120 L90 110 L110 100 L100 60 L140 80 Z" fill="#000000"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

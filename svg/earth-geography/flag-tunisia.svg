@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-tunisia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-tunisia)">
+    <rect x="0" y="0" width="300" height="200" fill="#E70013"/>
+    <circle cx="150" cy="100" r="50" fill="#FFFFFF"/>
+    <circle cx="146" cy="100" r="36" fill="#E70013"/>
+    <circle cx="155.36" cy="100" r="28.8" fill="#FFFFFF"/>
+    <polygon points="142.0,100.0 154.4,96.0 154.4,82.9 162.1,93.5 174.6,89.4 166.9,100.0 174.6,110.6 162.1,106.5 154.4,117.1 154.4,104.0" fill="#E70013"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

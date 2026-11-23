@@ -1,0 +1,116 @@
+{
+  "id": "safety-emergency",
+  "name": "Safety & Emergency",
+  "description": "Fire safety, emergency kits, life jackets, road, home, water and online safety, and disaster drills. Hazard and safety signs belong to symbols-signs, emergency vehicles to transport-vehicles, first aid to health-medicine.",
+  "groups": [
+    {
+      "id": "fire-safety",
+      "name": "Fire safety",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pulse", "shake"],
+      "items": [
+        "fire safety",
+        "fire extinguisher",
+        "fire alarm",
+        "smoke detector",
+        "fire hose",
+        "fire blanket",
+        "fire hydrant",
+        "fire escape ladder",
+        "sprinkler system",
+        "fire drill",
+        "stop drop and roll"
+      ]
+    },
+    {
+      "id": "emergency-kit",
+      "name": "Emergency kit",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "emergency kit",
+        ["emergency bag", "go bag"],
+        "emergency torch",
+        "emergency whistle",
+        "emergency radio",
+        "emergency water supply",
+        "emergency food supply",
+        "emergency contact list",
+        ["emergency phone number", "helpline"]
+      ]
+    },
+    {
+      "id": "water-safety",
+      "name": "Water safety",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["float"],
+      "items": [
+        "life jacket",
+        ["lifebuoy", "life ring"],
+        "swimming float",
+        "lifeguard tower",
+        "water safety rules"
+      ]
+    },
+    {
+      "id": "road-home-safety",
+      "name": "Road and home safety",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "road safety",
+        "wear a helmet",
+        "look both ways",
+        "cross at the zebra crossing",
+        "child seat",
+        "home safety",
+        "child safety lock",
+        "electrical safety",
+        "gas leak safety",
+        "kitchen safety",
+        "safe medicine storage",
+        "stranger danger"
+      ]
+    },
+    {
+      "id": "online-safety",
+      "name": "Online safety",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "online safety",
+        "safe browsing",
+        "privacy settings",
+        "report button"
+      ]
+    },
+    {
+      "id": "disasters",
+      "name": "Disaster drills and response",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["shake"],
+      "items": [
+        "disaster drill",
+        ["earthquake drill", "drop cover and hold"],
+        "duck and cover",
+        "flood safety",
+        "evacuation route",
+        "evacuation",
+        ["emergency shelter", "relief camp"],
+        "relief supplies",
+        "rescue team",
+        "search and rescue dog",
+        "sandbags",
+        "cyclone shelter",
+        "emergency siren",
+        "emergency alert phone"
+      ]
+    }
+  ]
+}

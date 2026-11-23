@@ -1,0 +1,172 @@
+{
+  "id": "fantasy-mythology",
+  "name": "Fantasy & Mythology",
+  "description": "Mythical creatures (dragon, unicorn, phoenix, griffin, pegasus, mermaid, Cerberus, Minotaur, Hydra, kraken, yeti…), fairies and giants, magic items, and the symbols of Greek, Norse, Egyptian and other myths shown as objects. Gods and goddesses are never drawn, only their objects. Bigfoot and lake monsters belong to mysteries-unexplained.",
+  "groups": [
+    {
+      "id": "creatures-classic",
+      "name": "Mythical creatures",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["fly", "flap", "glow"],
+      "items": [
+        "dragon",
+        "chinese dragon",
+        "baby dragon",
+        "dragon egg",
+        "unicorn",
+        "phoenix",
+        ["griffin", "gryphon"],
+        "pegasus",
+        "mermaid",
+        "merman",
+        "sea serpent",
+        "kraken",
+        "hydra",
+        "cerberus",
+        "minotaur",
+        "centaur",
+        "chimera",
+        "basilisk",
+        "cyclops",
+        ["medusa's head", "gorgon"],
+        "harpy",
+        "sphinx creature",
+        "manticore",
+        ["roc", "giant bird"],
+        "thunderbird",
+        ["yeti", "abominable snowman"],
+        "werewolf",
+        "vampire bat myth",
+        "ghost",
+        "zombie",
+        "mummy monster",
+        "troll",
+        "ogre",
+        "goblin",
+        "gnome",
+        "dwarf miner",
+        "elf",
+        "giant",
+        "fairy",
+        "pixie",
+        ["genie", "jinn lamp spirit"],
+        "golem"
+      ]
+    },
+    {
+      "id": "world-myth-creatures",
+      "name": "Creatures from world myths",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["fly", "glow"],
+      "items": [
+        "garuda",
+        ["naga", "serpent naga"],
+        "makara",
+        ["nine-tailed fox", "kitsune"],
+        ["qilin", "kirin"],
+        "tengu",
+        "baku dream eater",
+        "simurgh",
+        "lamassu winged bull",
+        "bunyip",
+        "chupacabra"
+      ]
+    },
+    {
+      "id": "magic-items",
+      "name": "Magic items",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "twinkle"],
+      "items": [
+        "magic wand",
+        "crystal ball",
+        ["genie lamp", "magic lamp"],
+        ["magic carpet", "flying carpet"],
+        "spell book",
+        "potion bottle",
+        "cauldron",
+        "wizard hat",
+        "witch's broom",
+        "magic mirror",
+        "magic ring",
+        "treasure chest magic",
+        "enchanted sword",
+        "cloak of invisibility",
+        "magic beans",
+        "fairy dust",
+        ["crystal orb staff", "wizard staff"]
+      ]
+    },
+    {
+      "id": "greek-myth-objects",
+      "name": "Greek myth objects",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow", "spin"],
+      "items": [
+        "trident",
+        "thunderbolt",
+        "winged sandals",
+        "winged helmet",
+        "golden fleece",
+        "pandora's box",
+        "golden apple",
+        "lyre of orpheus",
+        "caduceus",
+        "aegis shield",
+        "labyrinth of the minotaur",
+        "trojan horse",
+        "achilles' heel arrow",
+        "mount olympus"
+      ]
+    },
+    {
+      "id": "norse-myth-objects",
+      "name": "Norse myth objects",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow", "spin"],
+      "items": [
+        ["war hammer", "thunder hammer"],
+        ["yggdrasil", "world tree"],
+        ["viking longship myth", "dragon ship"],
+        "rune stones",
+        "valhalla hall",
+        ["bifrost", "rainbow bridge"],
+        "horned helmet myth"
+      ]
+    },
+    {
+      "id": "egyptian-myth-objects",
+      "name": "Egyptian myth objects",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow"],
+      "items": [
+        ["scales of the afterlife", "feather of truth"],
+        "book of the dead",
+        "was sceptre",
+        ["solar barque", "sun boat"]
+      ]
+    },
+    {
+      "id": "fantasy-places",
+      "name": "Fantasy places",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["float", "fade"],
+      "items": [
+        "fairy tale castle",
+        "enchanted forest",
+        "floating island",
+        "dragon's lair",
+        "wizard's tower",
+        "gingerbread cottage",
+        "underworld gate"
+      ]
+    }
+  ]
+}

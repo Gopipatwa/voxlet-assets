@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-liberia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-liberia)">
+    <rect x="0" y="0" width="300" height="18.6818" fill="#BF0A30"/>
+    <rect x="0" y="18.1818" width="300" height="18.6818" fill="#FFFFFF"/>
+    <rect x="0" y="36.3636" width="300" height="18.6818" fill="#BF0A30"/>
+    <rect x="0" y="54.5455" width="300" height="18.6818" fill="#FFFFFF"/>
+    <rect x="0" y="72.7273" width="300" height="18.6818" fill="#BF0A30"/>
+    <rect x="0" y="90.9091" width="300" height="18.6818" fill="#FFFFFF"/>
+    <rect x="0" y="109.091" width="300" height="18.6818" fill="#BF0A30"/>
+    <rect x="0" y="127.273" width="300" height="18.6818" fill="#FFFFFF"/>
+    <rect x="0" y="145.455" width="300" height="18.6818" fill="#BF0A30"/>
+    <rect x="0" y="163.636" width="300" height="18.6818" fill="#FFFFFF"/>
+    <rect x="0" y="181.818" width="300" height="18.6818" fill="#BF0A30"/>
+    <rect x="0" y="0" width="91" height="91" fill="#002868"/>
+    <polygon points="45.0,16.0 51.7,36.7 73.5,36.7 55.9,49.5 62.6,70.3 45.0,57.5 27.4,70.3 34.1,49.5 16.5,36.7 38.3,36.7" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

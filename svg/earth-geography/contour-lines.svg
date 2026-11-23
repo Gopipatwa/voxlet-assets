@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="40" y="40" width="432" height="432" rx="30" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M96 306 Q76 216 116 151 Q156 86 236 91 Q316 96 376 146 Q436 196 431 271 Q426 346 361 386 Q296 426 206 411 Q116 396 96 306 Z" fill="none" stroke="#3D8BFD" stroke-width="8"/>
+  <path d="M131 295 Q116 225 147 174 Q178 123 240 127 Q303 131 350 170 Q396 209 392 268 Q389 326 338 357 Q287 389 217 377 Q147 365 131 295 Z" fill="none" stroke="#2C6BD6" stroke-width="8"/>
+  <path d="M166 284 Q155 234 178 197 Q200 161 245 164 Q290 166 323 194 Q357 222 354 264 Q351 306 315 329 Q278 351 228 343 Q178 334 166 284 Z" fill="none" stroke="#3D8BFD" stroke-width="8"/>
+  <path d="M198 274 Q191 242 206 218 Q220 195 249 197 Q278 198 299 216 Q321 234 319 261 Q317 288 294 303 Q270 317 238 312 Q206 306 198 274 Z" fill="none" stroke="#2C6BD6" stroke-width="8"/>
+  <path d="M227 265 Q224 249 231 237 Q238 225 252 226 Q267 227 278 236 Q288 245 288 259 Q287 272 275 279 Q263 287 247 284 Q231 281 227 265 Z" fill="none" stroke="#3D8BFD" stroke-width="8"/>
+  <polygon points="256,226 276,262 236,262" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

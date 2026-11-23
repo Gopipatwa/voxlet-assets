@@ -1,0 +1,186 @@
+{
+  "id": "landmarks",
+  "name": "Landmarks",
+  "description": "Named non-religious landmarks of every continent and natural wonders. Mosques, temples, churches and other places of worship belong to religion-faith; Stonehenge, Nazca lines and Easter Island heads to mysteries-unexplained; ancient ruins as history topics to history.",
+  "groups": [
+    {
+      "id": "landmarks-india",
+      "name": "Landmarks of India",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise", "pop"],
+      "items": [
+        "taj mahal",
+        ["red fort", "lal qila"],
+        "qutub minar",
+        "india gate",
+        "gateway of india",
+        "charminar",
+        "hawa mahal",
+        "amber fort",
+        "mysore palace",
+        "victoria memorial",
+        "humayun's tomb",
+        "fatehpur sikri",
+        "buland darwaza",
+        "gol gumbaz",
+        "hampi",
+        "jantar mantar",
+        "mehrangarh fort",
+        "howrah bridge",
+        "marine drive"
+      ]
+    },
+    {
+      "id": "landmarks-middle-east",
+      "name": "Landmarks of the Middle East",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise", "pop"],
+      "items": [
+        "burj khalifa",
+        "burj al arab",
+        "museum of the future",
+        "dubai frame",
+        "palm jumeirah",
+        ["kingdom centre", "kingdom tower riyadh"],
+        "jeddah tower",
+        ["al ula", "hegra"],
+        "masmak fortress",
+        ["petra", "al-khazneh"],
+        "pyramids of giza",
+        ["great sphinx", "sphinx"],
+        "abu simbel",
+        "cairo tower",
+        ["khalifa fountain", "dubai fountain"],
+        "kuwait towers",
+        "museum of islamic art doha",
+        "persepolis",
+        "azadi tower",
+        "galata tower",
+        ["babylon gate", "ishtar gate"]
+      ]
+    },
+    {
+      "id": "landmarks-europe",
+      "name": "Landmarks of Europe",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise", "pop"],
+      "items": [
+        "eiffel tower",
+        "arc de triomphe",
+        "louvre pyramid",
+        ["big ben", "elizabeth tower"],
+        "tower bridge",
+        "london eye",
+        "buckingham palace",
+        "colosseum",
+        "leaning tower of pisa",
+        "trevi fountain",
+        ["acropolis", "parthenon"],
+        "brandenburg gate",
+        "neuschwanstein castle",
+        "alhambra",
+        "kremlin",
+        "atomium",
+        "windmills of kinderdijk",
+        "edinburgh castle"
+      ]
+    },
+    {
+      "id": "landmarks-asia",
+      "name": "Landmarks of Asia",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise", "pop"],
+      "items": [
+        "great wall of china",
+        "forbidden city",
+        "terracotta army",
+        "petronas towers",
+        "marina bay sands",
+        "tokyo tower",
+        "tokyo skytree",
+        "taipei 101",
+        "merlion"
+      ]
+    },
+    {
+      "id": "landmarks-americas",
+      "name": "Landmarks of the Americas",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise", "pop"],
+      "items": [
+        "statue of liberty",
+        "golden gate bridge",
+        "empire state building",
+        "white house",
+        "space needle",
+        "cn tower",
+        "machu picchu",
+        "chichen itza",
+        "teotihuacan",
+        "panama canal"
+      ]
+    },
+    {
+      "id": "landmarks-africa-oceania",
+      "name": "Landmarks of Africa and Oceania",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise", "pop"],
+      "items": [
+        "sydney opera house",
+        "sydney harbour bridge",
+        ["uluru", "ayers rock"],
+        "table mountain cable car"
+      ]
+    },
+    {
+      "id": "natural-wonders",
+      "name": "Natural wonders",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["fade", "rise"],
+      "items": [
+        "grand canyon",
+        "niagara falls",
+        "victoria falls",
+        "angel falls",
+        "iguazu falls",
+        "great barrier reef",
+        "amazon rainforest",
+        "northern lights wonder",
+        "mount everest view",
+        "ha long bay",
+        "paricutin volcano",
+        "harbour of rio",
+        "giant's causeway",
+        "cappadocia",
+        "pamukkale",
+        ["salar de uyuni", "salt flats"],
+        "zhangjiajie pillars",
+        ["yellowstone geyser", "old faithful"],
+        "antelope canyon",
+        "plitvice lakes",
+        "rann of kutch",
+        "valley of flowers"
+      ]
+    },
+    {
+      "id": "seven-wonders",
+      "name": "Seven wonders lists",
+      "kind": "tile",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        "seven wonders of the world",
+        "seven wonders of the ancient world",
+        "new seven wonders",
+        "seven natural wonders"
+      ]
+    }
+  ]
+}

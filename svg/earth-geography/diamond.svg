@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="186,166 326,166 406,226 256,426 106,226" fill="#D8F0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="186,166 326,166 296,226 216,226" fill="#FFFFFF"/>
+  <polygon points="106,226 216,226 256,426" fill="#FFFFFF"/>
+  <polygon points="406,226 296,226 256,426" fill="#9CCFF0"/>
+  <path d="M106 226 H406 M186 166 L216 226 L256 426 L296 226 L326 166" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="206,176 236,176 216,206" fill="#FFFFFF"/>
+  <polygon points="420.0,84.0 425.7,104.3 446.0,110.0 425.7,115.7 420.0,136.0 414.3,115.7 394.0,110.0 414.3,104.3" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="90.0,124.0 95.7,144.3 116.0,150.0 95.7,155.7 90.0,176.0 84.3,155.7 64.0,150.0 84.3,144.3" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="430.0,354.0 435.7,374.3 456.0,380.0 435.7,385.7 430.0,406.0 424.3,385.7 404.0,380.0 424.3,374.3" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

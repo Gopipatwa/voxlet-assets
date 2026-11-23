@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="110" y="240" width="292" height="210" fill="#E8DCC8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="130" y="330" width="252" height="120" fill="#E8DCC8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M141 450 V390 C141 354 162 347 162 342 C162 347 182 354 182 390 V450Z" fill="#7A6A55"/>
+  <path d="M204 450 V390 C204 354 224 347 224 342 C224 347 245 354 245 390 V450Z" fill="#7A6A55"/>
+  <path d="M267 450 V390 C267 354 288 347 288 342 C288 347 308 354 308 390 V450Z" fill="#7A6A55"/>
+  <path d="M330 450 V390 C330 354 350 347 350 342 C350 347 371 354 371 390 V450Z" fill="#7A6A55"/>
+  <rect x="90" y="220" width="332" height="30" fill="#C9B79A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M220.0 220 C178.0 220 178.0 192.0 199.0 171.0 C211.6 185.0 215.8 164.0 220.0 150.0 C236.8 178.0 262.0 192.0 262.0 209.5 C262.0 220 241.0 220 220.0 220Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M292.0 220 C250.0 220 250.0 192.0 271.0 171.0 C283.6 185.0 287.8 164.0 292.0 150.0 C308.8 178.0 334.0 192.0 334.0 209.5 C334.0 220 313.0 220 292.0 220Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 220 C196.0 220 196.0 180.0 226.0 150.0 C244.0 170.0 250.0 140.0 256 120.0 C280.0 160.0 316.0 180.0 316.0 205.0 C316.0 220 286.0 220 256 220Z" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 220 C220.0 220 220.0 196.0 238.0 178.0 C248.8 190.0 252.4 172.0 256 160.0 C270.4 184.0 292.0 196.0 292.0 211.0 C292.0 220 274.0 220 256 220Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

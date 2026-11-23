@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-burkina-faso"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-burkina-faso)">
+    <rect x="0" y="0" width="300" height="100.5" fill="#EF2B2D"/>
+    <rect x="0" y="100" width="300" height="100.5" fill="#009E49"/>
+    <polygon points="150.0,66.0 157.6,89.5 182.3,89.5 162.4,104.0 170.0,127.5 150.0,113.0 130.0,127.5 137.6,104.0 117.7,89.5 142.4,89.5" fill="#FCD116"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

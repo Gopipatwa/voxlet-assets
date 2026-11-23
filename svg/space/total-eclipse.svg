@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#05070D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="443.9,435.2 446.0,438.4 449.2,440.5 446.0,442.6 443.9,445.8 441.8,442.6 438.6,440.5 441.8,438.4" fill="#FFF1C2"/>
+  <polygon points="85.0,385.5 87.1,392.1 93.6,394.2 87.1,396.3 85.0,402.9 82.8,396.3 76.3,394.2 82.8,392.1" fill="#FFF1C2"/>
+  <polygon points="325.9,168.9 328.1,174.8 334.0,177.0 328.1,179.1 325.9,185.0 323.8,179.1 317.9,177.0 323.8,174.8" fill="#FFF1C2"/>
+  <polygon points="300.0,283.7 302.1,287.3 305.8,289.5 302.1,291.6 300.0,295.2 297.9,291.6 294.2,289.5 297.9,287.3" fill="#FFF1C2"/>
+  <polygon points="227.4,203.5 229.6,210.0 236.1,212.1 229.6,214.3 227.4,220.8 225.3,214.3 218.8,212.1 225.3,210.0" fill="#FFF1C2"/>
+  <polygon points="459.9,433.4 462.0,439.0 467.6,441.2 462.0,443.3 459.9,448.9 457.7,443.3 452.1,441.2 457.7,439.0" fill="#FFF1C2"/>
+  <path d="M406 256 L476 256" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M401 295 L469 313" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M386 331 L447 366" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M362 362 L412 412" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M331 386 L366 447" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M295 401 L313 469" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 406 L256 476" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M217 401 L199 469" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M181 386 L146 447" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 362 L100 412" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M126 331 L65 366" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M111 295 L43 313" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M106 256 L36 256" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M111 217 L43 199" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M126 181 L65 146" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 150 L100 100" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M181 126 L146 65" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M217 111 L199 43" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 106 L256 36" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M295 111 L313 43" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M331 126 L366 65" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M362 150 L412 100" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M386 181 L447 146" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M401 217 L469 199" fill="none" stroke="#FFF1C2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="140" fill="#05070D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

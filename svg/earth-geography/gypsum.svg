@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <ellipse cx="256" cy="420" rx="150" ry="34" fill="#EBD49A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="rotate(-24 190 420)">
+    <polygon points="168,420 176,200 190,180 204,200 212,420" fill="#F6F2EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="rotate(0 256 420)">
+    <polygon points="234,420 242,140 256,120 270,140 278,420" fill="#F6F2EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="rotate(22 320 420)">
+    <polygon points="298,420 306,190 320,170 334,190 342,420" fill="#F6F2EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="rotate(-48 230 420)">
+    <polygon points="208,420 216,260 230,240 244,260 252,420" fill="#F6F2EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="rotate(46 290 420)">
+    <polygon points="268,420 276,250 290,230 304,250 312,420" fill="#F6F2EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="60" y="80" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="188" y="80" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="316" y="80" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="444" y="80" width="64" height="56" fill="#2E2A3B"/>
+  <path d="M60 136 H452" stroke="#C9CED6" stroke-width="4"/>
+  <rect x="80" y="140" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="208" y="140" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="336" y="140" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="464" y="140" width="64" height="56" fill="#2E2A3B"/>
+  <path d="M60 196 H452" stroke="#C9CED6" stroke-width="4"/>
+  <rect x="100" y="200" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="228" y="200" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="356" y="200" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="484" y="200" width="64" height="56" fill="#2E2A3B"/>
+  <path d="M60 256 H452" stroke="#C9CED6" stroke-width="4"/>
+  <rect x="80" y="260" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="208" y="260" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="336" y="260" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="464" y="260" width="64" height="56" fill="#2E2A3B"/>
+  <path d="M60 316 H452" stroke="#C9CED6" stroke-width="4"/>
+  <rect x="60" y="320" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="188" y="320" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="316" y="320" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="444" y="320" width="64" height="56" fill="#2E2A3B"/>
+  <path d="M60 376 H452" stroke="#C9CED6" stroke-width="4"/>
+  <rect x="80" y="380" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="208" y="380" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="336" y="380" width="64" height="56" fill="#2E2A3B"/>
+  <rect x="464" y="380" width="64" height="56" fill="#2E2A3B"/>
+  <path d="M60 436 H452" stroke="#C9CED6" stroke-width="4"/>
+  <rect x="60" y="80" width="392" height="356" fill="none" stroke="#FFFFFF" stroke-width="0"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#1E2A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="417.0,139.4 411.6,141.9 405.9,143.5 400.0,144.0 394.1,143.5 388.4,141.9 383.0,139.4 378.1,136.0 374.0,131.9 370.6,127.0 368.1,121.6 366.5,115.9 366.0,110.0 366.5,104.1 368.1,98.4 370.6,93.0 374.0,88.1 378.1,84.0 383.0,80.6 388.4,78.1 394.1,76.5 400.0,76.0 405.9,76.5 411.6,78.1 417.0,80.6 423.4,85.1 418.9,83.9 414.3,83.5 409.7,83.9 405.2,85.1 401.0,87.0 397.2,89.7 394.0,93.0 391.3,96.7 389.4,100.9 388.2,105.4 387.8,110.0 388.2,114.6 389.4,119.1 391.3,123.3 394.0,127.0 397.2,130.3 401.0,133.0 405.2,134.9 409.7,136.1 414.3,136.5 418.9,136.1 423.4,134.9" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="360" width="432" height="40" rx="8" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(180 330) scale(0.5) translate(-256 -330)">
+    <ellipse cx="196" cy="280" rx="34" ry="18" fill="#6E4A2A" transform="rotate(0 196 280)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="246" cy="266" rx="34" ry="18" fill="#6E4A2A" transform="rotate(20 246 266)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="296" cy="276" rx="34" ry="18" fill="#6E4A2A" transform="rotate(-14 296 276)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="336" cy="290" rx="34" ry="18" fill="#6E4A2A" transform="rotate(30 336 290)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="166" cy="300" rx="34" ry="18" fill="#6E4A2A" transform="rotate(-30 166 300)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M110 300 H402 C402 380 340 420 256 420 C172 420 110 380 110 300Z" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="translate(330 300) scale(0.7)">
+    <path d="M-40 -80 H40 L30 80 H-30Z" fill="#D9EEFB" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M-35 -20 H35 L30 76 H-30Z" fill="#8FD0FF"/>
+  </g>
+</svg>

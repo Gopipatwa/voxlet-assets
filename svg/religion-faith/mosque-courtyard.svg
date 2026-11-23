@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="150" width="432" height="150" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M53 300 V225 C53 180 76 171 76 165 C76 171 99 180 99 225 V300Z" fill="#8FA6C9"/>
+  <path d="M125 300 V225 C125 180 148 171 148 165 C148 171 171 180 171 225 V300Z" fill="#8FA6C9"/>
+  <path d="M197 300 V225 C197 180 220 171 220 165 C220 171 243 180 243 225 V300Z" fill="#8FA6C9"/>
+  <path d="M269 300 V225 C269 180 292 171 292 165 C292 171 315 180 315 225 V300Z" fill="#8FA6C9"/>
+  <path d="M341 300 V225 C341 180 364 171 364 165 C364 171 387 180 387 225 V300Z" fill="#8FA6C9"/>
+  <path d="M413 300 V225 C413 180 436 171 436 165 C436 171 459 180 459 225 V300Z" fill="#8FA6C9"/>
+  <rect x="20" y="300" width="472" height="170" fill="#EEF0F3"/>
+  <ellipse cx="256" cy="380" rx="80" ry="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="244" y="320" width="24" height="60" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

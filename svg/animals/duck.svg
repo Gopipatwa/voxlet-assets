@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(36.1 6.0) scale(1.000)">
+    <path d="M40 387 C120 376 200 399 280 387 C360 376 420 395 480 387 V470 H40Z" fill="#8FD0FF"/>
+    <polygon points="159,352 89,242 59,262 139,382" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="230" cy="360" rx="112" ry="78" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-wing-left" data-pivot="230 337">
+      <path d="M269 333 C208 313 129 344 135 387 C185 395 252 376 269 333Z" fill="#E5E7EB" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+    <circle cx="311" cy="302" r="50" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M346 294 H391 C403 294 403 319 391 319 H346Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-eye-right" data-pivot="326 294">
+      <circle cx="325.6" cy="294.0" r="8.0" fill="#1F1F24"/>
+      <circle cx="328.4" cy="291.2" r="2.8" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

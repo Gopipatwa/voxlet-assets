@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-belize"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-belize)">
+    <rect x="0" y="0" width="300" height="20.5" fill="#CE1126"/>
+    <rect x="0" y="20" width="300" height="160.5" fill="#003F87"/>
+    <rect x="0" y="180" width="300" height="20.5" fill="#CE1126"/>
+    <circle cx="150" cy="100" r="62" fill="#FFFFFF"/>
+    <circle cx="150" cy="100" r="52" fill="none" stroke="#2A7A2A" stroke-width="10"/>
+    <path d="M132 80 H168 V108 C168 120 158 126 150 128 C142 126 132 120 132 108 Z" fill="#C9A04A"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,186 @@
+{
+  "id": "time-calendar",
+  "name": "Time & Calendar",
+  "description": "Clocks and timers, a clock face for each hour, calendars, weekdays, Gregorian and Hindu months, times of day and units of time. Islamic months belong to religion-faith, seasons to weather-climate, smartwatches to technology, deadlines and routines to concepts-ideas.",
+  "groups": [
+    {
+      "id": "clocks-timers",
+      "name": "Clocks and timers",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["tick", "pop", "ring"],
+      "items": [
+        ["clock", "wall clock"],
+        ["alarm clock"],
+        ["analogue clock", "analog clock"],
+        ["digital clock"],
+        ["wristwatch", "watch", "wrist watch"],
+        ["pocket watch"],
+        ["stopwatch"],
+        ["kitchen timer", "egg timer"],
+        ["countdown timer", "countdown clock"],
+        ["hourglass", "sand timer", "sand clock"],
+        ["sundial"],
+        ["water clock", "clepsydra"],
+        ["candle clock"],
+        ["cuckoo clock"],
+        ["grandfather clock", "pendulum clock"],
+        ["clock tower"],
+        ["melting clock"],
+        ["broken clock", "stopped clock"],
+        ["clock with wings", "time flying clock"]
+      ]
+    },
+    {
+      "id": "clock-faces",
+      "name": "Clock faces for each hour",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["tick", "pop"],
+      "items": [
+        ["one o'clock", "1 o'clock"],
+        ["two o'clock", "2 o'clock"],
+        ["three o'clock", "3 o'clock"],
+        ["four o'clock", "4 o'clock"],
+        ["five o'clock", "5 o'clock"],
+        ["six o'clock", "6 o'clock"],
+        ["seven o'clock", "7 o'clock"],
+        ["eight o'clock", "8 o'clock"],
+        ["nine o'clock", "9 o'clock"],
+        ["ten o'clock", "10 o'clock"],
+        ["eleven o'clock", "11 o'clock"],
+        ["twelve o'clock", "12 o'clock"],
+        ["quarter past", "quarter past the hour"],
+        ["half past", "half past the hour"],
+        ["quarter to", "quarter to the hour"]
+      ]
+    },
+    {
+      "id": "calendars",
+      "name": "Calendars and planners",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "slide", "open"],
+      "items": [
+        ["calendar", "calendar page"],
+        ["desk calendar"],
+        ["wall calendar"],
+        ["tear-off calendar", "daily calendar"],
+        ["date circled on calendar", "marked date", "save the date"],
+        ["planner", "diary planner"],
+        ["schedule", "weekly schedule"],
+        ["event reminder", "reminder"],
+        ["gregorian calendar"],
+        ["hijri calendar", "islamic calendar"],
+        ["hindu calendar", "panchang"],
+        ["lunar calendar"],
+        ["chinese calendar", "chinese zodiac calendar"],
+        ["leap year", "29 february", "leap day"],
+        ["weekend", "saturday and sunday"]
+      ]
+    },
+    {
+      "id": "weekdays",
+      "name": "Days of the week",
+      "kind": "tile",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        ["monday"],
+        ["tuesday"],
+        ["wednesday"],
+        ["thursday"],
+        ["friday", "jumuah day"],
+        ["saturday"],
+        ["sunday"]
+      ]
+    },
+    {
+      "id": "gregorian-months",
+      "name": "Gregorian months",
+      "kind": "tile",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        ["january"],
+        ["february"],
+        ["march"],
+        ["april"],
+        ["may"],
+        ["june"],
+        ["july"],
+        ["august"],
+        ["september"],
+        ["october"],
+        ["november"],
+        ["december"]
+      ]
+    },
+    {
+      "id": "hindu-months",
+      "name": "Hindu months",
+      "kind": "tile",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        ["chaitra", "chait"],
+        ["vaishakha", "baisakh", "vaisakh"],
+        ["jyeshtha", "jeth"],
+        ["ashadha", "asadh", "aashaadh"],
+        ["shravana", "sawan", "shravan"],
+        ["bhadrapada", "bhadon"],
+        ["ashvin", "ashwin", "kunwar"],
+        ["kartika", "kartik"],
+        ["margashirsha", "agahan", "aghan"],
+        ["pausha", "paush", "poush"],
+        ["magha", "magh"],
+        ["phalguna", "phagun", "falgun"]
+      ]
+    },
+    {
+      "id": "times-of-day",
+      "name": "Times of day",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["rise", "fade"],
+      "items": [
+        ["dawn", "daybreak", "first light"],
+        ["sunrise"],
+        ["morning"],
+        ["noon", "midday"],
+        ["afternoon"],
+        ["sunset"],
+        ["dusk", "nightfall"],
+        ["evening"],
+        ["night", "night time"],
+        ["midnight"],
+        ["day and night", "day vs night"],
+        ["golden hour"]
+      ]
+    },
+    {
+      "id": "time-units",
+      "name": "Units and ideas of time",
+      "kind": "tile",
+      "recolor": "themed",
+      "motion": ["pop", "slide", "tick"],
+      "items": [
+        ["seconds", "one second"],
+        ["minutes", "one minute"],
+        ["hours", "one hour"],
+        ["one day", "24 hours"],
+        ["one week", "7 days"],
+        ["one month"],
+        ["one year", "365 days"],
+        ["decade", "10 years"],
+        ["century", "100 years"],
+        ["millennium", "1000 years"],
+        ["timeline", "time line"],
+        ["time zones", "world time zones"],
+        ["daylight saving time", "clocks go forward"],
+        ["24-hour clock"],
+        ["am and pm"]
+      ]
+    }
+  ]
+}

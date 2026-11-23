@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="170" y="300" width="172" height="150" rx="10" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="150" y="280" width="212" height="34" rx="8" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 290 V130" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 290 V130" fill="none" stroke="#2F8A4A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="216" cy="160" rx="30" ry="16" fill="#4CB963" transform="rotate(-20 216 160)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="296" cy="180" rx="30" ry="16" fill="#4CB963" transform="rotate(20 296 180)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="216" cy="220" rx="30" ry="16" fill="#4CB963" transform="rotate(-20 216 220)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="296" cy="240" rx="30" ry="16" fill="#4CB963" transform="rotate(20 296 240)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="256" cy="130" rx="30" ry="16" fill="#4CB963" transform="rotate(0 256 130)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

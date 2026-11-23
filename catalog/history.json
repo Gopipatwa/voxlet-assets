@@ -1,0 +1,350 @@
+{
+  "id": "history",
+  "name": "History",
+  "description": "Human origins, ancient civilizations (Egypt, Mesopotamia, Indus Valley, ancient India, China, Greece, Rome, Persia, Maya, Aztec, Inca), the Islamic golden age, the medieval world, Mughal and Ottoman eras, the age of exploration, the renaissance, the industrial revolution, world wars (generic), independence movements, historic weapons and armour, castles and archaeology. Generic people only, never real historical figures. Named landmarks belong to landmarks, places of worship to religion-faith.",
+  "groups": [
+    {
+      "id": "human-origins",
+      "name": "Human origins",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["walk", "pop"],
+      "items": [
+        ["early humans", "cave people"],
+        ["human evolution chart", "march of progress"],
+        "hominin skull",
+        "footprints of early humans",
+        "hunter-gatherers",
+        "hunting with spears",
+        "gathering berries",
+        ["discovery of fire", "making fire"],
+        "cave shelter",
+        ["cave painting", "cave art"],
+        "hand stencil cave art",
+        "stone tools",
+        "hand axe",
+        "flint knife",
+        "stone spear",
+        "bow and arrow early",
+        "bone needle",
+        "animal skin clothing",
+        "mammoth hunt",
+        ["first farming", "neolithic revolution"],
+        "clay pot ancient",
+        "megalith"
+      ]
+    },
+    {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise", "pop"],
+      "items": [
+        "ancient egypt",
+        "pyramid egyptian",
+        "mummy",
+        "sarcophagus",
+        ["pharaoh's mask", "golden death mask"],
+        "hieroglyphs",
+        "papyrus scroll",
+        "scarab amulet",
+        "ankh",
+        "eye of horus",
+        "obelisk",
+        "canopic jars",
+        "rosetta stone"
+      ]
+    },
+    {
+      "id": "mesopotamia",
+      "name": "Mesopotamia",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "mesopotamia",
+        "ziggurat",
+        "cuneiform tablet",
+        "clay tablet",
+        "code of hammurabi stele",
+        "hanging gardens of babylon",
+        "lamassu"
+      ]
+    },
+    {
+      "id": "indus-ancient-india",
+      "name": "Indus Valley and ancient India",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "indus valley civilization",
+        "mohenjo-daro",
+        "harappa",
+        "great bath",
+        "indus seal",
+        "dancing girl bronze",
+        "ancient indian coins",
+        "ashoka pillar",
+        "lion capital",
+        "nalanda university ruins",
+        ["vedic scrolls", "palm-leaf manuscript"]
+      ]
+    },
+    {
+      "id": "ancient-china",
+      "name": "Ancient China",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "ancient china",
+        "chinese dynasty scroll",
+        "silk road",
+        "silk road caravan",
+        "ancient chinese coins",
+        "oracle bones",
+        "jade disc"
+      ]
+    },
+    {
+      "id": "ancient-greece",
+      "name": "Ancient Greece",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "ancient greece",
+        "greek temple",
+        "greek column",
+        "amphitheatre",
+        ["greek vase", "amphora"],
+        "greek helmet",
+        ["olympic torch ancient", "ancient olympics"],
+        "greek scroll"
+      ]
+    },
+    {
+      "id": "ancient-rome",
+      "name": "Ancient Rome",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "ancient rome",
+        "roman soldier",
+        "roman helmet",
+        "roman shield",
+        "roman aqueduct",
+        "roman road",
+        "roman coins",
+        "chariot race",
+        "gladiator helmet",
+        "roman numerals clock",
+        "laurel crown"
+      ]
+    },
+    {
+      "id": "persia",
+      "name": "Ancient Persia",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "ancient persia",
+        "persian soldier",
+        "persian rug ancient",
+        "royal road"
+      ]
+    },
+    {
+      "id": "americas-ancient",
+      "name": "Maya, Aztec and Inca",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "maya civilization",
+        "maya pyramid",
+        "maya calendar",
+        "aztec civilization",
+        "aztec sun stone",
+        "inca civilization",
+        "inca terraces",
+        "quipu"
+      ]
+    },
+    {
+      "id": "islamic-golden-age",
+      "name": "Islamic golden age",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow", "pop"],
+      "items": [
+        "islamic golden age",
+        ["house of wisdom", "bayt al-hikma"],
+        "astrolabe",
+        "islamic manuscript",
+        "arabic numerals history",
+        "algebra book",
+        "early surgical tools",
+        "camera obscura",
+        ["water-raising machine", "elephant clock"],
+        "islamic observatory",
+        "islamic medicine book",
+        "quranic manuscript",
+        ["islamic coins", "dinar and dirham"]
+      ]
+    },
+    {
+      "id": "medieval",
+      "name": "Medieval world",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        ["medieval times", "middle ages"],
+        "knight",
+        "knight's armour",
+        "castle",
+        "castle tower",
+        "drawbridge",
+        "moat",
+        "village medieval",
+        "peasant",
+        "king's throne",
+        "crown and sceptre",
+        "royal seal",
+        "scroll with wax seal",
+        "quill and ink",
+        "plague doctor mask"
+      ]
+    },
+    {
+      "id": "mughal-ottoman",
+      "name": "Mughal and Ottoman eras",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+        "mughal empire",
+        "mughal court",
+        "mughal miniature painting",
+        ["mughal garden", "charbagh"],
+        "mughal arch",
+        "ottoman empire",
+        ["ottoman sultan's turban", "ottoman headdress"],
+        "janissary",
+        "ottoman cannon",
+        "tughra"
+      ]
+    },
+    {
+      "id": "age-of-exploration",
+      "name": "Age of exploration",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["float"],
+      "items": [
+        "age of exploration",
+        "old world map",
+        "spyglass",
+        "spice trade",
+        "navigator's astrolabe"
+      ]
+    },
+    {
+      "id": "renaissance-industry",
+      "name": "Renaissance and industrial revolution",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rotate", "rise"],
+      "items": [
+        "renaissance",
+        "renaissance painting easel",
+        "printing workshop",
+        "industrial revolution",
+        "steam factory",
+        "textile mill",
+        "coal mine",
+        "child labour history"
+      ]
+    },
+    {
+      "id": "wars",
+      "name": "World wars and conflict (generic)",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["shake"],
+      "items": [
+        "world war",
+        "trench",
+        "war helmet",
+        "war medal",
+        "peace treaty",
+        "war memorial"
+      ]
+    },
+    {
+      "id": "independence",
+      "name": "Independence movements",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["wave", "rise"],
+      "items": [
+        "independence movement",
+        "freedom march",
+        ["spinning wheel", "charkha"],
+        "salt march",
+        "protest placards",
+        "freedom fighters silhouette",
+        "partition train",
+        "new national flag"
+      ]
+    },
+    {
+      "id": "weapons-armour",
+      "name": "Historic weapons and armour",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["shake", "pop"],
+      "items": [
+        "sword",
+        "scimitar",
+        "katana",
+        "dagger",
+        "spear",
+        "bow and arrow",
+        "crossbow",
+        "mace",
+        "battle axe",
+        "shield",
+        "chainmail",
+        "helmet with plume",
+        "catapult",
+        "trebuchet",
+        "cannon",
+        "musket",
+        "siege tower"
+      ]
+    },
+    {
+      "id": "archaeology",
+      "name": "Archaeology",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "archaeology",
+        "excavation site",
+        "archaeologist's brush",
+        "ancient pottery shards",
+        "ruins",
+        "ancient coins hoard",
+        "time capsule",
+        "museum artefact"
+      ]
+    }
+  ]
+}

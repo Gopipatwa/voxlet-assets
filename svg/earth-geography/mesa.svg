@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-mesa"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#FFE3B0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-mesa)">
+  <circle cx="410" cy="100" r="36" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M40 420 L90 200 H420 L470 420 Z" fill="#D9774A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M68 250 H442 V268 H64 Z" fill="#EDA27A"/>
+  <path d="M54 320 H456 V338 H50 Z" fill="#A8522E"/>
+  <path d="M0 410 C140 404 340 416 512 410 V512 H0 Z" fill="#EBD49A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M432 470 V410 A16 16 0 0 1 448 410 V470 Z" fill="#4E9E4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M432 440 H420 V424" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M432 440 H420 V424" fill="none" stroke="#4E9E4A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M448 432 H459 V418" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M448 432 H459 V418" fill="none" stroke="#4E9E4A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

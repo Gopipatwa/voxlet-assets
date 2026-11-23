@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="204" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="256" r="158" fill="#FFFFFF"/>
+  <g transform="translate(196 256) scale(0.62)">
+    <path d="M-86 34 V2 L-58 -32 H44 L76 2 H88 V34 Z" fill="#E5484D"/>
+    <path d="M-50 -22 H-8 V0 H-66 Z M4 -22 H40 L58 0 H4 Z" fill="#FFFFFF"/>
+    <circle cx="-50" cy="38" r="18" fill="#1F1F24"/>
+    <circle cx="-50" cy="38" r="7" fill="#FFFFFF"/>
+    <circle cx="52" cy="38" r="18" fill="#1F1F24"/>
+    <circle cx="52" cy="38" r="7" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(316 256) scale(0.62)">
+    <path d="M-86 34 V2 L-58 -32 H44 L76 2 H88 V34 Z" fill="#1F1F24"/>
+    <path d="M-50 -22 H-8 V0 H-66 Z M4 -22 H40 L58 0 H4 Z" fill="#FFFFFF"/>
+    <circle cx="-50" cy="38" r="18" fill="#1F1F24"/>
+    <circle cx="-50" cy="38" r="7" fill="#FFFFFF"/>
+    <circle cx="52" cy="38" r="18" fill="#1F1F24"/>
+    <circle cx="52" cy="38" r="7" fill="#FFFFFF"/>
+  </g>
+</svg>

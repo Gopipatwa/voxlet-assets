@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-dominican-republic"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-dominican-republic)">
+    <rect x="0" y="0" width="300" height="200" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="130" height="80" fill="#002D62"/>
+    <rect x="170" y="0" width="130" height="80" fill="#CE1126"/>
+    <rect x="0" y="120" width="130" height="80" fill="#CE1126"/>
+    <rect x="170" y="120" width="130" height="80" fill="#002D62"/>
+    <path d="M138 84 H162 V108 C162 116 156 118 150 120 C144 118 138 116 138 108 Z" fill="#00843D"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

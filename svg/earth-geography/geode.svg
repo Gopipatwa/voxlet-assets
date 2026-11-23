@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M91 336 Q76 266 91 201 Q106 136 181 106 Q256 76 331 106 Q406 136 421 201 Q436 266 421 336 Q406 406 331 431 Q256 456 181 431 Q106 406 91 336 Z" fill="#A89A8A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M131 321 Q116 266 131 216 Q146 166 201 141 Q256 116 311 141 Q366 166 381 216 Q396 266 381 321 Q366 376 311 396 Q256 416 201 396 Q146 376 131 321 Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M159 308 Q146 266 159 228 Q172 190 214 170 Q256 150 298 170 Q340 190 353 228 Q366 266 353 308 Q340 350 298 366 Q256 382 214 366 Q172 350 159 308 Z" fill="#8B5CF6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="346,266 306,273 343,291" fill="#C4A8FF"/>
+  <polygon points="334,311 295,297 319,331" fill="#C4A8FF"/>
+  <polygon points="301,344 275,312 278,353" fill="#C4A8FF"/>
+  <polygon points="256,356 249,316 231,353" fill="#C4A8FF"/>
+  <polygon points="211,344 225,305 191,329" fill="#C4A8FF"/>
+  <polygon points="178,311 210,285 169,288" fill="#C4A8FF"/>
+  <polygon points="166,266 206,259 169,241" fill="#C4A8FF"/>
+  <polygon points="178,221 217,235 193,201" fill="#C4A8FF"/>
+  <polygon points="211,188 237,220 234,179" fill="#C4A8FF"/>
+  <polygon points="256,176 263,216 281,179" fill="#C4A8FF"/>
+  <polygon points="301,188 287,227 321,203" fill="#C4A8FF"/>
+  <polygon points="334,221 302,247 343,244" fill="#C4A8FF"/>
+  <circle cx="256" cy="266" r="34" fill="#5B33C2" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

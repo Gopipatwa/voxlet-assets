@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="part-glow" data-pivot="240 270">
+    <polygon points="230.0,110.0 268.5,241.5 400.0,280.0 268.5,318.5 230.0,450.0 191.5,318.5 60.0,280.0 191.5,241.5" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <polygon points="400.0,50.0 415.8,104.2 470.0,120.0 415.8,135.8 400.0,190.0 384.2,135.8 330.0,120.0 384.2,104.2" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <polygon points="400.0,360.0 409.1,390.9 440.0,400.0 409.1,409.1 400.0,440.0 390.9,409.1 360.0,400.0 390.9,390.9" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

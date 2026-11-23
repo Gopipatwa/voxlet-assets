@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M150 470 V70" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 470 V70" fill="none" stroke="#6B7280" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="66" r="14" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="158" y="90" width="260" height="160" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(288 170) scale(0.25 0.25) translate(-256 -256)">
+    <polygon points="256.0,76.0 305.1,198.4 436.7,207.3 335.5,291.8 367.7,419.7 256.0,349.6 144.3,419.7 176.5,291.8 75.3,207.3 206.9,198.4" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <polygon points="221.8,201.4 233.0,227.8 261.6,230.3 239.9,249.1 246.4,277.0 221.8,262.2 197.2,277.0 203.7,249.1 182.0,230.3 210.6,227.8" fill="#F9B57A"/>
+  </g>
+  <path d="M408 360 L450 360" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="450" cy="360" r="5" fill="#3D8BFD"/>
+  <path d="M406 369 L442 390" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="442" cy="390" r="5" fill="#3D8BFD"/>
+  <path d="M399 376 L420 412" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="412" r="5" fill="#3D8BFD"/>
+  <path d="M390 378 L390 420" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="390" cy="420" r="5" fill="#3D8BFD"/>
+  <path d="M381 376 L360 412" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="412" r="5" fill="#3D8BFD"/>
+  <path d="M374 369 L338 390" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="338" cy="390" r="5" fill="#3D8BFD"/>
+  <path d="M372 360 L330 360" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="330" cy="360" r="5" fill="#3D8BFD"/>
+  <path d="M374 351 L338 330" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="338" cy="330" r="5" fill="#3D8BFD"/>
+  <path d="M381 344 L360 308" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="308" r="5" fill="#3D8BFD"/>
+  <path d="M390 342 L390 300" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="390" cy="300" r="5" fill="#3D8BFD"/>
+  <path d="M399 344 L420 308" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="308" r="5" fill="#3D8BFD"/>
+  <path d="M406 351 L442 330" fill="none" stroke="#3D8BFD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="442" cy="330" r="5" fill="#3D8BFD"/>
+</svg>

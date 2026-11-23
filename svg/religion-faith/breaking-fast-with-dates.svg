@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(200 330) scale(0.9) translate(-256 -330)">
+    <ellipse cx="196" cy="280" rx="34" ry="18" fill="#6E4A2A" transform="rotate(0 196 280)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="246" cy="266" rx="34" ry="18" fill="#6E4A2A" transform="rotate(20 246 266)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="296" cy="276" rx="34" ry="18" fill="#6E4A2A" transform="rotate(-14 296 276)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="336" cy="290" rx="34" ry="18" fill="#6E4A2A" transform="rotate(30 336 290)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="166" cy="300" rx="34" ry="18" fill="#6E4A2A" transform="rotate(-30 166 300)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M110 300 H402 C402 380 340 420 256 420 C172 420 110 380 110 300Z" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="translate(400 300) scale(1.1)">
+    <path d="M-40 -80 H40 L30 80 H-30Z" fill="#D9EEFB" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M-35 -20 H35 L30 76 H-30Z" fill="#8FD0FF"/>
+  </g>
+</svg>

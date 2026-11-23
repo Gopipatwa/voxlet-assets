@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 300) scale(0.6 0.6) translate(-256 -256)">
+    <path d="M252 104 C220 78 162 86 150 136 C102 138 76 190 98 232 C66 262 78 322 128 334 C138 384 196 404 238 382 C246 396 252 400 252 400 Z" fill="#F9B57A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M252 104 C220 78 162 86 150 136 C102 138 76 190 98 232 C66 262 78 322 128 334 C138 384 196 404 238 382 C246 396 252 400 252 400 Z" fill="#F9B57A" transform="translate(512 0) scale(-1 1)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M210 130 C190 170 220 190 200 220 M140 200 C170 210 180 240 160 270 M230 250 C200 270 210 310 180 330 M302 130 C322 170 292 190 312 220 M372 200 C342 210 332 240 352 270 M282 250 C312 270 302 310 332 330" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M236 400 C236 430 250 450 262 470" fill="none" stroke="#2E2A3B" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M236 400 C236 430 250 450 262 470" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M190 120 Q210 90 230 120 M280 120 Q300 90 320 120" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="120.0,140.0 124.5,155.5 140.0,160.0 124.5,164.5 120.0,180.0 115.5,164.5 100.0,160.0 115.5,155.5" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="400.0,150.0 404.5,165.5 420.0,170.0 404.5,174.5 400.0,190.0 395.5,174.5 380.0,170.0 395.5,165.5" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

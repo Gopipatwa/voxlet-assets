@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M196 160 C196 300 316 300 316 160" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M196 160 C196 300 316 300 316 160" fill="none" stroke="#E8A520" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M146 160 C146 310 366 310 366 160" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M146 160 C146 310 366 310 366 160" fill="none" stroke="#E8A520" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 160 C96 320 416 320 416 160" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M96 160 C96 320 416 320 416 160" fill="none" stroke="#E8A520" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 160 V420" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 160 V420" fill="none" stroke="#E8A520" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 440 C190 400 322 400 322 440Z" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M106 120 C120 136 118 150 106 156 C94 150 92 136 106 120Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M156 120 C170 136 168 150 156 156 C144 150 142 136 156 120Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M206 120 C220 136 218 150 206 156 C194 150 192 136 206 120Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 120 C270 136 268 150 256 156 C244 150 242 136 256 120Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M306 120 C320 136 318 150 306 156 C294 150 292 136 306 120Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M356 120 C370 136 368 150 356 156 C344 150 342 136 356 120Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M406 120 C420 136 418 150 406 156 C394 150 392 136 406 120Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

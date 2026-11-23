@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="#6A5A50" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="366,200 426,280 406,380 316,410 296,300" fill="#4E4038"/>
+  <path d="M146 200 L296 300 L366 200 M296 300 L316 410" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><clipPath id="r-copper-ore-a"><polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410"/></clipPath></defs>
+  <g clip-path="url(#r-copper-ore-a)">
+  <circle cx="170" cy="220" r="40" fill="#2FA67A"/>
+  <circle cx="178" cy="226" r="20.0" fill="#45C8A0"/>
+  <circle cx="300" cy="300" r="50" fill="#2FA67A"/>
+  <circle cx="308" cy="306" r="25.0" fill="#45C8A0"/>
+  <circle cx="220" cy="360" r="30" fill="#2FA67A"/>
+  <circle cx="228" cy="366" r="15.0" fill="#45C8A0"/>
+  <circle cx="360" cy="200" r="30" fill="#2FA67A"/>
+  <circle cx="368" cy="206" r="15.0" fill="#45C8A0"/>
+  <circle cx="260" cy="220" r="16" fill="#C8743A"/>
+  <circle cx="140" cy="320" r="16" fill="#C8743A"/>
+  <circle cx="380" cy="320" r="16" fill="#C8743A"/>
+  </g>
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-spain"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-spain)">
+    <rect x="0" y="0" width="300" height="50.5" fill="#AA151B"/>
+    <rect x="0" y="50" width="300" height="100.5" fill="#F1BF00"/>
+    <rect x="0" y="150" width="300" height="50.5" fill="#AA151B"/>
+    <path d="M80 70 H120 V110 C120 124 108 132 100 134 C92 132 80 124 80 110 Z" fill="#AA151B"/>
+    <rect x="80" y="70" width="20" height="32" fill="#AA151B"/>
+    <rect x="100" y="70" width="20" height="32" fill="#C8B100"/>
+    <rect x="70" y="70" width="8" height="60" fill="#C8B100"/>
+    <rect x="122" y="70" width="8" height="60" fill="#C8B100"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-angola"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-angola)">
+    <rect x="0" y="0" width="300" height="100.5" fill="#CC092F"/>
+    <rect x="0" y="100" width="300" height="100.5" fill="#000000"/>
+    <path d="M120 130 A50 50 0 1 0 190 80" fill="none" stroke="#FFCB00" stroke-width="12" stroke-dasharray="10 5"/>
+    <path d="M118 136 L170 84" fill="none" stroke="#FFCB00" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round"/>
+    <polygon points="150.0,78.0 153.1,87.7 163.3,87.7 155.1,93.7 158.2,103.3 150.0,97.3 141.8,103.3 144.9,93.7 136.7,87.7 146.9,87.7" fill="#FFCB00"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

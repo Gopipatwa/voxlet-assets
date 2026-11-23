@@ -1,0 +1,184 @@
+{
+  "id": "money-business",
+  "name": "Money & Business",
+  "description": "Coins and notes (rupee, dollar, riyal…), currency symbols, banking, cards, digital payments, saving and investing ideas, business, the office, shopping and the economy. No real banknote designs and no bank or payment brand logos.",
+  "groups": [
+    {
+      "id": "coins-notes",
+      "name": "Coins and notes",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["drop", "spin"],
+      "items": [
+        "money",
+        "coin",
+        "gold coin",
+        "stack of coins",
+        "coin jar",
+        ["banknote", "paper money"],
+        "bundle of notes",
+        "rupee note",
+        "rupee coin",
+        "dollar bill",
+        "riyal note",
+        "dirham note",
+        "euro note",
+        "pound note",
+        "dinar coin",
+        "money bag"
+      ]
+    },
+    {
+      "id": "currency-symbols",
+      "name": "Currency symbols",
+      "kind": "icon",
+      "recolor": "mono",
+      "motion": ["draw", "pop"],
+      "items": [
+        "currency symbols",
+        "rupee sign",
+        "dollar sign",
+        "euro sign",
+        "pound sign",
+        "yen sign",
+        "riyal sign",
+        "dirham sign",
+        ["bitcoin symbol", "crypto symbol"],
+        "cent sign"
+      ]
+    },
+    {
+      "id": "banking",
+      "name": "Banking and cards",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        "bank vault",
+        ["safe", "locker"],
+        "atm",
+        "debit card",
+        "credit card",
+        "cheque",
+        "bank passbook",
+        "bank statement",
+        "loan",
+        "interest",
+        "savings account",
+        "piggy bank",
+        "gold bar"
+      ]
+    },
+    {
+      "id": "digital-payments",
+      "name": "Digital payments",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "pulse"],
+      "items": [
+        "digital payment",
+        ["upi payment", "scan and pay"],
+        "mobile wallet",
+        "contactless payment",
+        "online banking",
+        "qr payment",
+        "money transfer",
+        "cryptocurrency coin",
+        "receipt",
+        "invoice"
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Saving, investing and the economy",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["rise", "grow"],
+      "items": [
+        "saving money",
+        "budget",
+        "investment",
+        "stock market",
+        ["stock chart going up", "bull market"],
+        ["stock chart going down", "bear market"],
+        "profit",
+        "loss",
+        "inflation",
+        "recession",
+        "economy",
+        "gdp chart",
+        "supply and demand",
+        "scarcity",
+        ["trade", "import and export"],
+        "tax money",
+        "debt",
+        "compound interest",
+        "wealth",
+        "poverty"
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "rise"],
+      "items": [
+        "business",
+        "startup",
+        "business plan",
+        "pitch presentation",
+        "handshake deal",
+        "company",
+        "brand building",
+        "marketing",
+        "advertising billboard",
+        "customer",
+        "teamwork meeting",
+        "growth graph",
+        "target market"
+      ]
+    },
+    {
+      "id": "office",
+      "name": "Office",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "office",
+        "office desk",
+        "office chair",
+        "meeting room",
+        "whiteboard presentation",
+        "filing cabinet",
+        "documents folder",
+        "calculator desk",
+        "work from home",
+        "video meeting",
+        "business card"
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop", "roll"],
+      "items": [
+        "shopping",
+        ["shopping cart", "trolley"],
+        "shopping basket",
+        "shopping bag",
+        "price tag",
+        ["discount tag", "sale tag money"],
+        ["cash register", "till"],
+        "barcode scanner",
+        "online shopping",
+        "delivery box",
+        "store shelf",
+        "checkout counter"
+      ]
+    }
+  ]
+}

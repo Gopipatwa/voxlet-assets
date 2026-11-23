@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 256) scale(1.0 1.0) translate(-256 -256)">
+    <path d="M252 104 C220 78 162 86 150 136 C102 138 76 190 98 232 C66 262 78 322 128 334 C138 384 196 404 238 382 C246 396 252 400 252 400 Z" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M252 104 C220 78 162 86 150 136 C102 138 76 190 98 232 C66 262 78 322 128 334 C138 384 196 404 238 382 C246 396 252 400 252 400 Z" fill="#7DB2FF" transform="translate(512 0) scale(-1 1)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M210 130 C190 170 220 190 200 220 M140 200 C170 210 180 240 160 270 M230 250 C200 270 210 310 180 330 M302 130 C322 170 292 190 312 220 M372 200 C342 210 332 240 352 270 M282 250 C312 270 302 310 332 330" fill="none" stroke="#7DB2FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M236 400 C236 430 250 450 262 470" fill="none" stroke="#2E2A3B" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M236 400 C236 430 250 450 262 470" fill="none" stroke="#7DB2FF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M150 200 H220 V260 H180 M270 150 V220 H340 M300 260 V320 H230 M150 300 H200 M350 200 V280" fill="none" stroke="#3D8BFD" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

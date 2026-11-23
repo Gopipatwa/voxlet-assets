@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 256) scale(1.0 1.0) translate(-256 -256)">
+    <path d="M80 470 V90 M432 470 V90" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M80 470 V90 M432 470 V90" fill="none" stroke="#2E2A3B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="88" y="100" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="130" y="100" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="172" y="100" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="214" y="100" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="256" y="100" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="298" y="100" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="340" y="100" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="382" y="100" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="88" y="140" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="130" y="140" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="172" y="140" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="214" y="140" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="256" y="140" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="298" y="140" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="340" y="140" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="382" y="140" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="88" y="180" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="130" y="180" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="172" y="180" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="214" y="180" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="256" y="180" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="298" y="180" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="340" y="180" width="42" height="40" fill="#2E2A3B"/>
+    <rect x="382" y="180" width="42" height="40" fill="#FFFFFF"/>
+    <rect x="88" y="100" width="336" height="120" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

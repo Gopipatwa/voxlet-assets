@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="56" y="56" width="400" height="400" rx="30" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M8 155 L50 5 L92 155 M24 100 H76" transform="translate(234.0 120.0) scale(0.3750)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 155 V5 H55 C95 5 95 78 55 78 H14 M55 78 C100 78 100 155 55 155 H14" transform="translate(281.2 120.0) scale(0.3750)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 30 C70 0 10 0 10 80 C10 160 70 160 90 130" transform="translate(328.5 120.0) scale(0.3750)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 30 V130 M0 80 H100" transform="translate(180.4 210.0) scale(0.3750)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 155 L50 5 L92 155 M24 100 H76" transform="translate(227.6 210.0) scale(0.3750)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 155 V5 H55 C95 5 95 78 55 78 H14 M55 78 C100 78 100 155 55 155 H14" transform="translate(274.9 210.0) scale(0.3750)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 30 C70 0 10 0 10 80 C10 160 70 160 90 130" transform="translate(322.1 210.0) scale(0.3750)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M130 290 H400" fill="none" stroke="#2E2A3B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 5 V155 H45 C100 155 100 5 45 5 Z" transform="translate(234.0 320.0) scale(0.3750)" fill="none" stroke="#3D8BFD" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 5 H14 V155 H88 M14 80 H70" transform="translate(281.2 320.0) scale(0.3750)" fill="none" stroke="#3D8BFD" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 30 C70 0 10 0 10 80 C10 160 70 160 90 130" transform="translate(328.5 320.0) scale(0.3750)" fill="none" stroke="#3D8BFD" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

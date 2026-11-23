@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="#F6F6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="366,200 426,280 406,380 316,410 296,300" fill="#DCDCE6"/>
+  <path d="M146 200 L296 300 L366 200 M296 300 L316 410" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><clipPath id="r-marble-a"><polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410"/></clipPath></defs>
+  <g clip-path="url(#r-marble-a)">
+  <path d="M80 200 C160 220 200 300 300 290 C360 280 400 340 460 330" fill="none" stroke="#A8A8B8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 380 C200 340 260 380 340 360" fill="none" stroke="#A8A8B8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 150 C220 200 260 220 280 260" fill="none" stroke="#A8A8B8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

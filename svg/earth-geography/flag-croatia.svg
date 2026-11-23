@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-croatia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-croatia)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#FF0000"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#FFFFFF"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#171796"/>
+    <path d="M122 66 H178 V112 C178 132 160 140 150 144 C140 140 122 132 122 112 Z" fill="#FFFFFF"/>
+    <rect x="122" y="66" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="144.4" y="66" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="166.8" y="66" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="133.2" y="77.2" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="155.6" y="77.2" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="122" y="88.4" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="144.4" y="88.4" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="166.8" y="88.4" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="133.2" y="99.6" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="155.6" y="99.6" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="122" y="110.8" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="144.4" y="110.8" width="11.2" height="11.2" fill="#FF0000"/>
+    <rect x="166.8" y="110.8" width="11.2" height="11.2" fill="#FF0000"/>
+    <path d="M122 66 H178 V112 C178 132 160 140 150 144 C140 140 122 132 122 112 Z" fill="none" stroke="#171796" stroke-width="3"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

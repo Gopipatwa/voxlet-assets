@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M30 470 C200 440 320 460 482 430" fill="none" stroke="#2E2A3B" stroke-width="46" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M30 470 C200 440 320 460 482 430" fill="none" stroke="#9A6A3A" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="376" cy="400" rx="70" ry="36" fill="#4FAA3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="426" cy="436" rx="50" ry="14" fill="#4FAA3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="136" cy="400" rx="70" ry="36" fill="#4FAA3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="86" cy="436" rx="50" ry="14" fill="#4FAA3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="256" cy="330" rx="150" ry="110" fill="#5EC84A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="256" cy="370" rx="100" ry="60" fill="#E8F0A8"/>
+  <path d="M316 380 L326 440" fill="none" stroke="#2E2A3B" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M316 380 L326 440" fill="none" stroke="#4FAA3E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M196 380 L186 440" fill="none" stroke="#2E2A3B" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M196 380 L186 440" fill="none" stroke="#4FAA3E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="190" cy="220" r="44" fill="#5EC84A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="190" cy="220" r="28" fill="#FFFFFF"/>
+  <g id="part-eye-left" data-pivot="190 220">
+    <circle cx="190.0" cy="220.0" r="16.0" fill="#E5484D"/>
+    <circle cx="195.6" cy="214.4" r="5.6" fill="#FFFFFF"/>
+  </g>
+  <circle cx="322" cy="220" r="44" fill="#5EC84A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="322" cy="220" r="28" fill="#FFFFFF"/>
+  <g id="part-eye-right" data-pivot="322 220">
+    <circle cx="322.0" cy="220.0" r="16.0" fill="#E5484D"/>
+    <circle cx="327.6" cy="214.4" r="5.6" fill="#FFFFFF"/>
+  </g>
+  <path d="M190 320 Q256 350 322 320" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

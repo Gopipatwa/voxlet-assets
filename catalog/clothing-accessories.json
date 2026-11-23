@@ -1,0 +1,152 @@
+{
+  "id": "clothing-accessories",
+  "name": "Clothing & Accessories",
+  "description": "Clothes, footwear, headwear, bags and accessories, jewellery and traditional dress from around the world (hijab, abaya, thobe, sari, kurta, sherwani, kimono…). Watches belong to time-calendar, glasses to health-medicine, ihram to religion-faith.",
+  "groups": [
+    {
+      "id": "clothes",
+      "name": "Clothes",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["sway", "pop"],
+      "items": [
+        "t-shirt",
+        "shirt",
+        ["trousers", "pants"],
+        "jeans",
+        "shorts",
+        "skirt",
+        "dress",
+        "jacket",
+        "coat",
+        ["sweater", "jumper"],
+        "hoodie",
+        "raincoat",
+        "pyjamas",
+        "school uniform",
+        "suit",
+        "tie",
+        "socks",
+        "scarf",
+        "gloves",
+        "waistcoat",
+        "cardigan",
+        "overalls",
+        "swimsuit"
+      ]
+    },
+    {
+      "id": "footwear",
+      "name": "Footwear",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "shoes",
+        ["sneakers", "trainers"],
+        "sandals",
+        "slippers",
+        "chappal",
+        "boots",
+        "high heels",
+        "kolhapuri chappal",
+        ["mojari", "jutti"],
+        ["rain boots", "wellies"]
+      ]
+    },
+    {
+      "id": "headwear",
+      "name": "Headwear",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "cap",
+        "hat",
+        "beanie",
+        ["turban", "pagri"],
+        ["kufi", "prayer cap", "taqiyah"],
+        ["keffiyeh", "ghutra", "shemagh"],
+        "agal",
+        "bicycle helmet",
+        "crown",
+        "tiara",
+        "headscarf",
+        "bandana",
+        "cowboy hat",
+        "top hat"
+      ]
+    },
+    {
+      "id": "accessories",
+      "name": "Bags and accessories",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        ["handbag", "bag"],
+        "wallet",
+        "purse",
+        "belt",
+        "keychain",
+        "tote bag",
+        "briefcase"
+      ]
+    },
+    {
+      "id": "jewellery",
+      "name": "Jewellery",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["twinkle", "glow"],
+      "items": [
+        "ring",
+        "necklace",
+        "earrings",
+        "bracelet",
+        ["bangles", "churi"],
+        ["anklet", "payal"],
+        ["nose ring", "nath"],
+        "maang tikka",
+        "brooch",
+        "pearl necklace",
+        "gold chain"
+      ]
+    },
+    {
+      "id": "traditional-dress",
+      "name": "Traditional dress worldwide",
+      "kind": "character",
+      "recolor": "themed",
+      "motion": ["sway"],
+      "items": [
+        "hijab",
+        "niqab",
+        "burqa",
+        "abaya",
+        ["thobe", "kandura", "dishdasha"],
+        "jalabiya",
+        "kaftan",
+        ["sari", "saree"],
+        ["salwar kameez", "shalwar kameez"],
+        "kurta",
+        "sherwani",
+        "lehenga",
+        "dhoti",
+        "lungi",
+        "pathani suit",
+        "nehru jacket",
+        "kimono",
+        "hanbok",
+        ["qipao", "cheongsam"],
+        "kilt",
+        "poncho",
+        "sombrero",
+        "dirndl",
+        "kente cloth",
+        "dashiki",
+        "sarong"
+      ]
+    }
+  ]
+}

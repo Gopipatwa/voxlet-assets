@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-ghana"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-ghana)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#CE1126"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#FCD116"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#006B3F"/>
+    <polygon points="150.0,72.0 156.7,92.7 178.5,92.7 160.9,105.5 167.6,126.3 150.0,113.5 132.4,126.3 139.1,105.5 121.5,92.7 143.3,92.7" fill="#000000"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

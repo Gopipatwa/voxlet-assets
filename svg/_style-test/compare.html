@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Style test A vs B</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+body{font-family:system-ui,sans-serif;margin:0;padding:16px;background:#f4f4f6;color:#222}
+body.dark{background:#1b1b22;color:#eee}
+h1{font-size:20px} .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+figure{margin:0;background:rgba(127,127,127,.08);border-radius:12px;padding:10px}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:8px} img{width:100%;background:rgba(255,255,255,.04)}
+figcaption{text-align:center;font-size:14px;margin-top:6px} button{margin-left:12px}
+</style></head><body>
+<h1>Style test: left = A (no outline), right = B (soft dark outline)<button onclick="document.body.classList.toggle('dark')">Toggle dark background</button></h1>
+<div class="grid"><figure><div class="pair"><img src="a-lion.svg" alt="lion, style A"><img src="b-lion.svg" alt="lion, style B"></div><figcaption>lion</figcaption></figure>
+<figure><div class="pair"><img src="a-heart-organ.svg" alt="heart-organ, style A"><img src="b-heart-organ.svg" alt="heart-organ, style B"></div><figcaption>heart-organ</figcaption></figure>
+<figure><div class="pair"><img src="a-earth.svg" alt="earth, style A"><img src="b-earth.svg" alt="earth, style B"></div><figcaption>earth</figcaption></figure>
+<figure><div class="pair"><img src="a-kaaba.svg" alt="kaaba, style A"><img src="b-kaaba.svg" alt="kaaba, style B"></div><figcaption>kaaba</figcaption></figure>
+<figure><div class="pair"><img src="a-rocket.svg" alt="rocket, style A"><img src="b-rocket.svg" alt="rocket, style B"></div><figcaption>rocket</figcaption></figure>
+<figure><div class="pair"><img src="a-apple.svg" alt="apple, style A"><img src="b-apple.svg" alt="apple, style B"></div><figcaption>apple</figcaption></figure>
+<figure><div class="pair"><img src="a-doctor.svg" alt="doctor, style A"><img src="b-doctor.svg" alt="doctor, style B"></div><figcaption>doctor</figcaption></figure>
+<figure><div class="pair"><img src="a-idea.svg" alt="idea, style A"><img src="b-idea.svg" alt="idea, style B"></div><figcaption>idea</figcaption></figure>
+<figure><div class="pair"><img src="a-volcano.svg" alt="volcano, style A"><img src="b-volcano.svg" alt="volcano, style B"></div><figcaption>volcano</figcaption></figure>
+<figure><div class="pair"><img src="a-flag-india.svg" alt="flag-india, style A"><img src="b-flag-india.svg" alt="flag-india, style B"></div><figcaption>flag-india</figcaption></figure>
+<figure><div class="pair"><img src="a-arrow-right.svg" alt="arrow-right, style A"><img src="b-arrow-right.svg" alt="arrow-right, style B"></div><figcaption>arrow-right</figcaption></figure>
+<figure><div class="pair"><img src="a-trophy.svg" alt="trophy, style A"><img src="b-trophy.svg" alt="trophy, style B"></div><figcaption>trophy</figcaption></figure></div></body></html>

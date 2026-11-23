@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-mongolia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-mongolia)">
+    <rect x="0" y="0" width="100.5" height="200" fill="#C4272F"/>
+    <rect x="100" y="0" width="100.5" height="200" fill="#015197"/>
+    <rect x="200" y="0" width="100.5" height="200" fill="#C4272F"/>
+    <polygon points="50.0,26.0 42.0,40.0 58.0,40.0" fill="#F9CF02"/>
+    <circle cx="50" cy="52" r="9" fill="#F9CF02"/>
+    <circle cx="50" cy="66" r="12" fill="#F9CF02"/>
+    <circle cx="50" cy="60.6" r="9.84" fill="#C4272F"/>
+    <rect x="34" y="82" width="32" height="8" fill="#F9CF02"/>
+    <rect x="34" y="140" width="32" height="8" fill="#F9CF02"/>
+    <circle cx="50" cy="115" r="16" fill="#F9CF02"/>
+    <rect x="20" y="82" width="8" height="66" fill="#F9CF02"/>
+    <rect x="72" y="82" width="8" height="66" fill="#F9CF02"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

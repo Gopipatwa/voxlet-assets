@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M80 300 l-10 -40 M80 300 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M80 300 l-10 -40 M80 300 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 310 l-10 -40 M110 310 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M110 310 l-10 -40 M110 310 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 300 l-10 -40 M140 300 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M140 300 l-10 -40 M140 300 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 310 l-10 -40 M170 310 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M170 310 l-10 -40 M170 310 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 300 l-10 -40 M200 300 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M200 300 l-10 -40 M200 300 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230 310 l-10 -40 M230 310 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M230 310 l-10 -40 M230 310 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 300 l-10 -40 M260 300 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M260 300 l-10 -40 M260 300 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 310 l-10 -40 M290 310 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M290 310 l-10 -40 M290 310 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 300 l-10 -40 M320 300 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M320 300 l-10 -40 M320 300 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 310 l-10 -40 M350 310 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M350 310 l-10 -40 M350 310 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M380 300 l-10 -40 M380 300 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M380 300 l-10 -40 M380 300 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M410 310 l-10 -40 M410 310 l-10 40" fill="none" stroke="#2E2A3B" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M410 310 l-10 -40 M410 310 l-10 40" fill="none" stroke="#8E3E1E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 310 C150 280 230 340 310 300 C370 270 410 300 440 290" fill="none" stroke="#2E2A3B" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M70 310 C150 280 230 340 310 300 C370 270 410 300 440 290" fill="none" stroke="#C1662E" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="part-eye-right" data-pivot="440 284">
+    <circle cx="440.0" cy="284.0" r="6.0" fill="#1F1F24"/>
+    <circle cx="442.1" cy="281.9" r="2.1" fill="#FFFFFF"/>
+  </g>
+</svg>

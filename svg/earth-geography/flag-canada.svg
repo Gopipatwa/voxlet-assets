@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-canada"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-canada)">
+    <rect x="0" y="0" width="75.5" height="200" fill="#D80621"/>
+    <rect x="75" y="0" width="150.5" height="200" fill="#FFFFFF"/>
+    <rect x="225" y="0" width="75.5" height="200" fill="#D80621"/>
+    <path d="M150 40 L160 60 L174 54 L168 88 L186 70 L190 80 L206 76 L200 96 L210 100 L180 124 L184 136 L154 132 V160 H146 V132 L116 136 L120 124 L90 100 L100 96 L94 76 L110 80 L114 70 L132 88 L126 54 L140 60 Z" fill="#D80621"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

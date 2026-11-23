@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#7FC4EE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="150" cy="180" rx="24" ry="14" fill="#4CB963" transform="rotate(30 150 180)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="300" cy="160" rx="24" ry="14" fill="#9BD7A8" transform="rotate(0 300 160)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="220" cy="280" rx="24" ry="14" fill="#4CB963" transform="rotate(40 220 280)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="360" cy="300" rx="24" ry="14" fill="#C8E8A8" transform="rotate(0 360 300)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="160" cy="380" rx="24" ry="14" fill="#9BD7A8" transform="rotate(40 160 380)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="330" cy="400" rx="24" ry="14" fill="#4CB963" transform="rotate(30 330 400)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

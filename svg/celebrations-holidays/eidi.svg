@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="80" y="150" width="352" height="220" rx="16" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="80,150 256,280 432,150" fill="#2F8A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="273.0,329.4 267.6,331.9 261.9,333.5 256.0,334.0 250.1,333.5 244.4,331.9 239.0,329.4 234.1,326.0 230.0,321.9 226.6,317.0 224.1,311.6 222.5,305.9 222.0,300.0 222.5,294.1 224.1,288.4 226.6,283.0 230.0,278.1 234.1,274.0 239.0,270.6 244.4,268.1 250.1,266.5 256.0,266.0 261.9,266.5 267.6,268.1 273.0,270.6 279.4,275.1 274.9,273.9 270.3,273.5 265.7,273.9 261.2,275.1 257.0,277.0 253.2,279.7 250.0,283.0 247.3,286.7 245.4,290.9 244.2,295.4 243.8,300.0 244.2,304.6 245.4,309.1 247.3,313.3 250.0,317.0 253.2,320.3 257.0,323.0 261.2,324.9 265.7,326.1 270.3,326.5 274.9,326.1 279.4,324.9" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="140" y="100" width="230" height="90" rx="8" fill="#9BD7A8" transform="rotate(-8 255 145)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

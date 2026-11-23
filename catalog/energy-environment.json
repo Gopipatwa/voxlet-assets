@@ -1,0 +1,192 @@
+{
+  "id": "energy-environment",
+  "name": "Energy & Environment",
+  "description": "Renewable and fossil energy, the power grid, pollution, waste and recycling, conservation, ecosystems and food chains, deforestation and sustainable living. Weather and climate change belong to weather-climate, living things to animals and plants-nature.",
+  "groups": [
+    {
+      "id": "renewable-energy",
+      "name": "Renewable energy",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["spin", "glow"],
+      "items": [
+        ["renewable energy", "clean energy"],
+        "solar panel",
+        "solar farm",
+        "wind turbine",
+        "wind farm",
+        ["hydroelectric dam", "hydropower"],
+        "water wheel",
+        "tidal energy",
+        "wave energy",
+        "geothermal energy",
+        ["biomass energy", "biofuel"],
+        "biogas plant",
+        "solar water heater",
+        "solar cooker",
+        "rooftop solar",
+        "green hydrogen"
+      ]
+    },
+    {
+      "id": "fossil-energy",
+      "name": "Fossil and nuclear energy",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse", "rise"],
+      "items": [
+        "fossil fuels",
+        "coal",
+        ["oil", "crude oil"],
+        "natural gas",
+        ["oil rig", "offshore platform"],
+        ["oil well", "pump jack"],
+        "oil barrel",
+        "oil refinery",
+        "coal power plant",
+        ["gas cylinder", "lpg cylinder"],
+        ["petrol", "gasoline"],
+        "nuclear power plant",
+        "cooling tower",
+        "uranium fuel rod"
+      ]
+    },
+    {
+      "id": "power-grid",
+      "name": "Power and the grid",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse", "glow"],
+      "items": [
+        "electricity",
+        "power station",
+        "power grid",
+        ["power lines", "pylons", "transmission tower"],
+        "electricity pole",
+        "transformer",
+        "electric meter",
+        ["power socket", "plug socket"],
+        "plug",
+        "extension cord",
+        ["power outage", "blackout"],
+        ["energy saving bulb", "led bulb"],
+        "energy rating label",
+        "ev charging station",
+        "battery storage"
+      ]
+    },
+    {
+      "id": "pollution",
+      "name": "Pollution",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["rise", "float"],
+      "items": [
+        "pollution",
+        "air pollution",
+        "smog",
+        "factory smoke",
+        "car exhaust",
+        "water pollution",
+        "oil spill",
+        "plastic pollution",
+        "ocean plastic",
+        "soil pollution",
+        "noise pollution",
+        "light pollution",
+        "acid rain",
+        "landfill",
+        "litter",
+        "microplastics",
+        "toxic waste"
+      ]
+    },
+    {
+      "id": "recycling-waste",
+      "name": "Waste and recycling",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["spin", "pop"],
+      "items": [
+        ["recycling symbol", "recycle", "recycle arrows"],
+        "recycling bin",
+        ["recycling bins sorted", "waste segregation"],
+        ["compost bin", "composting"],
+        "wet waste",
+        "dry waste",
+        "e-waste",
+        ["reduce reuse recycle", "3 rs"],
+        ["reusable bag", "cloth bag"],
+        "reusable water bottle",
+        "plastic bottle",
+        "plastic bag",
+        ["tin can", "aluminium can"],
+        "glass bottle",
+        "cardboard box recycling",
+        "upcycling"
+      ]
+    },
+    {
+      "id": "conservation",
+      "name": "Conservation",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["grow", "sway"],
+      "items": [
+        "conservation",
+        "save water",
+        "save electricity",
+        "rainwater harvesting",
+        "tree planting",
+        "reforestation",
+        ["protected area", "nature reserve"],
+        "wildlife sanctuary",
+        "endangered species",
+        "earth day",
+        ["earth in hands", "save the planet"],
+        ["eco-friendly", "green leaf label"],
+        "sustainable living",
+        "zero waste",
+        "carbon neutral"
+      ]
+    },
+    {
+      "id": "ecosystems",
+      "name": "Ecosystems and food chains",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["grow", "slide"],
+      "items": [
+        "ecosystem",
+        "food chain",
+        ["food pyramid ecology", "energy pyramid"],
+        "producer consumer decomposer",
+        "predator and prey",
+        "pond ecosystem",
+        "forest ecosystem",
+        "desert ecosystem",
+        "grassland ecosystem",
+        "coral reef ecosystem",
+        "biodiversity",
+        "nitrogen cycle",
+        "carbon cycle"
+      ]
+    },
+    {
+      "id": "deforestation",
+      "name": "Deforestation and habitat loss",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["fade", "shake"],
+      "items": [
+        "deforestation",
+        "tree stump",
+        "logging",
+        "habitat loss",
+        "desertification",
+        "soil erosion",
+        "urban sprawl"
+      ]
+    }
+  ]
+}

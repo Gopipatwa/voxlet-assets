@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M150 300 C80 300 40 340 20 380" fill="none" stroke="#2E2A3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 300 C80 300 40 340 20 380" fill="none" stroke="#9A8A6A" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 320 V440" fill="none" stroke="#2E2A3B" stroke-width="64" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M180 320 V440" fill="none" stroke="#82755A" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 320 V440" fill="none" stroke="#2E2A3B" stroke-width="64" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M320 320 V440" fill="none" stroke="#82755A" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="250" cy="300" rx="140" ry="80" fill="#9A8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="260" cy="340" rx="110" ry="30" fill="#D9CBB0"/>
+  <path d="M210 330 V440" fill="none" stroke="#2E2A3B" stroke-width="66" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M210 330 V440" fill="none" stroke="#9A8A6A" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 330 V440" fill="none" stroke="#2E2A3B" stroke-width="66" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M300 330 V440" fill="none" stroke="#9A8A6A" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 260 C400 200 410 120 420 70" fill="none" stroke="#2E2A3B" stroke-width="64" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M360 260 C400 200 410 120 420 70" fill="none" stroke="#9A8A6A" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="440" cy="64" rx="46" ry="28" fill="#9A8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-right" data-pivot="450 56">
+    <circle cx="450.0" cy="56.0" r="7.0" fill="#1F1F24"/>
+    <circle cx="452.4" cy="53.5" r="2.4" fill="#FFFFFF"/>
+  </g>
+</svg>

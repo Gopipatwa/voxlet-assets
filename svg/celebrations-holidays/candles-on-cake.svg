@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="110" y="320" width="292" height="120" rx="16" fill="#F9B57A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M110 340 C130 370 150 340 170 370 C190 340 210 370 230 340 C250 370 270 340 290 370 C310 340 330 370 350 340 C370 370 390 340 402 360 V336 H110Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="150" y="220" width="212" height="110" rx="16" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M150 240 C170 270 190 240 210 270 C230 240 250 270 270 240 C290 270 310 240 330 270 C350 240 362 260 362 260 V236 H150Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="147.0" y="150" width="18" height="70" rx="5" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-flame" data-pivot="156 140">
+    <path d="M156 104 C172 122 170 140 156 146 C142 140 140 122 156 104Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="197.0" y="150" width="18" height="70" rx="5" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-flame" data-pivot="206 140">
+    <path d="M206 104 C222 122 220 140 206 146 C192 140 190 122 206 104Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="247.0" y="150" width="18" height="70" rx="5" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-flame" data-pivot="256 140">
+    <path d="M256 104 C272 122 270 140 256 146 C242 140 240 122 256 104Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="297.0" y="150" width="18" height="70" rx="5" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-flame" data-pivot="306 140">
+    <path d="M306 104 C322 122 320 140 306 146 C292 140 290 122 306 104Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="347.0" y="150" width="18" height="70" rx="5" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-flame" data-pivot="356 140">
+    <path d="M356 104 C372 122 370 140 356 146 C342 140 340 122 356 104Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

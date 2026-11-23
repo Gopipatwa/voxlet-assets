@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-argentina"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-argentina)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#74ACDF"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#FFFFFF"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#74ACDF"/>
+    <polygon points="162.5,98.2 176.6,100.0 162.5,101.8" fill="#F6B40E"/>
+    <polygon points="162.2,103.2 174.6,110.2 160.9,106.4" fill="#F6B40E"/>
+    <polygon points="160.1,107.6 168.8,118.8 157.6,110.1" fill="#F6B40E"/>
+    <polygon points="156.4,110.9 160.2,124.6 153.2,112.2" fill="#F6B40E"/>
+    <polygon points="151.8,112.5 150.0,126.6 148.2,112.5" fill="#F6B40E"/>
+    <polygon points="146.8,112.2 139.8,124.6 143.6,110.9" fill="#F6B40E"/>
+    <polygon points="142.4,110.1 131.2,118.8 139.9,107.6" fill="#F6B40E"/>
+    <polygon points="139.1,106.4 125.4,110.2 137.8,103.2" fill="#F6B40E"/>
+    <polygon points="137.5,101.8 123.4,100.0 137.5,98.2" fill="#F6B40E"/>
+    <polygon points="137.8,96.8 125.4,89.8 139.1,93.6" fill="#F6B40E"/>
+    <polygon points="139.9,92.4 131.2,81.2 142.4,89.9" fill="#F6B40E"/>
+    <polygon points="143.6,89.1 139.8,75.4 146.8,87.8" fill="#F6B40E"/>
+    <polygon points="148.2,87.5 150.0,73.4 151.8,87.5" fill="#F6B40E"/>
+    <polygon points="153.2,87.8 160.2,75.4 156.4,89.1" fill="#F6B40E"/>
+    <polygon points="157.6,89.9 168.8,81.2 160.1,92.4" fill="#F6B40E"/>
+    <polygon points="160.9,93.6 174.6,89.8 162.2,96.8" fill="#F6B40E"/>
+    <circle cx="150" cy="100" r="14" fill="#F6B40E"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

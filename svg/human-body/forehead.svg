@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <ellipse cx="110" cy="270" rx="34" ry="52" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="402" cy="270" rx="34" ry="52" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="256" cy="270" rx="150" ry="180" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M106 230 C96 80 416 80 406 230 C380 150 330 130 256 130 C182 130 132 150 106 230Z" fill="#4A3B32" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M166 218 Q200 200 234 218" fill="none" stroke="#4A3B32" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="200" cy="258" rx="26" ry="18" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-left" data-pivot="200 258">
+    <circle cx="200.0" cy="258.0" r="12.0" fill="#1F1F24"/>
+    <circle cx="204.2" cy="253.8" r="4.2" fill="#FFFFFF"/>
+  </g>
+  <path d="M278 218 Q312 200 346 218" fill="none" stroke="#4A3B32" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="312" cy="258" rx="26" ry="18" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-right" data-pivot="312 258">
+    <circle cx="312.0" cy="258.0" r="12.0" fill="#1F1F24"/>
+    <circle cx="316.2" cy="253.8" r="4.2" fill="#FFFFFF"/>
+  </g>
+  <path d="M256 270 L240 330 H268" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 270 L240 330 H268" fill="none" stroke="#E0A878" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 380 Q256 410 302 380 Q256 396 210 380Z" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="170" r="60" fill="none" stroke="#F5913E" stroke-width="10"/>
+</svg>

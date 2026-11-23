@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="176,300 130,470 186,440 214,490 250,320" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="336,300 382,470 326,440 298,490 262,320" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(256 196) scale(0.74) translate(-256 -256)">
+    <polygon points="256.0,56.0 279.5,77.5 307.8,62.8 324.9,89.7 356.0,82.8 365.6,113.2 397.4,114.6 398.8,146.4 429.2,156.0 422.3,187.1 449.2,204.2 434.5,232.5 456.0,256.0 434.5,279.5 449.2,307.8 422.3,324.9 429.2,356.0 398.8,365.6 397.4,397.4 365.6,398.8 356.0,429.2 324.9,422.3 307.8,449.2 279.5,434.5 256.0,456.0 232.5,434.5 204.2,449.2 187.1,422.3 156.0,429.2 146.4,398.8 114.6,397.4 113.2,365.6 82.8,356.0 89.7,324.9 62.8,307.8 77.5,279.5 56.0,256.0 77.5,232.5 62.8,204.2 89.7,187.1 82.8,156.0 113.2,146.4 114.6,114.6 146.4,113.2 156.0,82.8 187.1,89.7 204.2,62.8 232.5,77.5" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="256" cy="256" r="130" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

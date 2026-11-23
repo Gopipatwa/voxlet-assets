@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 256) scale(1.0 1.0) translate(-256 -256)">
+    <rect x="80" y="100" width="352" height="340" rx="30" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M80 130 C80 112 94 100 112 100 H400 C418 100 432 112 432 130 V180 H80 Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M160 70 V130" fill="none" stroke="#2E2A3B" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M160 70 V130" fill="none" stroke="#2E2A3B" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M352 70 V130" fill="none" stroke="#2E2A3B" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M352 70 V130" fill="none" stroke="#2E2A3B" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="110" y="210" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="172" y="210" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="234" y="210" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="296" y="210" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="358" y="210" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="110" y="280" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="172" y="280" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="234" y="280" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="296" y="280" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="358" y="280" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="110" y="350" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="172" y="350" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="234" y="350" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="296" y="350" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <rect x="358" y="350" width="46" height="46" rx="8" fill="#C9CED6"/>
+    <path d="M330 302 A36 36 0 1 1 329 302" fill="none" stroke="#2E2A3B" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 302 A36 36 0 1 1 329 302" fill="none" stroke="#F5913E" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <polygon points="267.0,159.1 263.5,160.7 259.8,161.7 256.0,162.0 252.2,161.7 248.5,160.7 245.0,159.1 241.9,156.9 239.1,154.1 236.9,151.0 235.3,147.5 234.3,143.8 234.0,140.0 234.3,136.2 235.3,132.5 236.9,129.0 239.1,125.9 241.9,123.1 245.0,120.9 248.5,119.3 252.2,118.3 256.0,118.0 259.8,118.3 263.5,119.3 267.0,120.9 271.1,123.9 268.2,123.1 265.2,122.8 262.3,123.1 259.4,123.9 256.7,125.1 254.2,126.9 252.1,129.0 250.4,131.4 249.1,134.1 248.3,137.0 248.1,140.0 248.3,143.0 249.1,145.9 250.4,148.6 252.1,151.0 254.2,153.1 256.7,154.9 259.4,156.1 262.3,156.9 265.2,157.2 268.2,156.9 271.1,156.1" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

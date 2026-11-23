@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-moldova"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-moldova)">
+    <rect x="0" y="0" width="100.5" height="200" fill="#003DA5"/>
+    <rect x="100" y="0" width="100.5" height="200" fill="#FFD200"/>
+    <rect x="200" y="0" width="100.5" height="200" fill="#CC092F"/>
+    <path d="M130 70 C140 60 160 60 170 70 L180 110 L150 140 L120 110 Z" fill="#B07E2B"/>
+    <path d="M136 90 H164 V118 L150 128 L136 118 Z" fill="#CC092F"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

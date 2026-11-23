@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="130" y="280" width="252" height="170" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M176 280 C176 208.0 232.0 192.0 256 152.0 C280.0 192.0 336 208.0 336 280Z" fill="#E8DCC8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 152.0 V124.0" fill="none" stroke="#2E2A3B" stroke-width="26.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 152.0 V124.0" fill="none" stroke="#E8A520" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="118.4" r="8.0" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="130" y="340" width="252" height="110" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M145 450 V395 C145 362 172 355 172 351 C172 355 199 362 199 395 V450Z" fill="#2F8A4A"/>
+  <path d="M229 450 V395 C229 362 256 355 256 351 C256 355 283 362 283 395 V450Z" fill="#2F8A4A"/>
+  <path d="M313 450 V395 C313 362 340 355 340 351 C340 355 367 362 367 395 V450Z" fill="#2F8A4A"/>
+</svg>

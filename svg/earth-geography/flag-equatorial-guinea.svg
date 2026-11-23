@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-equatorial-guinea"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-equatorial-guinea)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#3E9A00"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#FFFFFF"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#E32118"/>
+    <polygon points="0.0,0.0 75.0,100.0 0.0,200.0" fill="#0073CE"/>
+    <path d="M140 80 H160 V118 L150 126 L140 118 Z" fill="#C8C8C8"/>
+    <circle cx="150" cy="90" r="8" fill="#3E9A00"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

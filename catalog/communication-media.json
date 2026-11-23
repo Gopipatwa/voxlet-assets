@@ -1,0 +1,176 @@
+{
+  "id": "communication-media",
+  "name": "Communication & Media",
+  "description": "Phone calls, messages, speech and thought bubbles, email, post, newspapers, magazines, TV, radio, podcasts, megaphones, microphones and social-media symbols (no brand logos). Phones as devices belong to technology; hashtag and at sign to symbols-signs.",
+  "groups": [
+    {
+      "id": "calls",
+      "name": "Phone calls",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["ring", "shake"],
+      "items": [
+        "phone call",
+        "incoming call",
+        "outgoing call",
+        "missed call",
+        "video call",
+        "conference call",
+        ["landline telephone", "telephone"],
+        "phone receiver",
+        "rotary phone",
+        ["public phone booth", "telephone box"]
+      ]
+    },
+    {
+      "id": "messages",
+      "name": "Messages and bubbles",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "float"],
+      "items": [
+        ["text message", "sms"],
+        ["chat bubbles", "chat"],
+        "speech bubble",
+        "thought bubble",
+        "shout bubble",
+        "whisper bubble",
+        ["typing indicator", "typing dots"],
+        ["voice message", "voice note"],
+        "emoji message",
+        "group chat",
+        "unread message badge"
+      ]
+    },
+    {
+      "id": "email-post",
+      "name": "Email and post",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["fly", "slide"],
+      "items": [
+        "email",
+        "inbox",
+        "spam email",
+        ["envelope", "letter"],
+        "open envelope",
+        "love letter",
+        "postage stamp",
+        ["post box", "mailbox"],
+        "letterbox",
+        ["parcel", "package"],
+        "courier box",
+        "postmark",
+        "carrier pigeon message"
+      ]
+    },
+    {
+      "id": "news",
+      "name": "News and print",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        "newspaper",
+        "newspaper headline",
+        "magazine",
+        "breaking news",
+        "news broadcast",
+        "press conference",
+        "press card",
+        "printing newspaper"
+      ]
+    },
+    {
+      "id": "tv-radio",
+      "name": "TV and radio",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse", "glow"],
+      "items": [
+        ["television", "tv"],
+        "old television",
+        "tv remote",
+        "satellite dish",
+        "tv antenna",
+        "radio",
+        "old radio",
+        ["radio tower", "broadcast tower"],
+        "walkie-talkie",
+        "on air sign"
+      ]
+    },
+    {
+      "id": "podcasts-audio",
+      "name": "Podcasts and audio",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse"],
+      "items": [
+        "podcast",
+        "microphone",
+        "studio microphone",
+        "headphones",
+        "recording studio",
+        ["audio wave", "sound wave icon"]
+      ]
+    },
+    {
+      "id": "megaphones",
+      "name": "Loud announcements",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["shake", "pulse"],
+      "items": [
+        ["megaphone", "bullhorn"],
+        "loudspeaker",
+        "public announcement",
+        "town crier bell"
+      ]
+    },
+    {
+      "id": "social",
+      "name": "Social media symbols",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "beat"],
+      "items": [
+        "social media",
+        "like button",
+        "heart reaction",
+        "comment bubble",
+        "share arrow",
+        "subscribe button",
+        "followers",
+        "notification badge",
+        "live stream",
+        "going viral",
+        "trending",
+        "influencer",
+        "selfie",
+        "online status",
+        "offline status",
+        "fake news",
+        "cyberbullying",
+        "digital detox"
+      ]
+    },
+    {
+      "id": "talking",
+      "name": "Talking and old signals",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["wave"],
+      "items": [
+        "conversation",
+        "public speaking",
+        "interview",
+        "storytelling",
+        "smoke signals",
+        "signal flags",
+        "morse code message",
+        "tin can phone"
+      ]
+    }
+  ]
+}

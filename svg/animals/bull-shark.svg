@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M64 256 C24 215 -30 165 -68 148 C-30 256 -30 256 -68 364 C-30 347 24 297 64 256Z" fill="#5A606C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="187,190 229,99 282,186" fill="#5A606C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M452 256 C389 161 112 161 28 256 C112 351 389 351 452 256Z" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M421 273 C346 326 134 326 59 273 C134 293 346 293 421 273Z" fill="#FFFFFF"/>
+  <path d="M251 264 C219 297 198 306 187 302 C208 281 229 264 251 264Z" fill="#5A606C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M336 198 C314 239 314 273 336 314" fill="none" stroke="#505560" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M436 266 q-16 6 -28 -2" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="389,266 402,281 414,266" fill="#FFFFFF"/>
+  <g id="part-eye-right" data-pivot="380 239">
+    <circle cx="380.2" cy="239.4" r="13.2" fill="#1F1F24"/>
+    <circle cx="384.9" cy="234.8" r="4.6" fill="#FFFFFF"/>
+  </g>
+</svg>

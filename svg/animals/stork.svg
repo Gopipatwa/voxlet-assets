@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(11.2 26.0) scale(1.000)">
+    <path d="M211 260 L211 436" fill="none" stroke="#2E2A3B" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M211 260 L211 436" fill="none" stroke="#E5484D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M193 438 L233 438 M211 436 L221 426" fill="none" stroke="#2E2A3B" stroke-width="27" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M193 438 L233 438 M211 436 L221 426" fill="none" stroke="#E5484D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M244 260 L244 436" fill="none" stroke="#2E2A3B" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M244 260 L244 436" fill="none" stroke="#E5484D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M226 438 L266 438 M244 436 L254 426" fill="none" stroke="#2E2A3B" stroke-width="27" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M226 438 L266 438 M244 436 L254 426" fill="none" stroke="#E5484D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="164,207 110,215 164,237" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M278 194 C316 161 273 125 294 87" fill="none" stroke="#2E2A3B" stroke-width="58.25" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M278 194 C316 161 273 125 294 87" fill="none" stroke="#FFFFFF" stroke-width="38.25" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="230" cy="214" rx="95" ry="66" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-wing-left" data-pivot="230 194">
+      <path d="M263 190 C211 174 144 200 149 237 C192 243 249 227 263 190Z" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+    <circle cx="299" cy="74" r="42" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <polygon points="331,68 413,80 331,84" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-eye-right" data-pivot="311 67">
+      <circle cx="311.3" cy="67.5" r="6.8" fill="#1F1F24"/>
+      <circle cx="313.7" cy="65.1" r="2.4" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

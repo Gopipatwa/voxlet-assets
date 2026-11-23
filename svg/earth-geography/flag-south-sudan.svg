@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-south-sudan"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-south-sudan)">
+    <rect x="0" y="0" width="300" height="60.5" fill="#000000"/>
+    <rect x="0" y="60" width="300" height="10.5" fill="#FFFFFF"/>
+    <rect x="0" y="70" width="300" height="60.5" fill="#DA121A"/>
+    <rect x="0" y="130" width="300" height="10.5" fill="#FFFFFF"/>
+    <rect x="0" y="140" width="300" height="60.5" fill="#078930"/>
+    <polygon points="0.0,0.0 120.0,100.0 0.0,200.0" fill="#0F47AF"/>
+    <polygon points="40.0,80.0 44.5,93.8 59.0,93.8 47.3,102.4 51.8,116.2 40.0,107.6 28.2,116.2 32.7,102.4 21.0,93.8 35.5,93.8" fill="#FCDD09"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

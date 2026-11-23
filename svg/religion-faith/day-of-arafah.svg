@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="60,460 256,230 452,460" fill="#BFA58A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="244" y="120" width="24" height="120" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="20" y="430" width="472" height="40" rx="20" fill="#EBCB94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="60" cy="440" r="8" fill="#FFFFFF"/>
+  <circle cx="86" cy="452" r="8" fill="#FFFFFF"/>
+  <circle cx="112" cy="446" r="8" fill="#FFFFFF"/>
+  <circle cx="138" cy="440" r="8" fill="#FFFFFF"/>
+  <circle cx="164" cy="452" r="8" fill="#FFFFFF"/>
+  <circle cx="190" cy="446" r="8" fill="#FFFFFF"/>
+  <circle cx="216" cy="440" r="8" fill="#FFFFFF"/>
+  <circle cx="242" cy="452" r="8" fill="#FFFFFF"/>
+  <circle cx="268" cy="446" r="8" fill="#FFFFFF"/>
+  <circle cx="294" cy="440" r="8" fill="#FFFFFF"/>
+  <circle cx="320" cy="452" r="8" fill="#FFFFFF"/>
+  <circle cx="346" cy="446" r="8" fill="#FFFFFF"/>
+  <circle cx="372" cy="440" r="8" fill="#FFFFFF"/>
+  <circle cx="398" cy="452" r="8" fill="#FFFFFF"/>
+  <circle cx="424" cy="446" r="8" fill="#FFFFFF"/>
+  <circle cx="450" cy="440" r="8" fill="#FFFFFF"/>
+  <circle cx="400" cy="100" r="40" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

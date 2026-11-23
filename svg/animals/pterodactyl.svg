@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="part-wing-left" data-pivot="256 260">
+    <path d="M240 250 L40 180 L120 300 Z" fill="#A8784A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g id="part-wing-right" data-pivot="256 260">
+    <path d="M272 250 L472 180 L392 300 Z" fill="#A8784A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <ellipse cx="256" cy="270" rx="40" ry="70" fill="#C1662E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 190 C300 170 380 180 420 200 L270 220 Z" fill="#C1662E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M250 196 C230 160 200 140 180 136 L250 180 Z" fill="#C1662E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-right" data-pivot="276 196">
+    <circle cx="276.0" cy="196.0" r="6.0" fill="#1F1F24"/>
+    <circle cx="278.1" cy="193.9" r="2.1" fill="#FFFFFF"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="part-glow" data-pivot="256 256">
+    <path d="M400 256 L454 256" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M381 328 L427 355" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M328 381 L355 427" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M256 400 L256 454" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M184 381 L157 427" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M131 328 L85 355" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M112 256 L58 256" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M131 184 L85 157" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M184 131 L157 85" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M256 112 L256 58" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M328 131 L355 85" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M381 184 L427 157" fill="none" stroke="#F5913E" stroke-width="21.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="256" cy="256" r="120" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="220.0" cy="220.0" r="30.0" fill="#FFE38A"/>
+</svg>

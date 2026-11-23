@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 256) scale(1.0 1.0) translate(-256 -256)">
+    <polygon points="256,300 200,440 312,440" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g transform="rotate(0 256 290)">
+      <rect x="50" y="270" width="412" height="30" rx="12" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+      <g transform="translate(130 200) scale(0.3 0.3) translate(-256 -256)">
+        <rect x="100" y="70" width="312" height="390" rx="24" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+        <rect x="140" y="124" width="52" height="52" rx="10" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+        <path d="M150 150 L162 162 L184 136" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M220 150 H370" fill="none" stroke="#C9CED6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="140" y="214" width="52" height="52" rx="10" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+        <path d="M150 240 L162 252 L184 226" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M220 240 H370" fill="none" stroke="#C9CED6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="140" y="304" width="52" height="52" rx="10" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+        <path d="M220 330 H370" fill="none" stroke="#C9CED6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g transform="translate(382 200) scale(0.3 0.3) translate(-256 -256)">
+        <path d="M256 432 C140 352 68 282 68 190 C68 128 114 84 172 84 C210 84 240 104 256 134 C272 104 302 84 340 84 C398 84 444 128 444 190 C444 282 372 352 256 432Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+      </g>
+    </g>
+  </g>
+</svg>

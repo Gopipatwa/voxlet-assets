@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-mali"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-mali)">
+    <rect x="0" y="0" width="100.5" height="200" fill="#14B53A"/>
+    <rect x="100" y="0" width="100.5" height="200" fill="#FCD116"/>
+    <rect x="200" y="0" width="100.5" height="200" fill="#CE1126"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#3D8BC9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M24 420 C120 400 220 430 320 410 C400 396 450 420 488 414 V452 C488 472 472 488 452 488 H60 C40 488 24 472 24 452Z" fill="#E8D8A8"/>
+  <ellipse cx="180" cy="420" rx="40" ry="16" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="180" cy="416" rx="26" ry="8" fill="#F7D57A"/>
+  <ellipse cx="250" cy="400" rx="40" ry="16" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="250" cy="396" rx="26" ry="8" fill="#F7D57A"/>
+  <ellipse cx="320" cy="424" rx="40" ry="16" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="320" cy="420" rx="26" ry="8" fill="#F7D57A"/>
+  <ellipse cx="220" cy="380" rx="40" ry="16" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="220" cy="376" rx="26" ry="8" fill="#F7D57A"/>
+  <ellipse cx="290" cy="370" rx="40" ry="16" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="290" cy="366" rx="26" ry="8" fill="#F7D57A"/>
+</svg>

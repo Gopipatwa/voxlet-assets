@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M140 360 C40 360 40 200 120 180 C110 260 150 320 180 340Z" fill="#C1662E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="250" cy="340" rx="140" ry="100" fill="#C1662E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="300" cy="370" rx="80" ry="55" fill="#F2D3B0"/>
+  <circle cx="300" cy="240" r="34" fill="#C1662E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="300" cy="240" r="18" fill="#F7A1B5"/>
+  <ellipse cx="200" cy="438" rx="26" ry="12" fill="#F7A1B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="300" cy="438" rx="26" ry="12" fill="#F7A1B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="388" cy="330" r="12" fill="#F7A1B5"/>
+  <path d="M380 336 l50 -8 M380 344 l48 10" fill="none" stroke="#2E2A3B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="part-eye-right" data-pivot="350 300">
+    <circle cx="350.0" cy="300.0" r="12.0" fill="#1F1F24"/>
+    <circle cx="354.2" cy="295.8" r="4.2" fill="#FFFFFF"/>
+  </g>
+</svg>

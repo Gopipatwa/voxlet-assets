@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-cyprus"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-cyprus)">
+    <rect x="0" y="0" width="300" height="200" fill="#FFFFFF"/>
+    <path d="M90 80 C120 60 190 50 230 60 C220 75 200 80 210 95 C180 105 150 100 120 110 C100 108 85 95 90 80 Z" fill="#D57800"/>
+    <path d="M110 150 C130 140 150 140 150 140 M190 150 C170 140 150 140 150 140" fill="none" stroke="#4E5B31" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

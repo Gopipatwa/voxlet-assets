@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="95.0" y="160" width="30" height="280" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="86.0" y="266.4" width="48.0" height="13.5" rx="3" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="89.0" y="148.0" width="42.0" height="13.5" rx="3" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="93.5,148.0 126.5,148.0 110,94.0" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="110" cy="89.5" r="5.3999999999999995" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="385.0" y="200" width="30" height="240" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="376.0" y="291.2" width="48.0" height="13.5" rx="3" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="379.0" y="188.0" width="42.0" height="13.5" rx="3" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="383.5,188.0 416.5,188.0 400,134.0" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="400" cy="129.5" r="5.3999999999999995" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="320" width="392" height="120" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M72 440 V380 C72 344 93 337 93 332 C93 337 114 344 114 380 V440Z" fill="#7A6A55"/>
+  <path d="M137 440 V380 C137 344 158 337 158 332 C158 337 179 344 179 380 V440Z" fill="#7A6A55"/>
+  <path d="M202 440 V380 C202 344 223 337 223 332 C223 337 244 344 244 380 V440Z" fill="#7A6A55"/>
+  <path d="M268 440 V380 C268 344 289 337 289 332 C289 337 310 344 310 380 V440Z" fill="#7A6A55"/>
+  <path d="M333 440 V380 C333 344 354 337 354 332 C354 337 375 344 375 380 V440Z" fill="#7A6A55"/>
+  <path d="M398 440 V380 C398 344 419 337 419 332 C419 337 440 344 440 380 V440Z" fill="#7A6A55"/>
+</svg>

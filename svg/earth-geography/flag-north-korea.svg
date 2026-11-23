@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-north-korea"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-north-korea)">
+    <rect x="0" y="0" width="300" height="39.2097" fill="#024FA2"/>
+    <rect x="0" y="38.7097" width="300" height="6.95161" fill="#FFFFFF"/>
+    <rect x="0" y="45.1613" width="300" height="110.177" fill="#ED1C27"/>
+    <rect x="0" y="154.839" width="300" height="6.95161" fill="#FFFFFF"/>
+    <rect x="0" y="161.29" width="300" height="39.2097" fill="#024FA2"/>
+    <circle cx="100" cy="100" r="42" fill="#FFFFFF"/>
+    <polygon points="100.0,60.0 109.0,87.6 138.0,87.6 114.5,104.7 123.5,132.4 100.0,115.3 76.5,132.4 85.5,104.7 62.0,87.6 91.0,87.6" fill="#ED1C27"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

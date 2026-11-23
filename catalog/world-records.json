@@ -1,0 +1,119 @@
+{
+  "id": "world-records",
+  "name": "World Records",
+  "description": "Record certificates and books, tallest / longest / fastest / heaviest / oldest / smallest markers, size-comparison scales and the record podium, plus see links to record holders in other categories.",
+  "groups": [
+    {
+      "id": "record-items",
+      "name": "Record items",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "glow"],
+      "items": [
+        "world record",
+        "record certificate",
+        "record book",
+        "record holder badge",
+        "new record tile",
+        "record broken",
+        "world record trophy",
+        "record podium",
+        "stopwatch record time",
+        "measuring record"
+      ]
+    },
+    {
+      "id": "superlative-markers",
+      "name": "Superlative markers",
+      "kind": "tile",
+      "recolor": "themed",
+      "motion": ["pop", "rise"],
+      "items": [
+        ["tallest marker", "tallest"],
+        ["longest marker", "longest"],
+        ["fastest marker", "fastest"],
+        ["slowest marker", "slowest"],
+        ["heaviest marker", "heaviest"],
+        ["lightest marker", "lightest"],
+        ["biggest marker", "biggest", "largest"],
+        ["smallest marker", "smallest"],
+        ["oldest marker", "oldest"],
+        ["youngest marker", "youngest"],
+        ["deepest marker", "deepest"],
+        ["highest marker", "highest"],
+        ["hottest marker", "hottest"],
+        ["coldest marker", "coldest"],
+        ["loudest marker", "loudest"],
+        ["most marker", "the most"],
+        ["first ever marker", "first ever"]
+      ]
+    },
+    {
+      "id": "size-scales",
+      "name": "Size-comparison scales",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["grow", "slide"],
+      "items": [
+        ["size comparison", "size scale"],
+        "height comparison chart",
+        "human for scale",
+        "banana for scale",
+        "building height comparison",
+        "animal size comparison",
+        "planet size comparison",
+        "speed comparison chart"
+      ]
+    },
+    {
+      "id": "record-animals",
+      "name": "Record-holding animals",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["walk"],
+      "items": [
+      ],
+      "see": ["blue-whale", "cheetah", "giraffe", "ostrich", "hummingbird", "peregrine-falcon", "sailfish", "whale-shark", "giant-tortoise", "komodo-dragon", "sloth", "african-elephant", "saltwater-crocodile"]
+    },
+    {
+      "id": "record-places",
+      "name": "Record-holding places",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+      ],
+      "see": ["mount-everest", "mariana-trench", "nile", "amazon-river", "sahara-desert", "antarctic-desert", "pacific-ocean", "lake-baikal", "greenland", "angel-falls", "russia", "vatican-city", "dead-sea", "caspian-sea"]
+    },
+    {
+      "id": "record-buildings",
+      "name": "Record-holding buildings",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rise"],
+      "items": [
+      ],
+      "see": ["burj-khalifa", "great-wall-of-china", "jeddah-tower"]
+    },
+    {
+      "id": "record-space",
+      "name": "Record-holding space objects",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["spin"],
+      "items": [
+      ],
+      "see": ["sun", "jupiter", "mercury-planet", "venus-planet", "neptune"]
+    },
+    {
+      "id": "record-nature",
+      "name": "Record-holding nature",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["grow"],
+      "items": [
+      ],
+      "see": ["sequoia", "baobab-tree"]
+    }
+  ]
+}

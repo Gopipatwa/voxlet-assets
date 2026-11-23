@@ -1,0 +1,144 @@
+{
+  "id": "law-government",
+  "name": "Law & Government",
+  "description": "Courthouses, gavels, scales of justice, constitutions, parliaments, voting and elections, ID documents and passports, police items, contracts, tax and human rights. Police officers and judges as people belong to jobs-people.",
+  "groups": [
+    {
+      "id": "justice",
+      "name": "Justice and courts",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "shake"],
+      "items": [
+        ["courthouse", "court"],
+        ["gavel", "judge's hammer"],
+        "scales of justice",
+        "balance of justice",
+        "courtroom",
+        "witness stand",
+        "jury",
+        "judge's bench",
+        "law book",
+        "legal document",
+        "verdict",
+        "guilty verdict",
+        "not guilty verdict",
+        ["prison", "jail"],
+        "prison bars",
+        "handcuffs",
+        "fingerprint record",
+        "evidence bag"
+      ]
+    },
+    {
+      "id": "government",
+      "name": "Government",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["rise", "wave"],
+      "items": [
+        "government",
+        ["parliament", "parliament building"],
+        "constitution",
+        ["law", "rule of law"],
+        "democracy",
+        "monarchy",
+        "republic",
+        "president's desk",
+        "prime minister's office",
+        "cabinet meeting",
+        "ministry building",
+        "city hall",
+        "embassy",
+        ["united nations", "un"],
+        "flag pole",
+        "national emblem",
+        "national symbols",
+        "debate in parliament"
+      ]
+    },
+    {
+      "id": "elections",
+      "name": "Voting and elections",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "drop"],
+      "items": [
+        ["voting", "vote"],
+        "ballot box",
+        "ballot paper",
+        ["voting machine", "evm"],
+        ["ink-marked finger", "voter ink"],
+        "election",
+        "polling booth",
+        "campaign poster",
+        "political rally",
+        "election results"
+      ]
+    },
+    {
+      "id": "documents",
+      "name": "ID and documents",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        "passport",
+        "visa",
+        ["id card", "identity card"],
+        ["aadhaar card", "national id card"],
+        "driving licence",
+        "birth certificate",
+        "marriage certificate",
+        "contract",
+        "signature",
+        ["stamp seal", "rubber stamp"],
+        "notary stamp",
+        "certificate of citizenship",
+        ["residence permit", "iqama"],
+        "license",
+        "will document"
+      ]
+    },
+    {
+      "id": "police",
+      "name": "Police",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "pulse"],
+      "items": [
+        "police badge",
+        "police station",
+        ["police car light", "siren light"],
+        ["police barrier tape", "do not cross tape"],
+        "wanted poster",
+        "mugshot board",
+        "detective badge"
+      ]
+    },
+    {
+      "id": "rights-tax",
+      "name": "Rights, tax and society",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "human rights",
+        "children's rights",
+        "women's rights",
+        "freedom of speech",
+        "equality before law",
+        "tax",
+        "tax form",
+        "income tax",
+        "customs",
+        ["bribery", "corruption"],
+        "crime",
+        "theft",
+        ["fine", "penalty ticket"],
+        "lawsuit",
+        ["patent law", "copyright law"]
+      ]
+    }
+  ]
+}

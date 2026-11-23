@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="#5A5662" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="366,200 426,280 406,380 316,410 296,300" fill="#423E4A"/>
+  <path d="M146 200 L296 300 L366 200 M296 300 L316 410" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><clipPath id="r-silver-ore-a"><polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410"/></clipPath></defs>
+  <g clip-path="url(#r-silver-ore-a)">
+  <path d="M80 250 C160 230 220 300 300 270 C360 250 420 300 470 280" fill="none" stroke="#E8ECF2" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 250 C160 230 220 300 300 270 C360 250 420 300 470 280" fill="none" stroke="#B8C0CC" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 360 C200 340 280 380 360 350" fill="none" stroke="#E8ECF2" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 360 C200 340 280 380 360 350" fill="none" stroke="#B8C0CC" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

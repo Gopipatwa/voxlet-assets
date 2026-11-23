@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(15.7 20.0) scale(1.000)">
+    <path d="M256 366 L263 406 L264 435 Q273 445 282 437 L288 406 L287 363 Z" fill="#24212F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="278" cy="437" rx="15" ry="7" fill="#24212F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M162 363 L161 402 L168 437 Q177 445 186 435 L186 402 L193 366 Z" fill="#24212F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="183" cy="437" rx="15" ry="7" fill="#24212F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="96" cy="316" rx="18" ry="14" fill="#8C96A3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="355" cy="273" r="15" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M96 346 C90 294 126 282 166 285 C212 295 265 280 307 279 C350 285 364 335 357 365 C354 405 317 420 278 418 C238 415 199 402 166 408 C113 416 97 387 96 346 Z" fill="#8C96A3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="159" cy="359" rx="45" ry="58" fill="#8C96A3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M271 289 C304 274 331 301 348 285 L384 325 C372 358 364 328 350 372 Z" fill="#8C96A3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M359.5 346.4 L411.0 363.7 A20.2 20.2 0 0 0 434.4 333.7 L405.2 287.9 A39.4 39.4 0 1 0 359.5 346.4 Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M280 366 L288 406 L290 435 Q300 446 310 437 L315 406 L315 363 Z" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M129 363 L130 402 L138 437 Q148 446 158 435 L159 402 L168 367 Z" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M96 346 C90 294 126 282 166 285 C212 295 265 280 307 279 C350 285 364 335 357 365 C354 405 317 420 278 418 C238 415 199 402 166 408 C113 416 97 387 96 346 Z" fill="#8C96A3"/>
+    <ellipse cx="159" cy="359" rx="45" ry="58" fill="#8C96A3"/>
+    <path d="M271 289 C304 274 331 301 348 285 L384 325 C372 358 364 328 350 372 Z" fill="#8C96A3"/>
+    <path d="M359.5 346.4 L411.0 363.7 A20.2 20.2 0 0 0 434.4 333.7 L405.2 287.9 A39.4 39.4 0 1 0 359.5 346.4 Z" fill="#FFFFFF"/>
+    <path d="M280 366 L288 406 L290 435 Q300 446 310 437 L315 406 L315 363 Z" fill="#2E2A3B"/>
+    <path d="M129 363 L130 402 L138 437 Q148 446 158 435 L159 402 L168 367 Z" fill="#2E2A3B"/>
+    <ellipse cx="305" cy="437" rx="15" ry="7" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="153" cy="437" rx="15" ry="7" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <defs><clipPath id="clip-6b099bd7fe"><path d="M96 346 C90 294 126 282 166 285 C212 295 265 280 307 279 C350 285 364 335 357 365 C354 405 317 420 278 418 C238 415 199 402 166 408 C113 416 97 387 96 346 Z"/></clipPath></defs>
+    <g clip-path="url(#clip-6b099bd7fe)">
+    </g>
+    <path d="M188 316 C201 357 188 387 168 405" fill="none" stroke="#626972" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="382" cy="302" rx="15" ry="12" fill="#2E2A3B"/>
+    <circle cx="417" cy="345" r="19" fill="#FFFFFF"/>
+    <path d="M432 354 Q419 359 407 354" fill="none" stroke="#8C8C8C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="428" cy="338" rx="6" ry="5" fill="#1F1F24"/>
+    <g id="part-eye-right" data-pivot="385 302">
+      <circle cx="384.6" cy="302.0" r="7.0" fill="#1F1F24"/>
+      <circle cx="387.0" cy="299.6" r="2.4" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

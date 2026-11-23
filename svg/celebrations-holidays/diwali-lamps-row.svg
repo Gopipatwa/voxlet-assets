@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(70 300) scale(0.32) translate(-256 -300)">
+    <path d="M100 300 C140 400 372 400 412 300 C380 320 132 320 100 300Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M100 300 C130 280 382 280 412 300 C380 320 132 320 100 300Z" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-flame" data-pivot="256 280">
+      <path d="M256 140 C296 190 300 250 256 280 C212 250 216 190 256 140Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+  </g>
+  <g transform="translate(160 300) scale(0.32) translate(-256 -300)">
+    <path d="M100 300 C140 400 372 400 412 300 C380 320 132 320 100 300Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M100 300 C130 280 382 280 412 300 C380 320 132 320 100 300Z" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-flame" data-pivot="256 280">
+      <path d="M256 140 C296 190 300 250 256 280 C212 250 216 190 256 140Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+  </g>
+  <g transform="translate(256 300) scale(0.32) translate(-256 -300)">
+    <path d="M100 300 C140 400 372 400 412 300 C380 320 132 320 100 300Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M100 300 C130 280 382 280 412 300 C380 320 132 320 100 300Z" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-flame" data-pivot="256 280">
+      <path d="M256 140 C296 190 300 250 256 280 C212 250 216 190 256 140Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+  </g>
+  <g transform="translate(352 300) scale(0.32) translate(-256 -300)">
+    <path d="M100 300 C140 400 372 400 412 300 C380 320 132 320 100 300Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M100 300 C130 280 382 280 412 300 C380 320 132 320 100 300Z" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-flame" data-pivot="256 280">
+      <path d="M256 140 C296 190 300 250 256 280 C212 250 216 190 256 140Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+  </g>
+  <g transform="translate(442 300) scale(0.32) translate(-256 -300)">
+    <path d="M100 300 C140 400 372 400 412 300 C380 320 132 320 100 300Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M100 300 C130 280 382 280 412 300 C380 320 132 320 100 300Z" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-flame" data-pivot="256 280">
+      <path d="M256 140 C296 190 300 250 256 280 C212 250 216 190 256 140Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+  </g>
+</svg>

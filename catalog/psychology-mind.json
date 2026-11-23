@@ -1,0 +1,254 @@
+{
+  "id": "psychology-mind",
+  "name": "Psychology & Mind",
+  "description": "Memory, dreams and sleep, personality types, introvert and extrovert, phobias, cognitive biases, perception, habit loops, motivation, Maslow's pyramid, left and right brain, therapy, déjà vu, IQ and conditioning. Faces and gestures belong to emotions-expressions; values and mindsets to concepts-ideas; optical illusions to brain-teasers-logic.",
+  "groups": [
+    {
+      "id": "mind-brain",
+      "name": "Mind and brain",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "pulse"],
+      "items": [
+        "mind",
+        ["brain with gears", "thinking brain"],
+        "left brain right brain",
+        ["left brain", "logical brain"],
+        ["right brain", "creative brain"],
+        "conscious mind",
+        "subconscious mind",
+        "iceberg of the mind",
+        "neurons firing",
+        "brain waves",
+        "neuroplasticity",
+        "dopamine",
+        "serotonin",
+        "brain chemicals"
+      ]
+    },
+    {
+      "id": "memory",
+      "name": "Memory",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "fade"],
+      "items": [
+        "memory",
+        "short-term memory",
+        "long-term memory",
+        "memory palace",
+        "forgetting curve",
+        ["forgetting", "forgetfulness"],
+        "false memory",
+        "muscle memory",
+        "amnesia",
+        "flashbulb memory",
+        "remembering"
+      ]
+    },
+    {
+      "id": "sleep-dreams",
+      "name": "Sleep and dreams",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["float", "breathe"],
+      "items": [
+        "sleep cycle",
+        "rem sleep",
+        "deep sleep",
+        ["dream", "dreaming"],
+        "nightmare",
+        "lucid dream",
+        "dream bubble",
+        "sleepwalking",
+        "sleep paralysis",
+        "power nap",
+        ["circadian rhythm", "body clock"],
+        "counting sheep"
+      ]
+    },
+    {
+      "id": "personality",
+      "name": "Personality",
+      "kind": "character",
+      "recolor": "themed",
+      "motion": ["pop", "wave"],
+      "items": [
+        "personality",
+        "personality types",
+        "introvert",
+        "extrovert",
+        "ambivert",
+        "optimist",
+        "pessimist",
+        "perfectionist",
+        "people pleaser",
+        "leader personality",
+        "type a personality",
+        "type b personality",
+        "big five traits",
+        "personality test"
+      ]
+    },
+    {
+      "id": "emotions-science",
+      "name": "Emotion science",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse", "morph"],
+      "items": [
+        "emotion wheel",
+        "fight or flight",
+        "stress response",
+        "emotional intelligence",
+        "mood swings",
+        "empathy brain",
+        "mirror neurons",
+        "laughter science"
+      ]
+    },
+    {
+      "id": "phobias",
+      "name": "Phobias",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["shake", "pulse"],
+      "items": [
+        "phobia",
+        ["fear of heights", "acrophobia"],
+        ["fear of spiders", "arachnophobia"],
+        ["fear of the dark", "nyctophobia"],
+        ["fear of small spaces", "claustrophobia"],
+        ["fear of crowds", "agoraphobia"],
+        ["fear of public speaking", "glossophobia"],
+        ["fear of water", "aquaphobia"],
+        ["fear of flying", "aerophobia"],
+        ["fear of snakes", "ophidiophobia"],
+        ["fear of needles", "trypanophobia"],
+        ["fear of missing out", "fomo"]
+      ]
+    },
+    {
+      "id": "biases",
+      "name": "Cognitive biases",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["morph", "pop"],
+      "items": [
+        "cognitive bias",
+        "confirmation bias",
+        "anchoring bias",
+        "bandwagon effect",
+        "dunning-kruger effect",
+        "halo effect",
+        "sunk cost fallacy",
+        "placebo effect",
+        "negativity bias",
+        "hindsight bias",
+        "gambler's fallacy",
+        "spotlight effect",
+        "choice overload"
+      ]
+    },
+    {
+      "id": "perception",
+      "name": "Perception and attention",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["morph", "blink"],
+      "items": [
+        "perception",
+        "selective attention",
+        "invisible gorilla test",
+        "change blindness",
+        ["pareidolia", "seeing faces in things"],
+        "colour perception",
+        "inattentional blindness"
+      ]
+    },
+    {
+      "id": "habits-motivation",
+      "name": "Habits and motivation",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["rise", "pulse"],
+      "items": [
+        "motivation",
+        ["habit loop", "cue routine reward"],
+        "habit formation",
+        "reward system",
+        "intrinsic motivation",
+        "extrinsic motivation",
+        "willpower",
+        ["delayed gratification", "marshmallow test"],
+        "flow state",
+        "procrastination brain"
+      ]
+    },
+    {
+      "id": "maslow",
+      "name": "Needs and wellbeing",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["rise", "grow"],
+      "items": [
+        ["maslow's pyramid", "hierarchy of needs"],
+        "basic needs",
+        "self-actualisation",
+        "happiness science",
+        "gratitude journal"
+      ]
+    },
+    {
+      "id": "therapy",
+      "name": "Therapy and help",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["breathe"],
+      "items": [
+        "therapy",
+        "therapist's couch",
+        "counselling session",
+        "group therapy",
+        ["cognitive behavioural therapy", "cbt"],
+        "art therapy",
+        "support group"
+      ]
+    },
+    {
+      "id": "strange-experiences",
+      "name": "Strange mind experiences",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["morph", "fade"],
+      "items": [
+        ["deja vu", "déjà vu"],
+        "jamais vu",
+        "tip of the tongue",
+        ["earworm", "song stuck in head"],
+        "brain freeze",
+        "hypnosis",
+        "daydreaming",
+        ["intuition", "gut feeling"],
+        "sixth sense"
+      ]
+    },
+    {
+      "id": "intelligence-learning",
+      "name": "Intelligence and conditioning",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "rise"],
+      "items": [
+        ["iq", "intelligence quotient"],
+        "iq test",
+        "multiple intelligences",
+        ["classical conditioning", "pavlov's dog"],
+        "operant conditioning",
+        "learning curve",
+        "growth of the brain",
+        "reaction time test"
+      ]
+    }
+  ]
+}

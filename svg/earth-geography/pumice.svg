@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="#DEDAD0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="366,200 426,280 406,380 316,410 296,300" fill="#C6C2B6"/>
+  <path d="M146 200 L296 300 L366 200 M296 300 L316 410" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><clipPath id="r-pumice-a"><polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410"/></clipPath></defs>
+  <g clip-path="url(#r-pumice-a)">
+  <ellipse cx="94" cy="305" rx="7" ry="8" fill="#A8A49C"/>
+  <ellipse cx="173" cy="306" rx="11" ry="9" fill="#A8A49C"/>
+  <ellipse cx="224" cy="244" rx="14" ry="6" fill="#A8A49C"/>
+  <ellipse cx="99" cy="240" rx="12" ry="7" fill="#A8A49C"/>
+  <ellipse cx="155" cy="372" rx="8" ry="9" fill="#A8A49C"/>
+  <ellipse cx="152" cy="261" rx="14" ry="6" fill="#A8A49C"/>
+  <ellipse cx="292" cy="301" rx="13" ry="8" fill="#A8A49C"/>
+  <ellipse cx="272" cy="302" rx="14" ry="6" fill="#A8A49C"/>
+  <ellipse cx="218" cy="244" rx="11" ry="6" fill="#A8A49C"/>
+  <ellipse cx="343" cy="234" rx="10" ry="5" fill="#A8A49C"/>
+  <ellipse cx="104" cy="184" rx="14" ry="6" fill="#A8A49C"/>
+  <ellipse cx="270" cy="214" rx="9" ry="4" fill="#A8A49C"/>
+  <ellipse cx="243" cy="197" rx="6" ry="7" fill="#A8A49C"/>
+  <ellipse cx="275" cy="163" rx="8" ry="9" fill="#A8A49C"/>
+  <ellipse cx="401" cy="176" rx="14" ry="9" fill="#A8A49C"/>
+  <ellipse cx="370" cy="261" rx="7" ry="8" fill="#A8A49C"/>
+  <ellipse cx="158" cy="242" rx="8" ry="6" fill="#A8A49C"/>
+  <ellipse cx="145" cy="247" rx="10" ry="5" fill="#A8A49C"/>
+  <ellipse cx="152" cy="247" rx="11" ry="6" fill="#A8A49C"/>
+  <ellipse cx="109" cy="383" rx="13" ry="5" fill="#A8A49C"/>
+  <ellipse cx="105" cy="221" rx="6" ry="7" fill="#A8A49C"/>
+  <ellipse cx="331" cy="290" rx="7" ry="5" fill="#A8A49C"/>
+  <ellipse cx="355" cy="201" rx="13" ry="5" fill="#A8A49C"/>
+  <ellipse cx="183" cy="190" rx="6" ry="7" fill="#A8A49C"/>
+  <ellipse cx="364" cy="289" rx="10" ry="8" fill="#A8A49C"/>
+  <ellipse cx="122" cy="378" rx="11" ry="6" fill="#A8A49C"/>
+  <ellipse cx="105" cy="226" rx="12" ry="7" fill="#A8A49C"/>
+  <ellipse cx="374" cy="404" rx="14" ry="6" fill="#A8A49C"/>
+  <ellipse cx="359" cy="340" rx="11" ry="9" fill="#A8A49C"/>
+  <ellipse cx="287" cy="371" rx="14" ry="9" fill="#A8A49C"/>
+  <ellipse cx="340" cy="378" rx="13" ry="8" fill="#A8A49C"/>
+  <ellipse cx="294" cy="389" rx="9" ry="4" fill="#A8A49C"/>
+  <ellipse cx="254" cy="377" rx="8" ry="6" fill="#A8A49C"/>
+  <ellipse cx="293" cy="343" rx="11" ry="9" fill="#A8A49C"/>
+  <ellipse cx="376" cy="242" rx="10" ry="8" fill="#A8A49C"/>
+  <ellipse cx="341" cy="165" rx="14" ry="9" fill="#A8A49C"/>
+  <ellipse cx="355" cy="192" rx="7" ry="5" fill="#A8A49C"/>
+  <ellipse cx="366" cy="358" rx="6" ry="4" fill="#A8A49C"/>
+  <ellipse cx="201" cy="370" rx="9" ry="7" fill="#A8A49C"/>
+  <ellipse cx="332" cy="327" rx="8" ry="6" fill="#A8A49C"/>
+  <ellipse cx="93" cy="282" rx="9" ry="7" fill="#A8A49C"/>
+  <ellipse cx="302" cy="199" rx="11" ry="6" fill="#A8A49C"/>
+  <ellipse cx="272" cy="293" rx="8" ry="6" fill="#A8A49C"/>
+  <ellipse cx="408" cy="213" rx="9" ry="4" fill="#A8A49C"/>
+  <ellipse cx="180" cy="315" rx="9" ry="4" fill="#A8A49C"/>
+  <ellipse cx="321" cy="161" rx="9" ry="7" fill="#A8A49C"/>
+  <ellipse cx="258" cy="270" rx="6" ry="4" fill="#A8A49C"/>
+  <ellipse cx="164" cy="214" rx="14" ry="6" fill="#A8A49C"/>
+  <ellipse cx="188" cy="366" rx="14" ry="6" fill="#A8A49C"/>
+  <ellipse cx="199" cy="296" rx="7" ry="5" fill="#A8A49C"/>
+  <ellipse cx="210" cy="198" rx="12" ry="4" fill="#A8A49C"/>
+  <ellipse cx="185" cy="264" rx="8" ry="9" fill="#A8A49C"/>
+  <ellipse cx="156" cy="168" rx="6" ry="4" fill="#A8A49C"/>
+  <ellipse cx="353" cy="368" rx="14" ry="9" fill="#A8A49C"/>
+  <ellipse cx="244" cy="229" rx="10" ry="8" fill="#A8A49C"/>
+  </g>
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

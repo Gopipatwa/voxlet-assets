@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-united-kingdom"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-united-kingdom)">
+    <defs><clipPath id="uj-united-kingdom"><rect x="0" y="0" width="300" height="200"/></clipPath></defs>
+    <g clip-path="url(#uj-united-kingdom)"><g transform="translate(0 0) scale(5.0000 6.6667)">
+    <rect x="0" y="0" width="60" height="30" fill="#012169"/>
+    <path d="M0 0 L60 30 M60 0 L0 30" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M0 0 L60 30 M60 0 L0 30" fill="none" stroke="#C8102E" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M30 0 V30 M0 15 H60" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M30 0 V30 M0 15 H60" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="butt" stroke-linejoin="round"/>
+    </g></g>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

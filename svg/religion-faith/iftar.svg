@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="300" r="90" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="340" width="432" height="60" rx="8" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(160 310) scale(0.45) translate(-256 -330)">
+    <ellipse cx="196" cy="280" rx="34" ry="18" fill="#6E4A2A" transform="rotate(0 196 280)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="246" cy="266" rx="34" ry="18" fill="#6E4A2A" transform="rotate(20 246 266)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="296" cy="276" rx="34" ry="18" fill="#6E4A2A" transform="rotate(-14 296 276)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="336" cy="290" rx="34" ry="18" fill="#6E4A2A" transform="rotate(30 336 290)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="166" cy="300" rx="34" ry="18" fill="#6E4A2A" transform="rotate(-30 166 300)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M110 300 H402 C402 380 340 420 256 420 C172 420 110 380 110 300Z" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="translate(300 290) scale(0.6)">
+    <path d="M-40 -80 H40 L30 80 H-30Z" fill="#D9EEFB" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M-35 -20 H35 L30 76 H-30Z" fill="#8FD0FF"/>
+  </g>
+  <g transform="translate(400 300) scale(0.25 0.25) translate(-256 -256)">
+    <path d="M200 160 C180 120 220 100 200 60 M260 160 C240 120 280 100 260 60" fill="none" stroke="#C9CED6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M360 240 C440 240 440 340 352 340" fill="none" stroke="#2E2A3B" stroke-width="46" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M360 240 C440 240 440 340 352 340" fill="none" stroke="#F5913E" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M120 200 H360 V330 C360 400 310 440 240 440 C170 440 120 400 120 330 Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

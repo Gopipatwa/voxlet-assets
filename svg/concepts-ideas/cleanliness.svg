@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="256.0,116.0 287.7,224.3 396.0,256.0 287.7,287.7 256.0,396.0 224.3,287.7 116.0,256.0 224.3,224.3" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="380.0,70.0 391.3,108.7 430.0,120.0 391.3,131.3 380.0,170.0 368.7,131.3 330.0,120.0 368.7,108.7" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="120.0,340.0 129.1,370.9 160.0,380.0 129.1,389.1 120.0,420.0 110.9,389.1 80.0,380.0 110.9,370.9" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

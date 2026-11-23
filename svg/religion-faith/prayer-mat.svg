@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="130" y="50" width="252" height="412" rx="14" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="150" y="70" width="212" height="372" rx="8" fill="#E5484D"/>
+  <path d="M190 400 V200 C190 140 256 110 256 110 C256 110 322 140 322 200 V400Z" fill="#B5323A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256.0,230.0 262.9,243.4 277.2,238.8 272.6,253.1 286.0,260.0 272.6,266.9 277.2,281.2 262.9,276.6 256.0,290.0 249.1,276.6 234.8,281.2 239.4,266.9 226.0,260.0 239.4,253.1 234.8,238.8 249.1,243.4" fill="#E8A520"/>
+  <path d="M150 430 H362" fill="none" stroke="#E8A520" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 462 V480 M140 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 462 V480 M160 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 462 V480 M180 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 462 V480 M200 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 462 V480 M220 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 462 V480 M240 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 462 V480 M260 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M280 462 V480 M280 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 462 V480 M300 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 462 V480 M320 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M340 462 V480 M340 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 462 V480 M360 50 V32" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

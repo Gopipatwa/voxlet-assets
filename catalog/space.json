@@ -1,0 +1,289 @@
+{
+  "id": "space",
+  "name": "Space",
+  "description": "The sun, planets, dwarf planets, moons and moon phases (including the hilal), stars, galaxies, black holes, small bodies, eclipses, aurora, constellations and zodiac, rockets, satellites, space stations, rovers, astronauts, telescopes, UFOs and aliens. The sun and moon live here; other files use see.",
+  "groups": [
+    {
+      "id": "sun-stars",
+      "name": "Sun and stars",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow", "twinkle", "pulse"],
+      "items": [
+        ["sun", "the sun", "our star"],
+        ["star", "star in space"],
+        ["shining star", "twinkling star"],
+        "red giant",
+        "red dwarf",
+        "white dwarf",
+        "blue giant",
+        "neutron star",
+        "pulsar",
+        "supernova",
+        "binary star",
+        ["north star", "polaris", "pole star"],
+        ["sirius", "dog star"],
+        "betelgeuse",
+        "sunspot",
+        "solar flare",
+        "solar wind"
+      ]
+    },
+    {
+      "id": "planets",
+      "name": "Planets",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["spin", "orbit"],
+      "items": [
+        ["mercury planet", "mercury"],
+        ["venus planet", "venus"],
+        {"id": "earth", "name": "earth", "aka": ["planet earth", "the earth", "earth from space"]},
+        ["mars", "red planet"],
+        "jupiter",
+        "saturn",
+        "uranus",
+        "neptune",
+        "solar system",
+        "planet orbits",
+        "exoplanet"
+      ]
+    },
+    {
+      "id": "dwarf-planets",
+      "name": "Dwarf planets",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["spin", "orbit"],
+      "items": [
+        "pluto",
+        "ceres",
+        "eris",
+        "haumea",
+        "makemake"
+      ]
+    },
+    {
+      "id": "moons",
+      "name": "Moons and moon phases",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["orbit", "glow"],
+      "items": [
+        ["moon", "the moon", "earth's moon"],
+        "full moon",
+        "new moon",
+        ["crescent moon", "hilal", "new crescent"],
+        "waxing crescent",
+        ["first quarter moon", "half moon"],
+        "waxing gibbous",
+        "waning gibbous",
+        "last quarter moon",
+        "waning crescent",
+        "moon phases",
+        "blood moon",
+        "supermoon",
+        "blue moon",
+        "moon craters",
+        "io",
+        "europa",
+        "ganymede",
+        "callisto",
+        "titan",
+        "enceladus",
+        "triton",
+        "phobos",
+        "deimos",
+        "charon"
+      ]
+    },
+    {
+      "id": "galaxies-deep-space",
+      "name": "Galaxies and deep space",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["spin", "glow"],
+      "items": [
+        "milky way",
+        "spiral galaxy",
+        "elliptical galaxy",
+        "andromeda galaxy",
+        "nebula",
+        "star cluster",
+        "black hole",
+        "wormhole",
+        "quasar",
+        "big bang",
+        "expanding universe",
+        "dark matter",
+        "cosmic web"
+      ]
+    },
+    {
+      "id": "small-bodies",
+      "name": "Asteroids, comets and meteors",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["fly", "spin"],
+      "items": [
+        "asteroid",
+        "asteroid belt",
+        "comet",
+        "halley's comet",
+        ["meteor", "shooting star"],
+        "meteor shower",
+        "meteorite",
+        "meteor crater",
+        "kuiper belt",
+        "oort cloud"
+      ]
+    },
+    {
+      "id": "sky-events",
+      "name": "Sky events",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["fade", "glow"],
+      "items": [
+        "solar eclipse",
+        "lunar eclipse",
+        "total eclipse",
+        ["aurora", "northern lights", "aurora borealis"],
+        ["southern lights", "aurora australis"],
+        "planet alignment",
+        "transit of venus",
+        "starry night sky"
+      ]
+    },
+    {
+      "id": "constellations",
+      "name": "Constellations",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["twinkle", "draw"],
+      "items": [
+        "constellation",
+        ["big dipper", "ursa major", "great bear"],
+        ["little dipper", "ursa minor"],
+        "orion",
+        "cassiopeia",
+        ["southern cross", "crux"],
+        "scorpius constellation"
+      ]
+    },
+    {
+      "id": "zodiac",
+      "name": "Zodiac signs",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "twinkle"],
+      "items": [
+        "aries",
+        "taurus",
+        "gemini",
+        "cancer zodiac",
+        "leo",
+        "virgo",
+        "libra",
+        "scorpio",
+        "sagittarius",
+        "capricorn",
+        "aquarius",
+        "pisces",
+        "zodiac wheel"
+      ]
+    },
+    {
+      "id": "spacecraft",
+      "name": "Rockets and spacecraft",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["launch", "fly"],
+      "items": [
+        "rocket",
+        ["rocket launch", "lift off"],
+        "space shuttle",
+        "saturn v rocket",
+        ["reusable rocket", "booster landing"],
+        "space capsule",
+        ["lunar module", "moon lander"],
+        "launch pad",
+        "rocket stages",
+        "ion engine",
+        "solar sail"
+      ]
+    },
+    {
+      "id": "satellites-stations",
+      "name": "Satellites, stations and probes",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["orbit", "float", "spin"],
+      "items": [
+        "satellite",
+        "communication satellite",
+        "weather satellite",
+        "gps satellite",
+        "sputnik",
+        ["international space station", "iss"],
+        "space station",
+        "space probe",
+        "voyager probe",
+        ["space telescope", "hubble telescope"],
+        "james webb telescope",
+        "mars rover",
+        ["moon rover", "lunar rover"],
+        "lander"
+      ]
+    },
+    {
+      "id": "astronauts",
+      "name": "Astronauts and gear",
+      "kind": "character",
+      "recolor": "themed",
+      "motion": ["float", "wave"],
+      "items": [
+        "astronaut",
+        ["astronaut floating", "spacewalk"],
+        "space suit",
+        "space helmet",
+        "astronaut food",
+        "moon footprint",
+        "flag on the moon",
+        "zero gravity",
+        "astronaut training"
+      ]
+    },
+    {
+      "id": "observing",
+      "name": "Telescopes and observatories",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["rotate", "pop"],
+      "items": [
+        "telescope",
+        "refracting telescope",
+        "reflecting telescope",
+        "radio telescope",
+        "observatory",
+        "planetarium",
+        "star map",
+        ["binoculars stargazing", "stargazing"]
+      ]
+    },
+    {
+      "id": "aliens-ufos",
+      "name": "UFOs and aliens",
+      "kind": "character",
+      "recolor": "themed",
+      "motion": ["float", "glow", "wave"],
+      "items": [
+        ["ufo", "flying saucer"],
+        ["alien", "extraterrestrial"],
+        "alien spaceship",
+        "alien abduction beam",
+        "little green alien"
+      ]
+    }
+  ]
+}

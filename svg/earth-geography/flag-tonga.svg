@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-tonga"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-tonga)">
+    <rect x="0" y="0" width="300" height="200" fill="#C10000"/>
+    <rect x="0" y="0" width="130" height="100" fill="#FFFFFF"/>
+    <rect x="52" y="16" width="26" height="68" fill="#C10000"/>
+    <rect x="31" y="37" width="68" height="26" fill="#C10000"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

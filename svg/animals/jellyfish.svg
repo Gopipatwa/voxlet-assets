@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M180 250 C160 320 200 380 180 460" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M180 250 C160 320 200 380 180 460" fill="none" stroke="#C9A6E8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 250 C200 320 240 380 220 460" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M220 250 C200 320 240 380 220 460" fill="none" stroke="#C9A6E8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 250 C236 320 276 380 256 460" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 250 C236 320 276 380 256 460" fill="none" stroke="#C9A6E8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M292 250 C272 320 312 380 292 460" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M292 250 C272 320 312 380 292 460" fill="none" stroke="#C9A6E8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M332 250 C312 320 352 380 332 460" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M332 250 C312 320 352 380 332 460" fill="none" stroke="#C9A6E8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 260 C110 120 402 120 402 260 C360 280 330 250 300 270 C270 250 240 280 210 260 C180 280 150 250 110 260Z" fill="#E0B8F0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 200 C180 160 220 140 250 140 C220 170 200 190 190 220Z" fill="#F2DCF8"/>
+  <g id="part-eye-left" data-pivot="220 210">
+    <circle cx="220.0" cy="210.0" r="8.0" fill="#1F1F24"/>
+    <circle cx="222.8" cy="207.2" r="2.8" fill="#FFFFFF"/>
+  </g>
+  <g id="part-eye-right" data-pivot="290 210">
+    <circle cx="290.0" cy="210.0" r="8.0" fill="#1F1F24"/>
+    <circle cx="292.8" cy="207.2" r="2.8" fill="#FFFFFF"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="200" y="60" width="200" height="400" rx="10" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="225" y="90" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="285" y="90" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="345" y="90" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="225" y="160" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="285" y="160" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="345" y="160" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="225" y="230" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="285" y="230" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="345" y="230" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="225" y="300" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="285" y="300" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="345" y="300" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="225" y="370" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="285" y="370" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <rect x="345" y="370" width="40" height="40" rx="4" fill="#FFFFFF"/>
+  <ellipse cx="120" cy="200" rx="36" ry="46" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M120 260 V330" fill="none" stroke="#2E2A3B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 10"/>
+</svg>

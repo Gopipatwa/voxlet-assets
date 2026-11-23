@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="360" width="432" height="30" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="390" width="14" height="70" fill="#C9CED6"/>
+  <rect x="200" y="390" width="14" height="70" fill="#C9CED6"/>
+  <rect x="340" y="390" width="14" height="70" fill="#C9CED6"/>
+  <rect x="450" y="390" width="14" height="70" fill="#C9CED6"/>
+  <rect x="40" y="260" width="432" height="30" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="290" width="14" height="70" fill="#C9CED6"/>
+  <rect x="200" y="290" width="14" height="70" fill="#C9CED6"/>
+  <rect x="340" y="290" width="14" height="70" fill="#C9CED6"/>
+  <rect x="450" y="290" width="14" height="70" fill="#C9CED6"/>
+  <rect x="40" y="160" width="432" height="30" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="190" width="14" height="70" fill="#C9CED6"/>
+  <rect x="200" y="190" width="14" height="70" fill="#C9CED6"/>
+  <rect x="340" y="190" width="14" height="70" fill="#C9CED6"/>
+  <rect x="450" y="190" width="14" height="70" fill="#C9CED6"/>
+  <rect x="226" y="110" width="60" height="330" rx="8" fill="#8C7560" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="56.0" y="440" width="400" height="36" rx="8" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M70.0 458.0 H442.0" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(256 440) scale(1.0) translate(-256 -440)">
+    <ellipse cx="112" cy="420" rx="13" ry="22" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M130 422 L228 424" fill="none" stroke="#2E2A3B" stroke-width="64" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M130 422 L228 424" fill="none" stroke="#F4F1EA" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M226 418 L236 322" fill="none" stroke="#2E2A3B" stroke-width="78" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M226 418 L236 322" fill="none" stroke="#F4F1EA" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M236 318 L346 382" fill="none" stroke="#2E2A3B" stroke-width="92" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M236 318 L346 382" fill="none" stroke="#F4F1EA" stroke-width="72" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="384" cy="402" r="36" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M380 366 C427.2 369.6 425.4 423.6 402.0 434.4Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M326 384 L344 432 L372 436" fill="none" stroke="#2E2A3B" stroke-width="48" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M326 384 L344 432 L372 436" fill="none" stroke="#F4F1EA" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="380" cy="436" rx="20" ry="9" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

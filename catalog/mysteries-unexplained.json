@@ -1,0 +1,117 @@
+{
+  "id": "mysteries-unexplained",
+  "name": "Mysteries & Unexplained",
+  "description": "Bermuda Triangle, lake monsters, Bigfoot, crop circles, Stonehenge, Nazca lines, Easter Island heads, Atlantis, ghost ships, the Voynich manuscript, the Tunguska event, ball lightning, mysterious signals, haunted places and other unsolved mysteries. UFOs and aliens belong to space.",
+  "groups": [
+    {
+      "id": "places-mysteries",
+      "name": "Mysterious places",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["fade", "pulse"],
+      "items": [
+        "bermuda triangle",
+        "stonehenge",
+        "nazca lines",
+        ["easter island heads", "moai"],
+        "atlantis",
+        "lost city",
+        "gobekli tepe",
+        "pyramid mystery",
+        ["dragon's triangle", "devil's sea"],
+        "area 51",
+        "roopkund skeleton lake",
+        "bhangarh fort",
+        ["door to hell", "darvaza crater"],
+        ["richat structure", "eye of the sahara"],
+        "sailing stones"
+      ]
+    },
+    {
+      "id": "creature-mysteries",
+      "name": "Cryptids",
+      "kind": "character",
+      "recolor": "keep",
+      "motion": ["walk", "fade"],
+      "items": [
+        ["bigfoot", "sasquatch"],
+        ["lake monster", "loch ness monster", "nessie"],
+        "mothman",
+        "jersey devil",
+        "ogopogo",
+        "mokele-mbembe",
+        "sea monster sighting"
+      ]
+    },
+    {
+      "id": "strange-events",
+      "name": "Strange events",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["glow", "shake"],
+      "items": [
+        "crop circles",
+        "tunguska event",
+        "ball lightning",
+        ["wow signal", "mysterious signal"],
+        "ghost ship",
+        "mary celeste",
+        "missing plane mystery",
+        ["spontaneous lights", "marfa lights"],
+        ["rain of fish", "animal rain"],
+        "blood rain",
+        "glowing orbs",
+        "mysterious hum"
+      ]
+    },
+    {
+      "id": "mystery-objects",
+      "name": "Mysterious objects",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow", "pop"],
+      "items": [
+        "voynich manuscript",
+        "antikythera mechanism",
+        "baghdad battery",
+        "crystal skull",
+        "phaistos disc",
+        "dropa stones",
+        ["cursed diamond", "hope diamond"],
+        ["mysterious map", "piri reis map"]
+      ]
+    },
+    {
+      "id": "haunted",
+      "name": "Haunted places",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["flicker", "fade"],
+      "items": [
+        "haunted castle",
+        "haunted house",
+        "haunted forest",
+        "abandoned asylum",
+        "ghost town",
+        "graveyard at night",
+        "creepy doll"
+      ]
+    },
+    {
+      "id": "investigation",
+      "name": "Mystery investigation",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop", "blink"],
+      "items": [
+        "mystery",
+        "unsolved case file",
+        ["conspiracy board", "red string board"],
+        "detective magnifier",
+        "question mark map",
+        "x marks the spot",
+        "classified file"
+      ]
+    }
+  ]
+}

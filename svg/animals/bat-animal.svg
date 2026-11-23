@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="part-wing-left" data-pivot="256 240">
+    <path d="M240 220 C180 140 100 140 40 180 C60 220 70 260 60 300 C100 280 130 290 150 320 C170 290 200 280 240 280Z" fill="#6E5A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g id="part-wing-right" data-pivot="256 240">
+    <path d="M272 220 C332 140 412 140 472 180 C452 220 442 260 452 300 C412 280 382 290 362 320 C342 290 312 280 272 280Z" fill="#6E5A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <ellipse cx="256" cy="270" rx="50" ry="70" fill="#4A3B32" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="216,190 226,140 246,186" fill="#4A3B32" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="296,190 286,140 266,186" fill="#4A3B32" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="210" r="44" fill="#4A3B32" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-left" data-pivot="238 206">
+    <circle cx="238.0" cy="206.0" r="8.0" fill="#1F1F24"/>
+    <circle cx="240.8" cy="203.2" r="2.8" fill="#FFFFFF"/>
+  </g>
+  <g id="part-eye-right" data-pivot="274 206">
+    <circle cx="274.0" cy="206.0" r="8.0" fill="#1F1F24"/>
+    <circle cx="276.8" cy="203.2" r="2.8" fill="#FFFFFF"/>
+  </g>
+  <polygon points="246,232 252,246 258,232" fill="#FFFFFF"/>
+  <polygon points="256,232 262,246 268,232" fill="#FFFFFF"/>
+</svg>

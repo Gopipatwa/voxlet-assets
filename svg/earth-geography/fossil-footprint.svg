@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-fossil-footprint"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#D8CBB4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-fossil-footprint)">
+  <g transform="rotate(-10 180 380)">
+    <ellipse cx="180" cy="380" rx="40" ry="46" fill="#8A7458"/>
+    <ellipse cx="130" cy="310" rx="16" ry="44" fill="#8A7458" transform="rotate(-30 130 310)"/>
+    <ellipse cx="180" cy="290" rx="16" ry="44" fill="#8A7458" transform="rotate(0 180 290)"/>
+    <ellipse cx="230" cy="310" rx="16" ry="44" fill="#8A7458" transform="rotate(30 230 310)"/>
+  </g>
+  <g transform="rotate(10 320 180)">
+    <ellipse cx="320" cy="180" rx="40" ry="46" fill="#8A7458"/>
+    <ellipse cx="270" cy="110" rx="16" ry="44" fill="#8A7458" transform="rotate(-30 270 110)"/>
+    <ellipse cx="320" cy="90" rx="16" ry="44" fill="#8A7458" transform="rotate(0 320 90)"/>
+    <ellipse cx="370" cy="110" rx="16" ry="44" fill="#8A7458" transform="rotate(30 370 110)"/>
+  </g>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

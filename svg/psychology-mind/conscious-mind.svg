@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M150 460 V380 C110 360 90 300 100 240 C110 140 190 70 290 80 C380 90 430 160 420 240 C416 280 440 300 430 320 L410 330 C410 360 400 380 370 380 H330 V460Z" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(262 220) scale(0.4 0.4) translate(-256 -256)">
+    <g id="part-glow" data-pivot="256 210">
+      <path d="M126 135 L88 113" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M181 80 L159 42" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M256 60 L256 16" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M331 80 L353 42" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M386 135 L424 113" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M406 210 L450 210" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M386 285 L424 307" fill="none" stroke="#F5913E" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M256 90 C186 90 136 142 136 206 C136 254 162 284 186 308 C204 326 210 344 210 360 L302 360 C302 344 308 326 326 308 C350 284 376 254 376 206 C376 142 326 90 256 90Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M180 196 C184 160 206 134 236 126 C210 152 198 178 196 212 Z" fill="#F9B57A"/>
+    <rect x="206" y="360" width="100" height="30" rx="10" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="212" y="390" width="88" height="28" rx="10" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="232" y="418" width="48" height="22" rx="10" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="#E0BE86" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="366,200 426,280 406,380 316,410 296,300" fill="#B8884E"/>
+  <path d="M146 200 L296 300 L366 200 M296 300 L316 410" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><clipPath id="r-sedimentary-rock-a"><polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410"/></clipPath></defs>
+  <g clip-path="url(#r-sedimentary-rock-a)">
+  <rect x="60" y="150" width="400" height="44" fill="#E8C99A"/>
+  <path d="M60 150 H460" fill="none" stroke="#8C6A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="60" y="194" width="400" height="44" fill="#C9A26A"/>
+  <path d="M60 194 H460" fill="none" stroke="#8C6A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="60" y="238" width="400" height="44" fill="#EAD8B0"/>
+  <path d="M60 238 H460" fill="none" stroke="#8C6A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="60" y="282" width="400" height="44" fill="#B8884E"/>
+  <path d="M60 282 H460" fill="none" stroke="#8C6A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="60" y="326" width="400" height="44" fill="#E0BE86"/>
+  <path d="M60 326 H460" fill="none" stroke="#8C6A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="60" y="370" width="400" height="44" fill="#C9A26A"/>
+  <path d="M60 370 H460" fill="none" stroke="#8C6A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

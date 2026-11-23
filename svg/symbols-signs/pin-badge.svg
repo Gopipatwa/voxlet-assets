@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="190" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="256" r="140" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256.0,182.0 276.7,233.5 332.1,237.3 289.5,272.9 303.0,326.7 256.0,297.2 209.0,326.7 222.5,272.9 179.9,237.3 235.3,233.5" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="241.6,234.8 246.3,245.9 258.3,247.0 249.2,254.9 251.9,266.6 241.6,260.4 231.3,266.6 234.0,254.9 224.9,247.0 236.9,245.9" fill="#F9B57A"/>
+  <ellipse cx="170" cy="150" rx="40" ry="22" fill="#7DB2FF" transform="rotate(-40 170 150)"/>
+</svg>

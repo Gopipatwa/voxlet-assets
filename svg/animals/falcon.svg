@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(35.6 26.0) scale(1.000)">
+    <path d="M209 350 L209 436" fill="none" stroke="#2E2A3B" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M209 350 L209 436" fill="none" stroke="#FFC83D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M191 438 L231 438 M209 436 L219 426" fill="none" stroke="#2E2A3B" stroke-width="27" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M191 438 L231 438 M209 436 L219 426" fill="none" stroke="#FFC83D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M246 350 L246 436" fill="none" stroke="#2E2A3B" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M246 350 L246 436" fill="none" stroke="#FFC83D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M228 438 L268 438 M246 436 L256 426" fill="none" stroke="#2E2A3B" stroke-width="27" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M228 438 L268 438 M246 436 L256 426" fill="none" stroke="#FFC83D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="154,281 68,243 58,319 154,321" fill="#5A6270" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="230" cy="298" rx="106" ry="74" fill="#5A6270" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="251" cy="320" rx="64" ry="41" fill="#E8DCC8"/>
+    <g id="part-wing-left" data-pivot="230 276">
+      <path d="M267 272 C209 254 134 283 140 324 C187 331 251 313 267 272Z" fill="#484E59" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+    <circle cx="307" cy="243" r="48" fill="#3A3A44" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M341 228 C378 226 383 254 366 266 C364 252 349 257 341 257Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-eye-right" data-pivot="321 235">
+      <circle cx="320.9" cy="235.4" r="7.6" fill="#1F1F24"/>
+      <circle cx="323.5" cy="232.8" r="2.7" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

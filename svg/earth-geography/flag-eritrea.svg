@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-eritrea"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-eritrea)">
+    <polygon points="0.0,0.0 300.0,0.0 300.0,100.0 0.0,0.0" fill="#12AD2B"/>
+    <polygon points="0.0,200.0 300.0,200.0 300.0,100.0" fill="#4189DD"/>
+    <polygon points="0.0,0.0 300.0,100.0 0.0,200.0" fill="#EA0437"/>
+    <circle cx="70" cy="100" r="34" fill="none" stroke="#FFC726" stroke-width="8"/>
+    <path d="M70 128 V80" fill="none" stroke="#FFC726" stroke-width="6" stroke-linecap="butt" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

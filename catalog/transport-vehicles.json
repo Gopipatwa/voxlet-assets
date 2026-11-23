@@ -1,0 +1,304 @@
+{
+  "id": "transport-vehicles",
+  "name": "Transport & Vehicles",
+  "description": "Every vehicle except spacecraft: cars, two-wheelers, auto-rickshaws, buses, trucks, trains and metros, ships, boats and dhows, planes and helicopters, construction, emergency and military vehicles, historic vehicles, animal carts, roads and traffic, and vehicle parts. Spacecraft belong to space, future vehicles to future-tech, farm machines to agriculture, submarines to ocean-underwater.",
+  "groups": [
+    {
+      "id": "cars",
+      "name": "Cars",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll", "slide"],
+      "items": [
+        "car",
+        "hatchback",
+        "sedan",
+        "suv",
+        "pickup truck",
+        "sports car",
+        ["racing car", "formula car"],
+        "convertible",
+        ["electric car", "ev"],
+        "vintage car",
+        ["taxi", "cab"],
+        "limousine",
+        "jeep",
+        "minivan",
+        "police car"
+      ]
+    },
+    {
+      "id": "two-wheelers",
+      "name": "Two-wheelers and small vehicles",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll"],
+      "items": [
+        ["bicycle", "bike", "cycle"],
+        ["motorcycle", "motorbike"],
+        "scooter",
+        "moped",
+        "electric scooter",
+        "kick scooter",
+        "unicycle",
+        "tricycle",
+        "cycle rickshaw",
+        ["auto-rickshaw", "tuk-tuk", "auto"],
+        "e-rickshaw",
+        "segway",
+        "skateboard"
+      ]
+    },
+    {
+      "id": "buses-trucks",
+      "name": "Buses and trucks",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll"],
+      "items": [
+        "bus",
+        "double-decker bus",
+        "school bus",
+        "minibus",
+        "coach bus",
+        ["truck", "lorry"],
+        "delivery van",
+        "tanker truck",
+        "garbage truck",
+        "cement mixer truck",
+        "car carrier truck",
+        "tow truck",
+        "ice cream van",
+        "food truck"
+      ]
+    },
+    {
+      "id": "trains",
+      "name": "Trains",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll"],
+      "items": [
+        "train",
+        "steam locomotive",
+        "diesel locomotive",
+        "electric train",
+        ["high-speed train", "bullet train"],
+        ["metro", "subway train"],
+        "tram",
+        "monorail",
+        "cable car",
+        "funicular",
+        ["goods train", "freight train"],
+        "toy train",
+        "railway track",
+        "railway station platform"
+      ]
+    },
+    {
+      "id": "ships-boats",
+      "name": "Ships and boats",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["float", "wave"],
+      "items": [
+        "ship",
+        ["cargo ship", "container ship"],
+        "cruise ship",
+        "ferry",
+        "oil tanker ship",
+        "sailboat",
+        "yacht",
+        "speedboat",
+        "motorboat",
+        "rowing boat",
+        "canoe",
+        "kayak",
+        "raft",
+        "dhow",
+        "felucca",
+        "gondola",
+        "junk boat",
+        ["houseboat vehicle", "kettuvallam"],
+        "fishing boat",
+        "tugboat",
+        "lifeboat",
+        "paddle steamer",
+        "hovercraft",
+        "icebreaker ship",
+        "aircraft carrier",
+        "battleship"
+      ]
+    },
+    {
+      "id": "planes",
+      "name": "Planes and air vehicles",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["fly"],
+      "items": [
+        ["aeroplane", "airplane", "plane"],
+        ["jet airliner", "passenger jet"],
+        "jumbo jet",
+        "private jet",
+        "cargo plane",
+        "fighter jet",
+        "seaplane",
+        "glider",
+        "biplane",
+        "propeller plane",
+        "helicopter",
+        "rescue helicopter",
+        "hot air balloon",
+        ["airship", "blimp"],
+        "paraglider",
+        ["drone vehicle", "quadcopter"]
+      ]
+    },
+    {
+      "id": "construction-vehicles",
+      "name": "Construction vehicles",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll", "rotate"],
+      "items": [
+        "bulldozer",
+        ["excavator", "digger"],
+        {"id": "crane-machine", "name": "construction crane", "aka": ["tower crane", "crane machine"]},
+        "mobile crane",
+        "road roller",
+        "dump truck",
+        "forklift",
+        "backhoe loader"
+      ]
+    },
+    {
+      "id": "emergency-vehicles",
+      "name": "Emergency vehicles",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll", "pulse"],
+      "items": [
+        "ambulance",
+        ["fire engine", "fire truck"],
+        "police van",
+        "police motorcycle",
+        "rescue boat",
+        "air ambulance"
+      ]
+    },
+    {
+      "id": "military-vehicles",
+      "name": "Military vehicles",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll"],
+      "items": [
+        "tank",
+        "armoured car",
+        "military truck",
+        "military helicopter",
+        ["submarine military", "naval submarine"]
+      ]
+    },
+    {
+      "id": "historic-vehicles",
+      "name": "Historic vehicles",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll", "float"],
+      "items": [
+        "chariot",
+        "horse-drawn carriage",
+        "stagecoach",
+        "trireme",
+        "galleon",
+        "caravel",
+        "viking longship",
+        "penny-farthing bicycle",
+        ["early motor car", "vintage motor car"]
+      ]
+    },
+    {
+      "id": "animal-carts",
+      "name": "Animal carts",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["walk", "roll"],
+      "items": [
+        "bullock cart",
+        ["horse cart", "tanga"],
+        "camel cart",
+        "donkey cart",
+        "elephant ride",
+        "dog sled"
+      ]
+    },
+    {
+      "id": "roads-traffic",
+      "name": "Roads and traffic",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["roll", "pulse"],
+      "items": [
+        "road",
+        ["highway", "motorway"],
+        ["traffic lights", "traffic signal"],
+        "zebra crossing",
+        "traffic jam",
+        "roundabout",
+        "flyover",
+        "road tunnel",
+        "bridge",
+        "toll booth",
+        ["petrol pump", "fuel station"],
+        ["parking lot", "car park"],
+        "speed camera",
+        "traffic cone",
+        "road barrier",
+        "level crossing",
+        "roadside milestone",
+        ["footpath", "pavement"]
+      ]
+    },
+    {
+      "id": "vehicle-parts",
+      "name": "Vehicle parts",
+      "kind": "icon",
+      "recolor": "keep",
+      "motion": ["rotate", "pulse"],
+      "items": [
+        "steering wheel",
+        "car engine",
+        ["tyre", "tire"],
+        "car wheel",
+        "headlight",
+        "seatbelt",
+        "gear stick",
+        "brake pedal",
+        "car horn",
+        "dashboard",
+        "speedometer",
+        ["number plate", "licence plate"],
+        "fuel tank",
+        "car battery",
+        "car key",
+        "side mirror",
+        "windscreen wipers"
+      ]
+    },
+    {
+      "id": "transport-ideas",
+      "name": "Transport ideas",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "public transport",
+        "carpool",
+        "traffic rules",
+        "driving test"
+      ]
+    }
+  ]
+}

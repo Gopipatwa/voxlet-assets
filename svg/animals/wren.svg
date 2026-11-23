@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(34.1 26.0) scale(1.000)">
+    <path d="M212 350 L212 436" fill="none" stroke="#2E2A3B" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M212 350 L212 436" fill="none" stroke="#F5913E" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M194 438 L234 438 M212 436 L222 426" fill="none" stroke="#2E2A3B" stroke-width="27" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M194 438 L234 438 M212 436 L222 426" fill="none" stroke="#F5913E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M243 350 L243 436" fill="none" stroke="#2E2A3B" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M243 350 L243 436" fill="none" stroke="#F5913E" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M225 438 L265 438 M243 436 L253 426" fill="none" stroke="#2E2A3B" stroke-width="27" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M225 438 L265 438 M243 436 L253 426" fill="none" stroke="#F5913E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="179,300 117,212 93,228 159,330" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="230" cy="306" rx="90" ry="62" fill="#8C6239" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-wing-left" data-pivot="230 288">
+      <path d="M261 284 C212 269 149 294 154 328 C194 334 248 319 261 284Z" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    </g>
+    <circle cx="295" cy="260" r="40" fill="#8C6239" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <polygon points="325,252 355,262 325,272" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <g id="part-eye-right" data-pivot="307 254">
+      <circle cx="306.5" cy="253.5" r="6.4" fill="#1F1F24"/>
+      <circle cx="308.8" cy="251.3" r="2.2" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-qatar"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-qatar)">
+    <rect x="0" y="0" width="300" height="200" fill="#8A1538"/>
+    <polygon points="0.0,0.0 80.0,0.0 120.0,11.1 80.0,22.2 120.0,33.3 80.0,44.4 120.0,55.6 80.0,66.7 120.0,77.8 80.0,88.9 120.0,100.0 80.0,111.1 120.0,122.2 80.0,133.3 120.0,144.4 80.0,155.6 120.0,166.7 80.0,177.8 120.0,188.9 80.0,200.0 0.0,200.0" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

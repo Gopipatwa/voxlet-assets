@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="part-spinner" data-pivot="256 256">
+    <path d="M366 256 L436 256" stroke="#2E2A3B" stroke-opacity="0.25" stroke-width="34" stroke-linecap="round"/>
+    <path d="M334 334 L383 383" stroke="#2E2A3B" stroke-opacity="0.36" stroke-width="34" stroke-linecap="round"/>
+    <path d="M256 366 L256 436" stroke="#2E2A3B" stroke-opacity="0.46" stroke-width="34" stroke-linecap="round"/>
+    <path d="M178 334 L129 383" stroke="#2E2A3B" stroke-opacity="0.57" stroke-width="34" stroke-linecap="round"/>
+    <path d="M146 256 L76 256" stroke="#2E2A3B" stroke-opacity="0.68" stroke-width="34" stroke-linecap="round"/>
+    <path d="M178 178 L129 129" stroke="#2E2A3B" stroke-opacity="0.79" stroke-width="34" stroke-linecap="round"/>
+    <path d="M256 146 L256 76" stroke="#2E2A3B" stroke-opacity="0.89" stroke-width="34" stroke-linecap="round"/>
+    <path d="M334 178 L383 129" stroke="#2E2A3B" stroke-opacity="1.00" stroke-width="34" stroke-linecap="round"/>
+  </g>
+</svg>

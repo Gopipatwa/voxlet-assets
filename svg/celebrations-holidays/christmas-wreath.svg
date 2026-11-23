@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M256 90 A166 166 0 1 1 255.9 90" fill="none" stroke="#2E2A3B" stroke-width="90" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 90 A166 166 0 1 1 255.9 90" fill="none" stroke="#2F8A4A" stroke-width="70" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="422" cy="256" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="383" cy="363" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="285" cy="419" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="173" cy="400" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="100" cy="313" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="100" cy="199" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="173" cy="112" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="285" cy="93" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="383" cy="149" r="12" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(256 420) scale(0.6 0.6) translate(-256 -256)">
+    <path d="M256 256 C200 200 150 220 170 260 C190 300 240 280 256 256Z" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 256 C312 200 362 220 342 260 C322 300 272 280 256 256Z" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

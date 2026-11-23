@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-san-marino"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-san-marino)">
+    <rect x="0" y="0" width="300" height="100.5" fill="#FFFFFF"/>
+    <rect x="0" y="100" width="300" height="100.5" fill="#5EB6E4"/>
+    <path d="M130 70 H170 V110 C170 128 160 136 150 140 C140 136 130 128 130 110 Z" fill="#5EB6E4"/>
+    <rect x="134" y="84" width="8" height="22" fill="#FFFFFF"/>
+    <rect x="146" y="84" width="8" height="22" fill="#FFFFFF"/>
+    <rect x="158" y="84" width="8" height="22" fill="#FFFFFF"/>
+    <path d="M130 70 H170 V110 C170 128 160 136 150 140 C140 136 130 128 130 110 Z" fill="none" stroke="#D4A73B" stroke-width="4"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

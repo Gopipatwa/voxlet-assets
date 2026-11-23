@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Asset Studio Viewer</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 16px; background: #fafafa; color: #222; }
+  body.dark { background: #1e1e1e; color: #eee; }
+  header { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+  h1 { font-size: 18px; margin: 0 12px 0 0; }
+  select, input, button { font: inherit; padding: 4px 8px; }
+  #status { font-size: 13px; opacity: .7; }
+  #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(var(--size, 120px), 1fr)); gap: 10px; }
+  .card { border: 1px solid #ddd; border-radius: 8px; padding: 6px; text-align: center; background: #fff; cursor: pointer; }
+  body.dark .card { background: #2a2a2a; border-color: #444; }
+  .card img { width: 100%; aspect-ratio: 1; object-fit: contain; }
+  .card .id { font-size: 12px; word-break: break-all; }
+  .card .cat { font-size: 11px; opacity: .6; }
+  .card.new { outline: 3px solid #2e7d32; }
+  .missing { font-size: 13px; margin-top: 16px; }
+  .missing summary { cursor: pointer; }
+  .missing code { display: inline-block; margin: 2px 4px; }
+  #big { position: fixed; inset: 0; background: rgba(0,0,0,.6); display: none; align-items: center; justify-content: center; }
+  #big.show { display: flex; }
+  #big div { background: #fff; padding: 16px; border-radius: 8px; text-align: center; color: #222; }
+  #big div.dark { background: #2a2a2a; color: #eee; }
+  #big img { width: min(70vw, 70vh); height: min(70vw, 70vh); object-fit: contain; display: block; margin-bottom: 8px; }
+  .err { color: #c62828; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Asset Studio Viewer</h1>
+  <select id="cat"><option value="">All categories</option></select>
+  <input id="q" placeholder="Search id…" size="14">
+  <label>Size <input id="size" type="range" min="60" max="300" value="120"></label>
+  <label><input id="dark" type="checkbox"> Dark background</label>
+  <label title="Off shows style A: the same drawing without its outline"><input id="border" type="checkbox" checked> Border</label>
+  <label><input id="auto" type="checkbox" checked> Auto refresh</label>
+  <button id="reload">Reload all</button>
+  <span id="status"></span>
+</header>
+<div id="grid"></div>
+<details class="missing" id="missingBox" hidden><summary id="missingTitle"></summary><div id="missingList"></div></details>
+<div id="big"><div><img alt=""><span></span></div></div>
+
+<script>
+// Shows every SVG under svg/<category>/<id>.svg next to this page, refreshing every few seconds.
+// Needs a local server for folder listings:  python -m http.server 8765  (run inside asset-studio)
+const $ = (s) => document.querySelector(s);
+let files = [];            // [{cat, id, url}]
+let seen = new Set();      // urls already shown, to mark new ones
+let firstLoad = true;
+let version = Date.now();  // cache-buster for "Reload all"
+let catalog = null;        // {category: [ids]} when catalog/*.json exist
+
+async function listDir(path) {
+  const res = await fetch(path, { cache: "no-store" });
+  if (!res.ok) return [];
+  const doc = new DOMParser().parseFromString(await res.text(), "text/html");
+  return [...doc.querySelectorAll("a")].map((a) => decodeURIComponent(a.getAttribute("href"))).filter((h) => h && !h.startsWith("?") && !h.startsWith("/") && h !== "../");
+}
+
+async function scan() {
+  const found = [];
+  for (const dir of (await listDir("svg/")).filter((h) => h.endsWith("/"))) {
+    const cat = dir.slice(0, -1);
+    for (const f of (await listDir("svg/" + dir)).filter((h) => h.toLowerCase().endsWith(".svg"))) {
+      found.push({ cat, id: f.slice(0, -4), url: "svg/" + dir + f });
+    }
+  }
+  return found.sort((a, b) => (a.cat + a.id).localeCompare(b.cat + b.id));
+}
+
+async function loadCatalog() {
+  const names = (await listDir("catalog/")).filter((h) => h.endsWith(".json") && !h.startsWith("playlists"));
+  if (!names.length) return null;
+  const out = {};
+  for (const n of names) {
+    try {
+      const cat = await (await fetch("catalog/" + n, { cache: "no-store" })).json();
+      // Must match slug() in tools/check_catalog.py.
+      const slug = (s) => s.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/&/g, " and ").replace(/['’]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+      out[cat.id] = (cat.groups || []).flatMap((g) => (g.items || []).map((it) =>
+        typeof it === "string" ? slug(it) : Array.isArray(it) ? slug(it[0]) : (it.id || slug(it.name))));
+    } catch { /* a half-written file: skip it this round */ }
+  }
+  return out;
+}
+
+// Style A ("no border"): drop the outline pieces marked by tools/draw_lib.py.
+// Must match flat() in tools/draw_lib.py.
+const flatCache = new Map();  // url -> blob url
+function flatten(text) {
+  const doc = new DOMParser().parseFromString(text, "image/svg+xml");
+  doc.querySelectorAll('[data-outline="under"]').forEach((el) => el.remove());
+  doc.querySelectorAll('[data-outline="stroke"]').forEach((el) => {
+    for (const a of ["stroke", "stroke-width", "stroke-linejoin", "data-outline"]) el.removeAttribute(a);
+  });
+  return new XMLSerializer().serializeToString(doc);
+}
+async function setSrc(img, url) {
+  const src = `${url}?v=${version}`;
+  if ($("#border").checked) { img.src = src; return; }
+  if (!flatCache.has(src)) {
+    const text = await (await fetch(src, { cache: "no-store" })).text();
+    flatCache.set(src, URL.createObjectURL(new Blob([flatten(text)], { type: "image/svg+xml" })));
+  }
+  img.src = flatCache.get(src);
+}
+
+function render() {
+  const cat = $("#cat").value, q = $("#q").value.trim().toLowerCase();
+  // A search starting with "/" is a regular expression, e.g. /^(ruku|sujood)$/
+  let re = null;
+  if (q.startsWith("/")) { try { re = new RegExp(q.slice(1).replace(/\/$/, "")); } catch { re = null; } }
+  const shown = files.filter((f) => (!cat || f.cat === cat) && (!q || (re ? re.test(f.id) : f.id.includes(q))));
+  $("#grid").innerHTML = "";
+  for (const f of shown) {
+    const card = document.createElement("div");
+    card.className = "card" + (!firstLoad && !seen.has(f.url) ? " new" : "");
+    card.innerHTML = `<img loading="lazy" alt="${f.id}"><div class="id">${f.id}</div><div class="cat">${f.cat}</div>`;
+    setSrc(card.querySelector("img"), f.url);
+    card.querySelector("img").onerror = (e) => { e.target.replaceWith(Object.assign(document.createElement("div"), { className: "err", textContent: "broken SVG" })); };
+    card.onclick = () => openBig(f);
+    $("#grid").appendChild(card);
+  }
+  // Categories in the dropdown: folders with drawings plus catalogue categories.
+  const cats = new Set([...files.map((f) => f.cat), ...Object.keys(catalog || {})]);
+  const sel = $("#cat"), keep = sel.value;
+  sel.innerHTML = `<option value="">All categories (${files.length})</option>` +
+    [...cats].sort().map((c) => {
+      const drawn = files.filter((f) => f.cat === c).length;
+      const total = catalog && catalog[c] ? ` / ${catalog[c].length}` : "";
+      return `<option value="${c}">${c} (${drawn}${total})</option>`;
+    }).join("");
+  sel.value = keep;
+  // What the catalogue lists but nobody has drawn yet.
+  const box = $("#missingBox");
+  if (catalog && cat && catalog[cat]) {
+    const have = new Set(files.filter((f) => f.cat === cat).map((f) => f.id));
+    const missing = catalog[cat].filter((id) => !have.has(id));
+    box.hidden = false;
+    $("#missingTitle").textContent = `Not drawn yet in ${cat}: ${missing.length}`;
+    $("#missingList").innerHTML = missing.map((id) => `<code>${id}</code>`).join("");
+  } else {
+    box.hidden = true;
+  }
+  $("#status").textContent = `${shown.length} shown · updated ${new Date().toLocaleTimeString()}`;
+}
+
+function openBig(f) {
+  const big = $("#big");
+  setSrc(big.querySelector("img"), f.url);
+  big.querySelector("span").textContent = `${f.cat} / ${f.id}`;
+  big.querySelector("div").classList.toggle("dark", $("#dark").checked);
+  big.classList.add("show");
+}
+$("#big").onclick = () => $("#big").classList.remove("show");
+
+async function refresh() {
+  try {
+    const next = await scan();
+    catalog = await loadCatalog();
+    const changed = next.length !== files.length || next.some((f, i) => f.url !== files[i]?.url);
+    if (!firstLoad) files.forEach((f) => seen.add(f.url));
+    files = next;
+    if (changed || firstLoad) render();
+    else $("#status").textContent = `${files.length} drawings · checked ${new Date().toLocaleTimeString()}`;
+    if (firstLoad) { files.forEach((f) => seen.add(f.url)); firstLoad = false; }
+    if (!files.length) $("#grid").innerHTML = "<p>No drawings yet. They appear here as <code>svg/&lt;category&gt;/&lt;id&gt;.svg</code> files are saved.</p>";
+  } catch (e) {
+    $("#status").innerHTML = `<span class="err">Can't read the folders. Start the server inside asset-studio: python -m http.server 8765</span>`;
+  }
+}
+
+$("#cat").onchange = render;
+$("#q").oninput = render;
+$("#size").oninput = (e) => document.body.style.setProperty("--size", e.target.value + "px");
+$("#dark").onchange = (e) => document.body.classList.toggle("dark", e.target.checked);
+$("#border").onchange = render;
+$("#reload").onclick = () => { version = Date.now(); flatCache.clear(); render(); };
+setInterval(() => { if ($("#auto").checked) refresh(); }, 3000);
+refresh();
+</script>
+</body>
+</html>

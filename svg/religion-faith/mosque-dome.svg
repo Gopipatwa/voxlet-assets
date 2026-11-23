@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="96" y="320" width="320" height="120" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M106 320 A150 150 0 0 1 406 320Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 170 V117.5" fill="none" stroke="#2E2A3B" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 170 V117.5" fill="none" stroke="#E8A520" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="107.0" r="15.0" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="281.0,115.1 277.5,116.7 273.8,117.7 270.0,118.0 266.2,117.7 262.5,116.7 259.0,115.1 255.9,112.9 253.1,110.1 250.9,107.0 249.3,103.5 248.3,99.8 248.0,96.0 248.3,92.2 249.3,88.5 250.9,85.0 253.1,81.9 255.9,79.1 259.0,76.9 262.5,75.3 266.2,74.3 270.0,74.0 273.8,74.3 277.5,75.3 281.0,76.9 285.1,79.9 282.2,79.1 279.2,78.8 276.3,79.1 273.4,79.9 270.7,81.1 268.2,82.9 266.1,85.0 264.4,87.4 263.1,90.1 262.3,93.0 262.1,96.0 262.3,99.0 263.1,101.9 264.4,104.6 266.1,107.0 268.2,109.1 270.7,110.9 273.4,112.1 276.3,112.9 279.2,113.2 282.2,112.9 285.1,112.1" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

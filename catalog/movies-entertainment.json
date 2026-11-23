@@ -1,0 +1,172 @@
+{
+  "id": "movies-entertainment",
+  "name": "Movies & Entertainment",
+  "description": "Film genres, cinema items, streaming, TV series and shows, cartoons and comics, a generic superhero (cape, mask), red carpet and award shows, movie posters, 3D glasses, theme parks, circus and magic shows, and video games. No real films, characters, brands or award designs.",
+  "groups": [
+    {
+      "id": "genres",
+      "name": "Film genres",
+      "kind": "tile",
+      "recolor": "themed",
+      "motion": ["pop", "slide"],
+      "items": [
+        "movie genres",
+        "action movie",
+        "comedy movie",
+        "horror movie",
+        "sci-fi movie",
+        "romance movie",
+        "drama movie",
+        "animated movie",
+        "documentary",
+        "thriller movie",
+        "fantasy movie",
+        "mystery movie",
+        "western movie",
+        "musical movie",
+        "superhero movie",
+        "war movie",
+        "family movie"
+      ]
+    },
+    {
+      "id": "cinema",
+      "name": "Cinema items",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "spin"],
+      "items": [
+        ["cinema", "movies"],
+        "film reel",
+        "clapperboard",
+        "movie camera",
+        "film strip",
+        "cinema screen",
+        "cinema seats",
+        "movie ticket",
+        "director's chair",
+        "spotlight",
+        "boom microphone",
+        "green screen",
+        "movie set",
+        "behind the scenes"
+      ]
+    },
+    {
+      "id": "streaming-tv",
+      "name": "Streaming and TV shows",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "streaming",
+        "binge watching",
+        "watchlist",
+        "tv series",
+        "episode",
+        "sitcom",
+        "game show",
+        "quiz show",
+        "reality show",
+        "talent show",
+        "cooking show"
+      ]
+    },
+    {
+      "id": "cartoons-comics",
+      "name": "Cartoons, comics and superheroes",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "bounce"],
+      "items": [
+        "cartoon",
+        "anime style",
+        "comic strip",
+        "comic book",
+        ["comic sound effect", "pow bubble"],
+        "superhero cape",
+        "superhero mask",
+        "superhero emblem",
+        "villain",
+        "sidekick"
+      ]
+    },
+    {
+      "id": "red-carpet",
+      "name": "Red carpet and awards",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "pop"],
+      "items": [
+        "red carpet",
+        "award show",
+        "film award trophy",
+        "paparazzi cameras",
+        "movie poster",
+        "movie premiere",
+        "box office",
+        "blockbuster"
+      ]
+    },
+    {
+      "id": "theme-parks",
+      "name": "Theme parks",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["spin", "rotate"],
+      "items": [
+        "theme park",
+        "roller coaster",
+        "ferris wheel",
+        "carousel",
+        "bumper cars",
+        "log flume",
+        "drop tower",
+        "haunted house ride",
+        "water park"
+      ]
+    },
+    {
+      "id": "circus-magic",
+      "name": "Circus and magic",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["bounce", "spin"],
+      "items": [
+        "circus",
+        "circus tent",
+        "clown",
+        "juggler",
+        "acrobat",
+        "tightrope walker",
+        "ringmaster",
+        "magician",
+        "magic show",
+        "rabbit in a hat",
+        "magic trick cards",
+        "puppet show",
+        "stand-up comedy"
+      ]
+    },
+    {
+      "id": "video-games",
+      "name": "Video games",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "blink"],
+      "items": [
+        "video game",
+        "arcade machine",
+        "joystick",
+        "pixel art game",
+        "game over screen",
+        "high score",
+        "health bar",
+        "power-up",
+        "boss level",
+        "escape room",
+        ["3d glasses", "3d movie glasses"]
+      ]
+    }
+  ]
+}

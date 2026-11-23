@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M150 300 C90 310 50 340 30 370" fill="none" stroke="#2E2A3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 300 C90 310 50 340 30 370" fill="none" stroke="#8C7A5A" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="34" cy="372" rx="30" ry="24" fill="#695B43" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M180 320 V440" fill="none" stroke="#2E2A3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M180 320 V440" fill="none" stroke="#77674C" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 320 V440" fill="none" stroke="#2E2A3B" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M320 320 V440" fill="none" stroke="#77674C" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="250" cy="300" rx="140" ry="74" fill="#8C7A5A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="138,250 150,228 162,250" fill="#62553E"/>
+  <polygon points="174,250 186,228 198,250" fill="#62553E"/>
+  <polygon points="210,250 222,228 234,250" fill="#62553E"/>
+  <polygon points="246,250 258,228 270,250" fill="#62553E"/>
+  <polygon points="282,250 294,228 306,250" fill="#62553E"/>
+  <polygon points="318,250 330,228 342,250" fill="#62553E"/>
+  <ellipse cx="260" cy="340" rx="110" ry="26" fill="#C9B88A"/>
+  <path d="M210 330 V440" fill="none" stroke="#2E2A3B" stroke-width="62" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M210 330 V440" fill="none" stroke="#8C7A5A" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 330 V440" fill="none" stroke="#2E2A3B" stroke-width="62" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M300 330 V440" fill="none" stroke="#8C7A5A" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="410" cy="290" rx="56" ry="38" fill="#8C7A5A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-right" data-pivot="420 278">
+    <circle cx="420.0" cy="278.0" r="8.0" fill="#1F1F24"/>
+    <circle cx="422.8" cy="275.2" r="2.8" fill="#FFFFFF"/>
+  </g>
+</svg>

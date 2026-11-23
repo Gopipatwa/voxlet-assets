@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 256) scale(1.0 1.0) translate(-256 -256)">
+    <path d="M110 300 C150 260 220 250 280 270 L360 200 C380 190 400 200 396 216 L340 290 C330 360 260 400 180 380 L100 400 L140 350 Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M230 280 C210 200 240 120 300 90 C300 160 290 230 260 290 Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="370" cy="214" r="7" fill="#2E2A3B"/>
+    <polygon points="392,206 430,214 394,226" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M400 230 C420 260 440 270 460 266" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M400 230 C420 260 440 270 460 266" fill="none" stroke="#4CB963" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

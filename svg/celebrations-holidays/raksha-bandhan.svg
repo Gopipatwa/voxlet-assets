@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M60 300 L330 260" fill="none" stroke="#2E2A3B" stroke-width="90" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M60 300 L330 260" fill="none" stroke="#F2C29B" stroke-width="70" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M330 230 C380 220 420 240 430 270 C420 300 380 310 330 300Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(220 278) scale(0.45 0.45) translate(-256 -256)">
+    <path d="M40 256 H472" fill="none" stroke="#E5484D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="256" cy="256" rx="40" ry="100" fill="#F5913E" transform="rotate(0 256 256)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="256" cy="256" rx="40" ry="100" fill="#FFC83D" transform="rotate(30 256 256)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="256" cy="256" rx="40" ry="100" fill="#F5913E" transform="rotate(60 256 256)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="256" cy="256" rx="40" ry="100" fill="#FFC83D" transform="rotate(90 256 256)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="256" cy="256" rx="40" ry="100" fill="#F5913E" transform="rotate(120 256 256)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="256" cy="256" rx="40" ry="100" fill="#FFC83D" transform="rotate(150 256 256)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="256" cy="256" r="50" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="256" cy="256" r="24" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

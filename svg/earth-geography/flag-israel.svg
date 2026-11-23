@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-israel"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-israel)">
+    <rect x="0" y="0" width="300" height="200" fill="#FFFFFF"/>
+    <rect x="0" y="20" width="300" height="30" fill="#0038B8"/>
+    <rect x="0" y="150" width="300" height="30" fill="#0038B8"/>
+    <polygon points="150.0,64.0 181.2,118.0 118.8,118.0" fill="none" stroke="#0038B8" stroke-width="8" stroke-linejoin="miter"/>
+    <polygon points="150.0,136.0 118.8,82.0 181.2,82.0" fill="none" stroke="#0038B8" stroke-width="8" stroke-linejoin="miter"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

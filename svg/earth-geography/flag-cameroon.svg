@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-cameroon"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-cameroon)">
+    <rect x="0" y="0" width="100.5" height="200" fill="#007A5E"/>
+    <rect x="100" y="0" width="100.5" height="200" fill="#CE1126"/>
+    <rect x="200" y="0" width="100.5" height="200" fill="#FCD116"/>
+    <polygon points="150.0,74.0 155.8,92.0 174.7,92.0 159.4,103.1 165.3,121.0 150.0,109.9 134.7,121.0 140.6,103.1 125.3,92.0 144.2,92.0" fill="#FCD116"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

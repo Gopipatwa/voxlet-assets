@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M170 260 H342 V300 H310 V420 H360 V450 H152 V420 H202 V300 H170Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M208.0 260 C152.0 260 152.0 212.4 180.0 176.70000000000002 C196.8 200.5 202.4 164.8 208.0 141.0 C230.4 188.60000000000002 264.0 212.4 264.0 242.15 C264.0 260 236.0 260 208.0 260Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M304.0 260 C248.0 260 248.0 212.4 276.0 176.70000000000002 C292.8 200.5 298.4 164.8 304.0 141.0 C326.4 188.60000000000002 360.0 212.4 360.0 242.15 C360.0 260 332.0 260 304.0 260Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 260 C176.0 260 176.0 192.0 216.0 141.0 C240.0 175.0 248.0 124.0 256 90.0 C288.0 158.0 336.0 192.0 336.0 234.5 C336.0 260 296.0 260 256 260Z" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 260 C208.0 260 208.0 219.2 232.0 188.60000000000002 C246.4 209.0 251.2 178.39999999999998 256 158.0 C275.2 198.8 304.0 219.2 304.0 244.7 C304.0 260 280.0 260 256 260Z" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

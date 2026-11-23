@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(15.8 20.0) scale(1.000)">
+    <path d="M249 327 L256 389 L257 436 Q266 445 275 436 L281 389 L280 325 Z" fill="#8C6E4C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="271" cy="437" rx="15" ry="7" fill="#8C6E4C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M169 325 L168 383 L176 437 Q185 445 194 435 L193 383 L200 327 Z" fill="#8C6E4C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="190" cy="437" rx="15" ry="7" fill="#8C6E4C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="114" cy="278" rx="18" ry="14" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="337" cy="200" rx="11" ry="44" fill="#B08A60" transform="rotate(-14 337 232)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="337" cy="200" rx="5" ry="31" fill="#E8C39E" transform="rotate(-14 337 232)"/>
+    <path d="M115 308 C111 256 141 243 175 246 C214 257 259 242 295 240 C332 247 343 296 337 326 C335 367 304 382 270 379 C236 376 203 363 175 369 C130 378 116 348 115 308 Z" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="169" cy="320" rx="38" ry="58" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M264 251 C292 236 311 262 328 244 L368 288 C355 324 343 289 332 334 Z" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M382.5 314.7 L405.4 300.4 A26.0 26.0 0 0 0 413.2 263.8 L398.1 241.5 A52.0 52.0 0 1 0 382.5 314.7 Z" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M269 327 L277 389 L279 436 Q289 446 299 436 L304 388 L304 325 Z" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M141 325 L141 383 L150 437 Q160 446 170 435 L171 383 L179 327 Z" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M115 308 C111 256 141 243 175 246 C214 257 259 242 295 240 C332 247 343 296 337 326 C335 367 304 382 270 379 C236 376 203 363 175 369 C130 378 116 348 115 308 Z" fill="#B08A60"/>
+    <ellipse cx="169" cy="320" rx="38" ry="58" fill="#B08A60"/>
+    <path d="M264 251 C292 236 311 262 328 244 L368 288 C355 324 343 289 332 334 Z" fill="#B08A60"/>
+    <path d="M382.5 314.7 L405.4 300.4 A26.0 26.0 0 0 0 413.2 263.8 L398.1 241.5 A52.0 52.0 0 1 0 382.5 314.7 Z" fill="#B08A60"/>
+    <path d="M269 327 L277 389 L279 436 Q289 446 299 436 L304 388 L304 325 Z" fill="#B08A60"/>
+    <path d="M141 325 L141 383 L150 437 Q160 446 170 435 L171 383 L179 327 Z" fill="#B08A60"/>
+    <ellipse cx="294" cy="437" rx="15" ry="7" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="165" cy="437" rx="15" ry="7" fill="#B08A60" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <defs><clipPath id="clip-d273ee1429"><path d="M115 308 C111 256 141 243 175 246 C214 257 259 242 295 240 C332 247 343 296 337 326 C335 367 304 382 270 379 C236 376 203 363 175 369 C130 378 116 348 115 308 Z"/></clipPath></defs>
+    <g clip-path="url(#clip-d273ee1429)">
+    <ellipse cx="236" cy="374" rx="90" ry="30" fill="#F7E3C4"/>
+    </g>
+    <path d="M194 278 C205 319 194 348 177 367" fill="none" stroke="#7B6043" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="392" cy="278" r="25" fill="#F7E3C4"/>
+    <path d="M410 290 Q394 297 379 290" fill="none" stroke="#877C6B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="406" cy="269" rx="8" ry="6" fill="#F7A1B5"/>
+    <g id="part-eye-right" data-pivot="372 261">
+      <circle cx="371.6" cy="261.2" r="7.0" fill="#1F1F24"/>
+      <circle cx="374.1" cy="258.8" r="2.4" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

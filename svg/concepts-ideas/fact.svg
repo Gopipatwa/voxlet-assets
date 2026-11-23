@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="40" y="70" width="432" height="372" rx="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(256 160) scale(0.3 0.3) translate(-256 -256)">
+    <circle cx="256" cy="256" r="190" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M170 262 L232 322 L350 196" fill="none" stroke="#2E2A3B" stroke-width="64" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M170 262 L232 322 L350 196" fill="none" stroke="#FFFFFF" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M131.7 364.7H107.9V275.3H160.8V294.7H131.7V311.7H158.5V331.2H131.7ZM227.9 364.7 223.5 348.0H194.4L189.9 364.7H163.3L192.5 274.9H224.7L254.3 364.7ZM214.6 313.5Q213.9 311.1 212.8 306.7Q211.7 302.2 210.6 297.4Q209.4 292.7 208.8 289.7Q208.3 292.7 207.2 297.2Q206.2 301.7 205.1 306.1Q204.0 310.5 203.3 313.5L199.4 328.1H218.5ZM301.3 293.8Q292.8 293.8 287.9 300.8Q283.0 307.8 283.0 320.4Q283.0 333.0 287.9 339.6Q292.8 346.2 302.7 346.2Q308.6 346.2 314.2 344.6Q319.7 342.9 325.4 340.6V361.0Q319.5 363.6 313.3 364.8Q307.1 366.0 300.1 366.0Q285.5 366.0 276.2 360.2Q267.0 354.5 262.6 344.1Q258.2 333.8 258.2 320.3Q258.2 306.7 263.2 296.3Q268.2 285.9 277.9 280.0Q287.6 274.0 301.6 274.0Q308.1 274.0 315.2 275.5Q322.4 277.0 329.3 280.3L321.9 299.3Q317.0 296.9 312.0 295.4Q307.0 293.8 301.3 293.8ZM382.3 364.7H358.1V295.1H336.3V275.3H404.1V295.1H382.3Z" fill="#FFFFFF"/>
+</svg>

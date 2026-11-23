@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="56" y="56" width="400" height="400" rx="30" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M12 22 C30 -5 88 0 88 40 C88 70 55 78 40 78 C62 78 92 86 92 118 C92 165 20 165 8 135" transform="translate(41.2 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="" transform="translate(96.3 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 12 C40 0 8 40 8 100 C8 160 92 160 92 108 C92 65 30 60 10 95" transform="translate(151.4 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="" transform="translate(206.6 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 40 C14 0 86 0 86 42 C86 80 50 80 50 115 M50 148 V152" transform="translate(261.7 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="" transform="translate(316.8 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 34 L60 5 V155" transform="translate(371.9 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 40 C12 0 88 0 88 45 C88 80 12 110 10 155 H92" transform="translate(427.1 221.0) scale(0.4375)" fill="none" stroke="#2E2A3B" stroke-width="22.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 310 H266" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M206 310 H266" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

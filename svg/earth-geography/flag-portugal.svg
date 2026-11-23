@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-portugal"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-portugal)">
+    <rect x="0" y="0" width="120.5" height="200" fill="#006600"/>
+    <rect x="120" y="0" width="180.5" height="200" fill="#FF0000"/>
+    <circle cx="120" cy="100" r="40" fill="none" stroke="#FFE900" stroke-width="10"/>
+    <path d="M102 76 H138 V108 C138 124 128 130 120 132 C112 130 102 124 102 108 Z" fill="#FFFFFF"/>
+    <path d="M108 82 H132 V106 C132 118 126 122 120 124 C114 122 108 118 108 106 Z" fill="#FF0000"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

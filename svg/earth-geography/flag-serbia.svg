@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-serbia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-serbia)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#C6363C"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#0C4076"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#FFFFFF"/>
+    <path d="M80 60 H130 V110 C130 130 116 140 105 144 C94 140 80 130 80 110 Z" fill="#C6363C"/>
+    <path d="M105 70 V130 M88 100 H122" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

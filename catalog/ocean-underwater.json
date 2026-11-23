@@ -1,0 +1,147 @@
+{
+  "id": "ocean-underwater",
+  "name": "Ocean & Underwater",
+  "description": "Ocean zones, the Mariana Trench, vents, tides and currents, bioluminescence, shipwrecks and sunken treasure, diving gear, underwater volcanoes and ocean exploration. Sea animals live in animals; named oceans and seas in earth-geography.",
+  "groups": [
+    {
+      "id": "ocean-zones",
+      "name": "Ocean zones and deep sea",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["fade", "float"],
+      "items": [
+        ["ocean layers", "ocean zones"],
+        ["sunlight zone", "epipelagic zone"],
+        ["twilight zone", "mesopelagic zone"],
+        ["midnight zone", "bathypelagic zone"],
+        ["abyssal zone", "abyss"],
+        ["hadal zone", "ocean trench"],
+        "mariana trench",
+        "challenger deep",
+        "continental shelf",
+        ["seafloor", "ocean floor"],
+        "mid-ocean ridge",
+        "abyssal plain",
+        ["hydrothermal vent", "black smoker"],
+        "cold seep",
+        ["underwater volcano", "seamount"],
+        "underwater cave",
+        "kelp forest",
+        "seagrass meadow",
+        "coral reef",
+        "coral bleaching"
+      ]
+    },
+    {
+      "id": "ocean-motion",
+      "name": "Tides, waves and currents",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["wave", "splash"],
+      "items": [
+        ["ocean wave", "wave"],
+        ["big wave", "surf wave"],
+        "high tide",
+        "low tide",
+        ["tide pool", "rock pool"],
+        "ocean current",
+        "gulf stream",
+        ["whirlpool", "maelstrom"],
+        "rip current",
+        "sea foam"
+      ]
+    },
+    {
+      "id": "ocean-light",
+      "name": "Bioluminescence",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow", "twinkle"],
+      "items": [
+        ["bioluminescence", "glowing sea"],
+        "glowing plankton",
+        "glowing jellyfish",
+        "plankton",
+        "phytoplankton"
+      ]
+    },
+    {
+      "id": "wrecks-treasure",
+      "name": "Shipwrecks and treasure",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["float", "open"],
+      "items": [
+        "shipwreck",
+        "sunken ship",
+        "sunken treasure",
+        "treasure chest underwater",
+        "gold coins underwater",
+        "anchor",
+        ["ship's wheel underwater", "helm"],
+        "message in a bottle",
+        "sunken plane",
+        "sunken city ruins"
+      ]
+    },
+    {
+      "id": "diving-gear",
+      "name": "Diving gear",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["float", "pop"],
+      "items": [
+        "scuba diver",
+        ["scuba tank", "air tank"],
+        "diving mask",
+        "snorkel",
+        ["swim fins", "flippers"],
+        "wetsuit",
+        ["diving helmet", "old diving suit"],
+        "regulator",
+        "dive computer",
+        "underwater camera",
+        "depth gauge",
+        "diving flag"
+      ]
+    },
+    {
+      "id": "exploration",
+      "name": "Ocean exploration",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["float", "rise"],
+      "items": [
+        "submarine",
+        ["submersible", "deep sea submersible"],
+        "bathyscaphe",
+        ["remotely operated vehicle", "rov"],
+        ["research vessel", "marine research ship"],
+        "sonar",
+        "ocean buoy",
+        "underwater drone",
+        ["underwater habitat", "sea lab"],
+        "diving bell"
+      ]
+    },
+    {
+      "id": "sea-shore",
+      "name": "Shells and shore finds",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "seashell",
+        "conch shell",
+        "spiral shell",
+        "sand dollar",
+        "pearl",
+        "pearl in oyster",
+        "driftwood",
+        "seaweed",
+        "kelp",
+        "sea glass"
+      ]
+    }
+  ]
+}

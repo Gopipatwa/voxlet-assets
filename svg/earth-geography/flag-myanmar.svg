@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-myanmar"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-myanmar)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#FECB00"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#34B233"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#EA2839"/>
+    <polygon points="150.0,42.0 165.7,90.4 216.6,90.4 175.4,120.3 191.1,168.6 150.0,138.7 108.9,168.6 124.6,120.3 83.4,90.4 134.3,90.4" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

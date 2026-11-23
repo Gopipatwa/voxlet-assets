@@ -1,0 +1,5 @@
+# Source data and fonts downloaded for drawing (see README); not redistributed here
+_source-data/
+# Built pack zips (published as GitHub Release assets)
+dist/
+__pycache__/

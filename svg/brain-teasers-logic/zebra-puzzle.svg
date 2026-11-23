@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="56" y="56" width="400" height="400" rx="30" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M96.0 96 V416 M96 96.0 H416" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M160.0 96 V416 M96 160.0 H416" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M224.0 96 V416 M96 224.0 H416" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M288.0 96 V416 M96 288.0 H416" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M352.0 96 V416 M96 352.0 H416" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M416.0 96 V416 M96 416.0 H416" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="square" stroke-linejoin="round"/>
+  <rect x="106" y="106" width="44" height="44" rx="8" fill="#3D8BFD"/>
+  <rect x="170" y="106" width="44" height="44" rx="8" fill="#F5913E"/>
+  <rect x="234" y="106" width="44" height="44" rx="8" fill="#4CB963"/>
+  <rect x="298" y="106" width="44" height="44" rx="8" fill="#7DB2FF"/>
+  <rect x="362" y="106" width="44" height="44" rx="8" fill="#C9CED6"/>
+  <g transform="translate(256 320) scale(0.3 0.3) translate(-256 -256)">
+    <path d="M166 186 C166 116 214 82 262 82 C318 82 352 120 352 170 C352 222 304 240 278 264 C264 278 256 294 256 318" fill="none" stroke="#2E2A3B" stroke-width="80" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M166 186 C166 116 214 82 262 82 C318 82 352 120 352 170 C352 222 304 240 278 264 C264 278 256 294 256 318" fill="none" stroke="#3D8BFD" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="256" cy="410" r="37" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

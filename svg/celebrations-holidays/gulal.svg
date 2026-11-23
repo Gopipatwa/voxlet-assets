@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M70 200 H210 C210 260 70 260 70 200Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="140" cy="200" rx="70" ry="24" fill="#F7A1B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M90 200 C110 150 170 150 190 200Z" fill="#F7A1B5"/>
+  <path d="M302 200 H442 C442 260 302 260 302 200Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="372" cy="200" rx="70" ry="24" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M322 200 C342 150 402 150 422 200Z" fill="#FFC83D"/>
+  <path d="M70 380 H210 C210 440 70 440 70 380Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="140" cy="380" rx="70" ry="24" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M90 380 C110 330 170 330 190 380Z" fill="#4CB963"/>
+  <path d="M302 380 H442 C442 440 302 440 302 380Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="372" cy="380" rx="70" ry="24" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M322 380 C342 330 402 330 422 380Z" fill="#3D8BFD"/>
+</svg>

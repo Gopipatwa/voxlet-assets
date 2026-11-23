@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-singapore"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-singapore)">
+    <rect x="0" y="0" width="300" height="100.5" fill="#EF3340"/>
+    <rect x="0" y="100" width="300" height="100.5" fill="#FFFFFF"/>
+    <circle cx="60" cy="50" r="32" fill="#FFFFFF"/>
+    <circle cx="69.6" cy="50" r="26.24" fill="#EF3340"/>
+    <polygon points="92.0,25.0 93.6,29.8 98.7,29.8 94.5,32.8 96.1,37.7 92.0,34.7 87.9,37.7 89.5,32.8 85.3,29.8 90.4,29.8" fill="#FFFFFF"/>
+    <polygon points="109.1,37.4 110.7,42.3 115.8,42.3 111.7,45.3 113.2,50.1 109.1,47.1 105.0,50.1 106.6,45.3 102.5,42.3 107.5,42.3" fill="#FFFFFF"/>
+    <polygon points="102.6,57.6 104.2,62.4 109.2,62.4 105.1,65.4 106.7,70.2 102.6,67.2 98.5,70.2 100.0,65.4 95.9,62.4 101.0,62.4" fill="#FFFFFF"/>
+    <polygon points="81.4,57.6 83.0,62.4 88.1,62.4 84.0,65.4 85.5,70.2 81.4,67.2 77.3,70.2 78.9,65.4 74.8,62.4 79.8,62.4" fill="#FFFFFF"/>
+    <polygon points="74.9,37.4 76.5,42.3 81.5,42.3 77.4,45.3 79.0,50.1 74.9,47.1 70.8,50.1 72.3,45.3 68.2,42.3 73.3,42.3" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

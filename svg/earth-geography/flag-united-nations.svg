@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-united-nations"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-united-nations)">
+    <rect x="0" y="0" width="300" height="200" fill="#5B92E5"/>
+    <circle cx="150" cy="100" r="44" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <circle cx="150" cy="100" r="28" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <path d="M150 56 V144 M106 100 H194" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M92 60 C74 90 80 130 150 160" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+    <path d="M208 60 C226 90 220 130 150 160" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

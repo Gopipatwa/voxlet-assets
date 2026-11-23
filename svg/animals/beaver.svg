@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(14.6 20.0) scale(1.000)">
+    <path d="M256 366 L263 406 L264 435 Q273 445 282 437 L288 406 L287 363 Z" fill="#614831" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="278" cy="437" rx="15" ry="7" fill="#614831" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M162 363 L161 402 L168 437 Q177 445 186 435 L186 402 L193 366 Z" fill="#614831" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="183" cy="437" rx="15" ry="7" fill="#614831" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="356" cy="269" r="17" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M96 346 C90 294 126 282 166 285 C212 295 265 280 307 279 C350 285 364 335 357 365 C354 405 317 420 278 418 C238 415 199 402 166 408 C113 416 97 387 96 346 Z" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="159" cy="359" rx="45" ry="58" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M271 289 C304 274 329 300 347 282 L388 327 C375 364 364 328 350 372 Z" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M403.3 354.9 L427.0 340.1 A27.0 27.0 0 0 0 435.1 302.1 L419.5 278.9 A54.0 54.0 0 1 0 403.3 354.9 Z" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M280 366 L288 406 L290 435 Q300 446 310 437 L315 406 L315 363 Z" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M129 363 L130 402 L138 437 Q148 446 158 435 L159 402 L168 367 Z" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M96 346 C90 294 126 282 166 285 C212 295 265 280 307 279 C350 285 364 335 357 365 C354 405 317 420 278 418 C238 415 199 402 166 408 C113 416 97 387 96 346 Z" fill="#7A5A3E"/>
+    <ellipse cx="159" cy="359" rx="45" ry="58" fill="#7A5A3E"/>
+    <path d="M271 289 C304 274 329 300 347 282 L388 327 C375 364 364 328 350 372 Z" fill="#7A5A3E"/>
+    <path d="M403.3 354.9 L427.0 340.1 A27.0 27.0 0 0 0 435.1 302.1 L419.5 278.9 A54.0 54.0 0 1 0 403.3 354.9 Z" fill="#7A5A3E"/>
+    <path d="M280 366 L288 406 L290 435 Q300 446 310 437 L315 406 L315 363 Z" fill="#7A5A3E"/>
+    <path d="M129 363 L130 402 L138 437 Q148 446 158 435 L159 402 L168 367 Z" fill="#7A5A3E"/>
+    <ellipse cx="305" cy="437" rx="15" ry="7" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="153" cy="437" rx="15" ry="7" fill="#7A5A3E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <defs><clipPath id="clip-6b099bd7fe"><path d="M96 346 C90 294 126 282 166 285 C212 295 265 280 307 279 C350 285 364 335 357 365 C354 405 317 420 278 418 C238 415 199 402 166 408 C113 416 97 387 96 346 Z"/></clipPath></defs>
+    <g clip-path="url(#clip-6b099bd7fe)">
+    </g>
+    <path d="M188 316 C201 357 188 387 168 405" fill="none" stroke="#553E2B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="413" cy="317" r="26" fill="#9A7A5E"/>
+    <path d="M432 329 Q415 336 399 329" fill="none" stroke="#544333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="428" cy="308" rx="8" ry="6" fill="#1F1F24"/>
+    <g id="part-eye-right" data-pivot="392 299">
+      <circle cx="392.0" cy="299.4" r="7.0" fill="#1F1F24"/>
+      <circle cx="394.4" cy="296.9" r="2.5" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <ellipse cx="60" cy="400" rx="60" ry="22" fill="#4A3B32" transform="rotate(-15 60 400)" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-pakistan"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-pakistan)">
+    <rect x="0" y="0" width="300" height="200" fill="#01411C"/>
+    <rect x="0" y="0" width="75" height="200" fill="#FFFFFF"/>
+    <circle cx="190" cy="100" r="50" fill="#FFFFFF"/>
+    <circle cx="201" cy="90" r="41" fill="#01411C"/>
+    <polygon points="222.0,58.1 219.6,69.5 229.7,75.3 218.1,76.5 215.7,87.9 210.9,77.3 199.4,78.5 208.0,70.7 203.3,60.1 213.4,65.9" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

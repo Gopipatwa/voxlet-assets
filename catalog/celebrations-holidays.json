@@ -1,0 +1,233 @@
+{
+  "id": "celebrations-holidays",
+  "name": "Celebrations & Holidays",
+  "description": "Party items, Eid al-Fitr and Eid al-Adha, Ramadan decorations, Diwali, Holi, Raksha Bandhan, Navratri, Pongal, Onam, Christmas, Hanukkah, Lunar New Year, New Year, birthdays, weddings (including nikah) and national days. Religious practice and objects belong to religion-faith; food to food-drink.",
+  "groups": [
+    {
+      "id": "party",
+      "name": "Party items",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["float", "pop", "bounce"],
+      "items": [
+        "balloon",
+        "balloons bunch",
+        "party hat",
+        "party popper",
+        "confetti",
+        "streamers",
+        ["bunting", "party flags"],
+        ["gift box", "present"],
+        "gift bag",
+        "ribbon bow",
+        "greeting card",
+        "invitation card",
+        "fireworks",
+        "sparkler",
+        "firecracker",
+        ["party lights", "fairy lights"],
+        "disco ball",
+        "candles on cake",
+        "piñata"
+      ]
+    },
+    {
+      "id": "eid",
+      "name": "Eid",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "pop"],
+      "items": [
+        "eid mubarak tile",
+        "eid al-fitr",
+        ["eid al-adha", "bakrid"],
+        ["eidi", "eid money envelope"],
+        "eid moon sighting",
+        "eid gift box",
+        "eid decorations",
+        "eid greeting card",
+        "sheer khurma"
+      ]
+    },
+    {
+      "id": "ramadan-decor",
+      "name": "Ramadan decorations",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "float"],
+      "items": [
+        ["fanous", "ramadan lantern"],
+        ["crescent lights", "ramadan lights"],
+        "ramadan kareem tile",
+        "ramadan mubarak tile",
+        "ramadan calendar",
+        "iftar table",
+        "ramadan garland"
+      ]
+    },
+    {
+      "id": "diwali",
+      "name": "Diwali",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["flicker", "glow"],
+      "items": [
+        "diwali",
+        "rangoli",
+        ["diwali lamps row", "row of diyas"],
+        ["lantern kandil", "akash kandil"],
+        "diwali sweets box",
+        "diwali fireworks"
+      ]
+    },
+    {
+      "id": "holi",
+      "name": "Holi",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["splash", "pop"],
+      "items": [
+        "holi",
+        ["gulal", "colour powder"],
+        ["pichkari", "water gun"],
+        "holi colour splash",
+        "gujiya plate"
+      ]
+    },
+    {
+      "id": "indian-festivals",
+      "name": "Other Indian festivals",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop", "sway"],
+      "items": [
+        "raksha bandhan",
+        "rakhi",
+        "navratri",
+        "dandiya sticks",
+        "garba dance",
+        "durga puja pandal",
+        "pongal",
+        "pongal pot",
+        "makar sankranti kites",
+        "lohri bonfire",
+        "onam",
+        ["pookalam", "flower rangoli"],
+        ["snake boat race", "vallam kali"],
+        "ganesh chaturthi decorations",
+        "janmashtami dahi handi",
+        "baisakhi",
+        "chhath puja",
+        "independence day india",
+        "republic day india"
+      ]
+    },
+    {
+      "id": "world-festivals",
+      "name": "Festivals worldwide",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop", "sway"],
+      "items": [
+        "christmas",
+        "christmas stockings",
+        "christmas wreath",
+        "christmas bauble",
+        "candy cane",
+        "gingerbread house",
+        "hanukkah",
+        "dreidel",
+        ["lunar new year", "chinese new year"],
+        ["red envelope", "hongbao"],
+        "paper lantern",
+        "dragon dance",
+        "lion dance",
+        ["mid-autumn festival", "mooncake"],
+        "easter eggs",
+        ["halloween pumpkin", "jack-o'-lantern"],
+        "thanksgiving",
+        "day of the dead",
+        "carnival mask",
+        ["nowruz", "persian new year"],
+        "haft-seen table",
+        "songkran",
+        "oktoberfest"
+      ]
+    },
+    {
+      "id": "new-year",
+      "name": "New Year",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "glow"],
+      "items": [
+        "new year",
+        "happy new year tile",
+        "new year countdown",
+        "midnight fireworks",
+        "new year resolutions"
+      ]
+    },
+    {
+      "id": "birthday",
+      "name": "Birthdays",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "bounce"],
+      "items": [
+        "birthday",
+        "happy birthday tile",
+        "birthday candles",
+        "birthday party",
+        "birthday gift",
+        "number candles"
+      ]
+    },
+    {
+      "id": "wedding",
+      "name": "Weddings",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "glow"],
+      "items": [
+        "wedding",
+        "nikah",
+        ["nikah certificate", "nikahnama"],
+        "wedding rings",
+        "engagement ring",
+        "wedding cake",
+        "wedding invitation",
+        ["mehndi", "henna"],
+        ["mehndi hands", "henna hands"],
+        ["wedding stage", "mandap"],
+        ["wedding garland", "varmala"],
+        "bride and groom silhouettes",
+        "wedding flowers"
+      ]
+    },
+    {
+      "id": "national-days",
+      "name": "National days and occasions",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["wave", "rise"],
+      "items": [
+        "national day",
+        "independence day",
+        "flag hoisting",
+        "national anthem",
+        "parade",
+        "uae national day",
+        "saudi national day",
+        "mother's day",
+        "father's day",
+        "teachers' day",
+        "children's day",
+        "valentine's day",
+        "women's day",
+        "graduation day",
+        "anniversary"
+      ]
+    }
+  ]
+}

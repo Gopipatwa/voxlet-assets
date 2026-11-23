@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M57 256 L-67 210 C-28 246 -28 266 -67 302Z" fill="#828A94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M152 213 C196 183 273 190 295 213Z" fill="#828A94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M461 256 C395 198 107 198 19 256 C107 314 395 314 461 256Z" fill="#9AA3AF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M428 266 C350 299 130 299 52 266 C130 279 350 279 428 266Z" fill="#FFFFFF"/>
+  <path d="M251 261 C218 281 196 286 185 284 C207 271 229 261 251 261Z" fill="#828A94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M339 221 C317 246 317 266 339 291" fill="none" stroke="#737A83" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M443 262 q-16 6 -28 -2" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="395,262 408,271 421,262" fill="#FFFFFF"/>
+  <g id="part-eye-right" data-pivot="386 246">
+    <circle cx="385.9" cy="245.9" r="8.1" fill="#1F1F24"/>
+    <circle cx="388.7" cy="243.0" r="2.8" fill="#FFFFFF"/>
+  </g>
+</svg>

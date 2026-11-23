@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M200 220 L100 120" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M200 220 L100 120" fill="none" stroke="#E8B04A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 220 L80 220" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M200 220 L80 220" fill="none" stroke="#E8B04A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 220 L110 330" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M200 220 L110 330" fill="none" stroke="#E8B04A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 220 L200 80" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M200 220 L200 80" fill="none" stroke="#E8B04A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 240 C300 280 360 300 440 380" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M240 240 C300 280 360 300 440 380" fill="none" stroke="#E8B04A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="220" r="60" fill="#F2C94C" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="200" cy="220" r="24" fill="#C1662E"/>
+  <path d="M440 380 L470 350" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M440 380 L470 350" fill="none" stroke="#E8B04A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M440 380 L480 410" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M440 380 L480 410" fill="none" stroke="#E8B04A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M440 380 L430 440" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M440 380 L430 440" fill="none" stroke="#E8B04A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

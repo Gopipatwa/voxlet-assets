@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="80" y="140" width="352" height="60" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="80" y="200" width="352" height="100" fill="#F7B5C0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="80" y="300" width="352" height="80" fill="#F9E3B0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M150 140 V100" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 140 V100" fill="none" stroke="#4A3B32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 140 V100" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M260 140 V100" fill="none" stroke="#4A3B32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 140 V100" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M360 140 V100" fill="none" stroke="#4A3B32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <ellipse cx="256" cy="300" rx="170" ry="90" fill="#7A8290" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M150 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M182 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M214 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M246 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M278 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M310 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M342 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M374 220 V380" fill="none" stroke="#5A6270" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="part-eye-right" data-pivot="410 280">
+    <circle cx="410.0" cy="280.0" r="7.0" fill="#1F1F24"/>
+    <circle cx="412.4" cy="277.6" r="2.4" fill="#FFFFFF"/>
+  </g>
+</svg>

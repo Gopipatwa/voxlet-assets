@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" fill="#BFE6FA"/>
+  <rect x="0" y="420" width="512" height="92" fill="#E8D8A8"/>
+  <path d="M150 440 V320 M150 360 C120 330 110 290 120 250 M150 340 C180 310 200 280 200 240" fill="none" stroke="#2E2A3B" stroke-width="46" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 440 V320 M150 360 C120 330 110 290 120 250 M150 340 C180 310 200 280 200 240" fill="none" stroke="#F5806A" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 440 V340 M350 380 C320 360 310 330 320 300 M350 360 C380 340 400 320 400 290" fill="none" stroke="#2E2A3B" stroke-width="44" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M350 440 V340 M350 380 C320 360 310 330 320 300 M350 360 C380 340 400 320 400 290" fill="none" stroke="#B880E8" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="260" cy="220" rx="40" ry="24" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="220,220 196,204 196,236" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

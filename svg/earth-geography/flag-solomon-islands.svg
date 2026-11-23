@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-solomon-islands"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-solomon-islands)">
+    <polygon points="0.0,0.0 300.0,0.0 0.0,200.0" fill="#0051BA"/>
+    <polygon points="300.0,0.0 300.0,200.0 0.0,200.0" fill="#215B33"/>
+    <path d="M0 200 L300 0" fill="none" stroke="#FCD116" stroke-width="20" stroke-linecap="butt" stroke-linejoin="round"/>
+    <polygon points="30.0,15.0 32.2,21.9 39.5,21.9 33.6,26.2 35.9,33.1 30.0,28.8 24.1,33.1 26.4,26.2 20.5,21.9 27.8,21.9" fill="#FFFFFF"/>
+    <polygon points="90.0,15.0 92.2,21.9 99.5,21.9 93.6,26.2 95.9,33.1 90.0,28.8 84.1,33.1 86.4,26.2 80.5,21.9 87.8,21.9" fill="#FFFFFF"/>
+    <polygon points="60.0,40.0 62.2,46.9 69.5,46.9 63.6,51.2 65.9,58.1 60.0,53.8 54.1,58.1 56.4,51.2 50.5,46.9 57.8,46.9" fill="#FFFFFF"/>
+    <polygon points="30.0,65.0 32.2,71.9 39.5,71.9 33.6,76.2 35.9,83.1 30.0,78.8 24.1,83.1 26.4,76.2 20.5,71.9 27.8,71.9" fill="#FFFFFF"/>
+    <polygon points="90.0,65.0 92.2,71.9 99.5,71.9 93.6,76.2 95.9,83.1 90.0,78.8 84.1,83.1 86.4,76.2 80.5,71.9 87.8,71.9" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

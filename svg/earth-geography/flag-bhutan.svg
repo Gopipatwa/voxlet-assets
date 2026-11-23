@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-bhutan"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-bhutan)">
+    <polygon points="0.0,0.0 300.0,0.0 0.0,200.0" fill="#FFD520"/>
+    <polygon points="300.0,0.0 300.0,200.0 0.0,200.0" fill="#FF4E12"/>
+    <path d="M70 150 C110 110 120 150 150 110 C180 70 200 110 230 60" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="232" cy="58" r="16" fill="#FFFFFF"/>
+    <circle cx="90" cy="146" r="8" fill="#FFFFFF"/>
+    <circle cx="140" cy="136" r="8" fill="#FFFFFF"/>
+    <circle cx="190" cy="104" r="8" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

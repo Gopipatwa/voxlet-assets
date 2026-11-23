@@ -1,0 +1,155 @@
+{
+  "id": "future-tech",
+  "name": "Future Tech",
+  "description": "Inventions of the future: flying cars, hyperloop, Mars bases and space colonies, space elevators, humanoid robots, brain-computer links, holograms, smart cities, vertical farms, lab-grown meat, quantum computers, fusion reactors, exoskeletons, delivery drones, AR glasses, asteroid mining, underwater cities, 3D-printed houses, nanobots, gene editing, and fiction like time machines and teleporters. Today's devices belong to technology.",
+  "groups": [
+    {
+      "id": "future-transport",
+      "name": "Future transport",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["fly", "float", "launch"],
+      "items": [
+        "flying car",
+        "hyperloop",
+        ["air taxi", "evtol"],
+        ["self-driving car", "autonomous car"],
+        "maglev train future",
+        "personal jetpack",
+        "hoverboard",
+        "passenger drone",
+        "space plane"
+      ]
+    },
+    {
+      "id": "future-space",
+      "name": "Future space",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["float", "orbit"],
+      "items": [
+        ["mars base", "mars colony"],
+        "moon base",
+        "space colony",
+        "space elevator",
+        "space hotel",
+        "asteroid mining",
+        "terraforming mars",
+        "generation starship",
+        "orbital solar power station"
+      ]
+    },
+    {
+      "id": "robots-ai",
+      "name": "Robots and AI of the future",
+      "kind": "character",
+      "recolor": "themed",
+      "motion": ["wave", "blink", "walk"],
+      "items": [
+        "humanoid robot",
+        "robot assistant",
+        ["robot butler", "home robot"],
+        "robot doctor",
+        "robot teacher",
+        "robot dog",
+        ["ai brain", "artificial general intelligence"],
+        "android",
+        "cyborg",
+        "nanobots",
+        "swarm robots"
+      ]
+    },
+    {
+      "id": "human-enhancement",
+      "name": "Human enhancement",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "pulse"],
+      "items": [
+        ["brain-computer link", "brain chip"],
+        "exoskeleton",
+        "bionic arm",
+        "bionic eye",
+        "smart contact lens",
+        ["gene editing", "crispr"],
+        "designer genes",
+        "digital twin",
+        "mind upload",
+        "lab-grown organ"
+      ]
+    },
+    {
+      "id": "future-devices",
+      "name": "Future devices",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "pop"],
+      "items": [
+        "hologram",
+        "holographic call",
+        ["ar glasses", "augmented reality glasses"],
+        "smart glasses future",
+        "flexible screen",
+        "rollable phone",
+        "wearable display",
+        "invisibility cloak",
+        ["translator earpiece", "universal translator"]
+      ]
+    },
+    {
+      "id": "future-cities",
+      "name": "Future cities and living",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["rise", "grow"],
+      "items": [
+        "smart city",
+        "vertical farm",
+        "vertical forest building",
+        "floating city",
+        "underwater city",
+        "3d-printed house",
+        "solar roads",
+        "smart home of the future",
+        ["arcology", "mega-structure city"]
+      ]
+    },
+    {
+      "id": "future-food-energy",
+      "name": "Future food and energy",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "grow"],
+      "items": [
+        ["lab-grown meat", "cultured meat"],
+        "insect protein",
+        ["food printer", "3d food printer"],
+        "fusion reactor",
+        "space-based solar power",
+        "carbon capture machine",
+        "quantum computer",
+        "quantum chip",
+        "delivery drone"
+      ]
+    },
+    {
+      "id": "science-fiction",
+      "name": "Science fiction ideas",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "spin"],
+      "items": [
+        "time machine",
+        "teleporter",
+        "warp drive",
+        "force field",
+        ["laser sword", "energy sword"],
+        "ray gun",
+        "cryogenic sleep pod",
+        "shrink ray",
+        "parallel universe",
+        "alien contact future"
+      ]
+    }
+  ]
+}

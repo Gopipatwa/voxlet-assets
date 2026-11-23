@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <ellipse cx="256" cy="270" rx="130" ry="180" fill="#8C7A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M126 200 C126 110 386 110 386 200Z" fill="#A8967E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M136 230 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M136 256 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M136 282 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M136 308 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M136 334 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M136 360 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M136 386 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M136 412 H376" fill="none" stroke="#6E5A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 200 V440" fill="none" stroke="#6E5A4A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

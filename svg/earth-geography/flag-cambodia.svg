@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-cambodia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-cambodia)">
+    <rect x="0" y="0" width="300" height="50.5" fill="#032EA1"/>
+    <rect x="0" y="50" width="300" height="100.5" fill="#E00025"/>
+    <rect x="0" y="150" width="300" height="50.5" fill="#032EA1"/>
+    <rect x="95" y="110" width="110" height="22" fill="#FFFFFF"/>
+    <polygon points="101.0,110.0 104.0,90.0 110.0,80.0 116.0,90.0 119.0,110.0" fill="#FFFFFF"/>
+    <polygon points="121.0,110.0 124.0,80.0 130.0,70.0 136.0,80.0 139.0,110.0" fill="#FFFFFF"/>
+    <polygon points="141.0,110.0 144.0,64.0 150.0,54.0 156.0,64.0 159.0,110.0" fill="#FFFFFF"/>
+    <polygon points="161.0,110.0 164.0,80.0 170.0,70.0 176.0,80.0 179.0,110.0" fill="#FFFFFF"/>
+    <polygon points="181.0,110.0 184.0,90.0 190.0,80.0 196.0,90.0 199.0,110.0" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

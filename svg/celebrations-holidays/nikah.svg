@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 220) scale(0.7 0.7) translate(-256 -256)">
+    <rect x="100" y="80" width="312" height="360" rx="16" fill="#FFF8E7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="124" y="104" width="264" height="312" rx="10" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="124" y="104" width="264" height="312" rx="10" fill="none" stroke="#E8A520" stroke-width="8"/>
+    <path d="M160 200 H352 M160 250 H352 M160 300 H300" fill="none" stroke="#C9CED6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="267.0,169.1 263.5,170.7 259.8,171.7 256.0,172.0 252.2,171.7 248.5,170.7 245.0,169.1 241.9,166.9 239.1,164.1 236.9,161.0 235.3,157.5 234.3,153.8 234.0,150.0 234.3,146.2 235.3,142.5 236.9,139.0 239.1,135.9 241.9,133.1 245.0,130.9 248.5,129.3 252.2,128.3 256.0,128.0 259.8,128.3 263.5,129.3 267.0,130.9 271.1,133.9 268.2,133.1 265.2,132.8 262.3,133.1 259.4,133.9 256.7,135.1 254.2,136.9 252.1,139.0 250.4,141.4 249.1,144.1 248.3,147.0 248.1,150.0 248.3,153.0 249.1,155.9 250.4,158.6 252.1,161.0 254.2,163.1 256.7,164.9 259.4,166.1 262.3,166.9 265.2,167.2 268.2,166.9 271.1,166.1" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="330" cy="370" r="28" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <path d="M180 350 A50 45.0 0 1 1 179.9 350" fill="none" stroke="#2E2A3B" stroke-width="46" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M180 350 A50 45.0 0 1 1 179.9 350" fill="none" stroke="#E8A520" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 350 A50 45.0 0 1 1 299.9 350" fill="none" stroke="#2E2A3B" stroke-width="46" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M300 350 A50 45.0 0 1 1 299.9 350" fill="none" stroke="#C9CED6" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

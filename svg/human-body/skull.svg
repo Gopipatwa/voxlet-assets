@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 230) scale(1.0) translate(-256 -200)">
+    <path d="M256 40 C150 40 100 120 110 210 C116 260 150 280 160 320 H352 C362 280 396 260 402 210 C412 120 362 40 256 40Z" fill="#F4EBDD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M170 320 H342 L326 380 C300 400 212 400 186 380Z" fill="#F4EBDD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M210 340 V376 M240 340 V384 M272 340 V384 M302 340 V376" fill="none" stroke="#D9C9AE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="200" cy="220" rx="36" ry="40" fill="#3A3A44"/>
+    <ellipse cx="312" cy="220" rx="36" ry="40" fill="#3A3A44"/>
+    <polygon points="256,260 240,300 272,300" fill="#3A3A44"/>
+  </g>
+</svg>

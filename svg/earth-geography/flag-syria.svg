@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-syria"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-syria)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#007A3D"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#FFFFFF"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#000000"/>
+    <polygon points="100.0,80.0 104.5,93.8 119.0,93.8 107.3,102.4 111.8,116.2 100.0,107.6 88.2,116.2 92.7,102.4 81.0,93.8 95.5,93.8" fill="#CE1126"/>
+    <polygon points="150.0,80.0 154.5,93.8 169.0,93.8 157.3,102.4 161.8,116.2 150.0,107.6 138.2,116.2 142.7,102.4 131.0,93.8 145.5,93.8" fill="#CE1126"/>
+    <polygon points="200.0,80.0 204.5,93.8 219.0,93.8 207.3,102.4 211.8,116.2 200.0,107.6 188.2,116.2 192.7,102.4 181.0,93.8 195.5,93.8" fill="#CE1126"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

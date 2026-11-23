@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-andorra"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-andorra)">
+    <rect x="0" y="0" width="96.5" height="200" fill="#10069F"/>
+    <rect x="96" y="0" width="108.5" height="200" fill="#FEDD00"/>
+    <rect x="204" y="0" width="96.5" height="200" fill="#D50032"/>
+    <path d="M128 74 H172 V112 C172 128 160 136 150 140 C140 136 128 128 128 112 Z" fill="#C7B37F"/>
+    <rect x="132" y="78" width="16" height="24" fill="#D50032"/>
+    <rect x="152" y="78" width="16" height="24" fill="#FEDD00"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

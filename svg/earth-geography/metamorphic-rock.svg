@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="#8A8A9A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="366,200 426,280 406,380 316,410 296,300" fill="#6A6A7A"/>
+  <path d="M146 200 L296 300 L366 200 M296 300 L316 410" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><clipPath id="r-metamorphic-rock-a"><polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410"/></clipPath></defs>
+  <g clip-path="url(#r-metamorphic-rock-a)">
+  <path d="M60 150 C140 110 200 190 280 150 C360 110 400 180 470 150" fill="none" stroke="#D8D8E0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 184 C140 144 200 224 280 184 C360 144 400 214 470 184" fill="none" stroke="#4A4A5A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 218 C140 178 200 258 280 218 C360 178 400 248 470 218" fill="none" stroke="#D8D8E0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 252 C140 212 200 292 280 252 C360 212 400 282 470 252" fill="none" stroke="#4A4A5A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 286 C140 246 200 326 280 286 C360 246 400 316 470 286" fill="none" stroke="#D8D8E0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 320 C140 280 200 360 280 320 C360 280 400 350 470 320" fill="none" stroke="#4A4A5A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 354 C140 314 200 394 280 354 C360 314 400 384 470 354" fill="none" stroke="#D8D8E0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 388 C140 348 200 428 280 388 C360 348 400 418 470 388" fill="none" stroke="#4A4A5A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <polygon points="106,380 86,290 146,200 256,170 366,200 426,280 406,380 316,410 196,410" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

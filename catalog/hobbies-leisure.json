@@ -1,0 +1,123 @@
+{
+  "id": "hobbies-leisure",
+  "name": "Hobbies & Leisure",
+  "description": "Reading, gardening, photography, fishing, sewing, knitting, origami, kite flying, picnics, collecting and other pastimes. Sports belong to sports-games, travel and camping to travel-tourism, art to music-arts.",
+  "groups": [
+    {
+      "id": "reading-writing",
+      "name": "Reading and writing",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["open", "pop"],
+      "items": [
+        ["reading", "reading a book"],
+        "reading corner",
+        "book club",
+        "diary writing",
+        "letter writing hobby"
+      ]
+    },
+    {
+      "id": "crafts",
+      "name": "Crafts",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        ["crafts", "diy crafts"],
+        "sewing",
+        "sewing machine home",
+        "needle and thread",
+        "knitting",
+        "knitting needles",
+        "yarn ball",
+        "crochet",
+        "embroidery hoop",
+        "origami",
+        "origami crane",
+        "origami boat",
+        "paper plane",
+        "scrapbooking",
+        "model building",
+        "woodworking",
+        "candle making",
+        "soap making",
+        "beadwork",
+        "paper cutting"
+      ]
+    },
+    {
+      "id": "outdoors",
+      "name": "Outdoor hobbies",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["sway", "fly"],
+      "items": [
+        "gardening",
+        "kite flying",
+        ["kite spool", "manja"],
+        "fishing",
+        "fishing rod",
+        "fishing hook",
+        "tackle box",
+        "bird watching",
+        "picnic",
+        "picnic blanket",
+        "cycling for fun",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "collecting",
+      "name": "Collecting",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "collecting",
+        "stamp collecting",
+        "stamp album",
+        "coin collecting",
+        "coin album",
+        "shell collection",
+        "rock collection"
+      ]
+    },
+    {
+      "id": "indoor",
+      "name": "Indoor pastimes",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "photography hobby",
+        "photo album",
+        "cooking hobby",
+        "baking hobby",
+        "video gaming",
+        "puzzle solving",
+        "listening to music",
+        "podcast listening",
+        "pet care",
+        "aquarium keeping",
+        "learning an instrument",
+        "calligraphy practice"
+      ]
+    },
+    {
+      "id": "leisure",
+      "name": "Leisure",
+      "kind": "scene",
+      "recolor": "themed",
+      "motion": ["breathe"],
+      "items": [
+        "leisure time",
+        "relaxing",
+        "hammock",
+        "sunbathing",
+        "weekend outing",
+        "family time"
+      ]
+    }
+  ]
+}

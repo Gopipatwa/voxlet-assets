@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 100) scale(0.32) translate(-256 -256)">
+    <path d="M40 256 C120 140 392 140 472 256 C392 372 120 372 40 256Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="256" cy="256" r="96" fill="#6B8E5A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="256" cy="256" r="44" fill="#1F1F24"/>
+    <circle cx="230" cy="226" r="18" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(110 220) scale(0.32) translate(-256 -256)">
+    <path d="M300 70 C190 60 130 150 140 240 C146 300 190 320 190 370 C190 430 240 460 280 440 C330 420 330 370 360 330 C400 280 420 210 400 160 C380 110 340 74 300 70Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M290 150 C230 150 210 200 230 240 C250 270 290 260 290 300" fill="none" stroke="#E0A878" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(402 220) scale(0.32) translate(-256 -256)">
+    <path d="M256 60 C230 140 200 260 160 330 C140 370 170 400 210 390 C230 410 282 410 302 390 C342 400 372 370 352 330 C312 260 282 140 256 60Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="translate(160 390) scale(0.32) translate(-256 -256)">
+    <path d="M140 120 H372 V300 C372 420 140 420 140 300Z" fill="#F7A1B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 140 V320" fill="none" stroke="#E07A90" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(352 390) scale(0.32) translate(-256 -256)">
+    <path d="M150 470 C120 400 110 330 120 280 C124 256 150 254 156 280 L170 330 V150 C170 120 206 120 206 150 V300 V110 C206 80 242 80 242 110 V300 V120 C242 90 278 90 278 120 V300 V160 C278 132 314 132 314 160 V360 C314 420 290 450 270 470Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M206 300 V290 M242 300 V290 M278 300 V290" fill="none" stroke="#E0A878" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M320 200 C340 200 350 220 350 240 M330 170 C370 170 390 200 390 240" fill="none" stroke="#3D8BFD" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

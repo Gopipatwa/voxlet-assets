@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-kiribati"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-kiribati)">
+    <rect x="0" y="0" width="300" height="120" fill="#CE1126"/>
+    <polygon points="180.4,116.9 207.8,120.0 180.4,123.1" fill="#FCD116"/>
+    <polygon points="179.5,128.2 203.9,140.9 177.3,133.8" fill="#FCD116"/>
+    <polygon points="174.6,138.3 192.7,158.9 170.4,142.8" fill="#FCD116"/>
+    <polygon points="166.3,145.9 175.8,171.7 160.8,148.6" fill="#FCD116"/>
+    <polygon points="155.9,150.0 155.3,177.6 149.8,150.6" fill="#FCD116"/>
+    <polygon points="144.6,150.1 134.2,175.6 138.7,148.4" fill="#FCD116"/>
+    <polygon points="134.1,146.1 115.2,166.1 129.2,142.5" fill="#FCD116"/>
+    <polygon points="125.7,138.6 100.9,150.4 122.5,133.4" fill="#FCD116"/>
+    <polygon points="120.6,128.6 93.2,130.6 119.5,122.6" fill="#FCD116"/>
+    <polygon points="119.5,117.4 93.2,109.4 120.6,111.4" fill="#FCD116"/>
+    <polygon points="122.5,106.6 100.9,89.6 125.7,101.4" fill="#FCD116"/>
+    <polygon points="129.2,97.5 115.2,73.9 134.1,93.9" fill="#FCD116"/>
+    <polygon points="138.7,91.6 134.2,64.4 144.6,89.9" fill="#FCD116"/>
+    <polygon points="149.8,89.4 155.3,62.4 155.9,90.0" fill="#FCD116"/>
+    <polygon points="160.8,91.4 175.8,68.3 166.3,94.1" fill="#FCD116"/>
+    <polygon points="170.4,97.2 192.7,81.1 174.6,101.7" fill="#FCD116"/>
+    <polygon points="177.3,106.2 203.9,99.1 179.5,111.8" fill="#FCD116"/>
+    <circle cx="150" cy="120" r="34" fill="#FCD116"/>
+    <path d="M100 70 C130 50 150 64 150 70 C150 64 170 50 200 70 C170 74 160 80 150 84 C140 80 130 74 100 70 Z" fill="#FCD116"/>
+    <rect x="0" y="120" width="300" height="80" fill="#003F87"/>
+    <path d="M0 130 q25 -10 50 0 t50 0 t50 0 t50 0 t50 0 t50 0" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M0 154 q25 -10 50 0 t50 0 t50 0 t50 0 t50 0 t50 0" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M0 178 q25 -10 50 0 t50 0 t50 0 t50 0 t50 0 t50 0" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

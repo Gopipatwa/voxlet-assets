@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M100 260 L60 220 L40 280 L60 330 L100 290Z" fill="#C1442E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="120" cy="270" rx="34" ry="50" fill="#D9472B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="170" cy="270" rx="34" ry="50" fill="#D9472B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="220" cy="270" rx="34" ry="50" fill="#D9472B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="300" cy="270" rx="90" ry="60" fill="#E8583B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M330 240 C380 200 410 180 430 180" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M330 240 C380 200 410 180 430 180" fill="none" stroke="#D9472B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M330 300 C380 260 410 240 430 240" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M330 300 C380 260 410 240 430 240" fill="none" stroke="#D9472B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="440" cy="180" rx="44" ry="26" fill="#E8583B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="440" cy="360" rx="44" ry="26" fill="#E8583B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M380 250 C440 210 470 150 500 120 M380 290 C440 330 470 380 500 410" fill="none" stroke="#D9472B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="part-eye-right" data-pivot="380 250">
+    <circle cx="380.0" cy="250.0" r="8.0" fill="#1F1F24"/>
+    <circle cx="382.8" cy="247.2" r="2.8" fill="#FFFFFF"/>
+  </g>
+</svg>

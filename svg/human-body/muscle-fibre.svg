@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M60 150 C200 130 312 170 452 150" fill="none" stroke="#2E2A3B" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M60 150 C200 130 312 170 452 150" fill="none" stroke="#B5323A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 200 C200 180 312 220 452 200" fill="none" stroke="#2E2A3B" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M60 200 C200 180 312 220 452 200" fill="none" stroke="#E8696A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 250 C200 230 312 270 452 250" fill="none" stroke="#2E2A3B" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M60 250 C200 230 312 270 452 250" fill="none" stroke="#B5323A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 300 C200 280 312 320 452 300" fill="none" stroke="#2E2A3B" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M60 300 C200 280 312 320 452 300" fill="none" stroke="#E8696A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 350 C200 330 312 370 452 350" fill="none" stroke="#2E2A3B" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M60 350 C200 330 312 370 452 350" fill="none" stroke="#B5323A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,169 @@
+{
+  "id": "agriculture",
+  "name": "Agriculture",
+  "description": "Farm buildings, farm machines, farm tools, sowing, harvesting, irrigation and beekeeping. Crops and livestock are linked with see to food-drink, plants-nature and animals.",
+  "groups": [
+    {
+      "id": "farm-buildings",
+      "name": "Farm buildings",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pop"],
+      "items": [
+        "farm",
+        "farmhouse",
+        "barn",
+        "silo",
+        ["granary", "grain store"],
+        "greenhouse",
+        "polyhouse",
+        "farm fence",
+        "scarecrow",
+        "windmill",
+        "water tank farm",
+        "poultry farm",
+        "dairy farm",
+        ["fish farm", "aquaculture"]
+      ]
+    },
+    {
+      "id": "farm-machines",
+      "name": "Farm machines",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["roll"],
+      "items": [
+        "tractor",
+        "combine harvester",
+        ["plough", "plow"],
+        "seed drill",
+        "harvester",
+        "thresher",
+        "sprayer tractor",
+        "crop duster",
+        "irrigation pump",
+        "tube well",
+        "water pump",
+        "milking machine",
+        "agricultural drone"
+      ]
+    },
+    {
+      "id": "farm-tools",
+      "name": "Farm tools",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["rotate", "shake"],
+      "items": [
+        "sickle",
+        "scythe",
+        "hoe",
+        "pitchfork",
+        ["spade farm", "spade"],
+        "shovel",
+        "rake",
+        "wheelbarrow",
+        "watering can",
+        ["hand plough", "bullock plough"],
+        "yoke",
+        "sack of grain",
+        "hay bale",
+        "haystack",
+        "basket of harvest"
+      ]
+    },
+    {
+      "id": "farming-steps",
+      "name": "Sowing and growing",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["grow"],
+      "items": [
+        "ploughing a field",
+        "sowing seeds",
+        "transplanting rice",
+        "field of crops",
+        ["paddy field", "rice field"],
+        "wheat field",
+        "corn field",
+        "sunflower field",
+        "tea plantation",
+        "coffee plantation",
+        "cotton field",
+        "sugarcane field",
+        "terrace farming",
+        "crop rotation",
+        "organic farming",
+        ["fertiliser", "fertilizer"],
+        "pesticide",
+        ["manure", "compost manure"],
+        "weeding"
+      ]
+    },
+    {
+      "id": "harvest",
+      "name": "Harvesting",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["grow", "pop"],
+      "items": [
+        "harvest",
+        "harvesting wheat",
+        "picking fruit",
+        "crop yield",
+        ["grain market", "mandi market"]
+      ]
+    },
+    {
+      "id": "irrigation",
+      "name": "Irrigation",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["pour", "splash"],
+      "items": [
+        "irrigation",
+        "drip irrigation",
+        "sprinkler irrigation",
+        "canal irrigation",
+        "well",
+        "stepwell",
+        "rain-fed farming"
+      ]
+    },
+    {
+      "id": "beekeeping",
+      "name": "Beekeeping",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["fly", "pop"],
+      "items": [
+        ["beekeeping", "apiculture"],
+        "beehive box",
+        "beekeeper suit",
+        "honey extractor",
+        "honey jar",
+        "bee smoker"
+      ]
+    },
+    {
+      "id": "crops",
+      "name": "Crops",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["sway", "grow"],
+      "items": [
+      ],
+      "see": ["rice", "wheat-grains", "corn", "barley", "millet", "sorghum", "cotton-field", "sugarcane-field", "soybeans", "peanuts", "tea", "coffee", "potato", "tomato", "onion"]
+    },
+    {
+      "id": "livestock",
+      "name": "Livestock",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["walk"],
+      "items": [
+      ],
+      "see": ["cow", "buffalo", "goat", "sheep", "hen", "camel", "horse", "pig", "duck", "yak"]
+    }
+  ]
+}

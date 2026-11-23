@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-australia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-australia)">
+    <rect x="0" y="0" width="300" height="200" fill="#012169"/>
+    <defs><clipPath id="uj-australia"><rect x="0" y="0" width="150" height="100"/></clipPath></defs>
+    <g clip-path="url(#uj-australia)"><g transform="translate(0 0) scale(2.5000 3.3333)">
+    <rect x="0" y="0" width="60" height="30" fill="#012169"/>
+    <path d="M0 0 L60 30 M60 0 L0 30" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M0 0 L60 30 M60 0 L0 30" fill="none" stroke="#C8102E" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M30 0 V30 M0 15 H60" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M30 0 V30 M0 15 H60" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="butt" stroke-linejoin="round"/>
+    </g></g>
+    <polygon points="75.0,128.0 79.3,141.1 92.2,136.3 84.7,147.8 96.4,154.9 82.7,156.2 84.5,169.8 75.0,159.9 65.5,169.8 67.3,156.2 53.6,154.9 65.3,147.8 57.8,136.3 70.7,141.1" fill="#FFFFFF"/>
+    <polygon points="225.0,148.0 227.3,155.1 234.4,152.5 230.3,158.8 236.7,162.7 229.2,163.4 230.2,170.8 225.0,165.4 219.8,170.8 220.8,163.4 213.3,162.7 219.7,158.8 215.6,152.5 222.7,155.1" fill="#FFFFFF"/>
+    <polygon points="180.0,78.0 182.3,85.1 189.4,82.5 185.3,88.8 191.7,92.7 184.2,93.4 185.2,100.8 180.0,95.4 174.8,100.8 175.8,93.4 168.3,92.7 174.7,88.8 170.6,82.5 177.7,85.1" fill="#FFFFFF"/>
+    <polygon points="225.0,28.0 227.3,35.1 234.4,32.5 230.3,38.8 236.7,42.7 229.2,43.4 230.2,50.8 225.0,45.4 219.8,50.8 220.8,43.4 213.3,42.7 219.7,38.8 215.6,32.5 222.7,35.1" fill="#FFFFFF"/>
+    <polygon points="264.0,68.0 266.3,75.1 273.4,72.5 269.3,78.8 275.7,82.7 268.2,83.4 269.2,90.8 264.0,85.4 258.8,90.8 259.8,83.4 252.3,82.7 258.7,78.8 254.6,72.5 261.7,75.1" fill="#FFFFFF"/>
+    <polygon points="245.0,102.0 246.6,105.8 250.7,106.1 247.6,108.8 248.5,112.9 245.0,110.7 241.5,112.9 242.4,108.8 239.3,106.1 243.4,105.8" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

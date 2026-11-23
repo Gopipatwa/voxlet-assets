@@ -1,0 +1,182 @@
+{
+  "id": "technology",
+  "name": "Technology",
+  "description": "Today's devices, computer parts, the internet and networks, cybersecurity, AI and robots, programming, the smart home and telecoms. No brand logos. Historic firsts belong to inventions-discoveries, future ideas to future-tech, calls and messages to communication-media.",
+  "groups": [
+    {
+      "id": "devices",
+      "name": "Devices",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pop", "glow"],
+      "items": [
+        ["smartphone", "mobile phone"],
+        "feature phone",
+        "tablet",
+        "laptop",
+        "desktop computer",
+        "computer monitor",
+        "keyboard",
+        {"id": "computer-mouse", "name": "computer mouse", "aka": ["pc mouse"]},
+        "printer",
+        "scanner",
+        "webcam",
+        "smartwatch",
+        "fitness band",
+        ["earbuds", "wireless earbuds"],
+        "smart speaker",
+        ["game controller", "gamepad"],
+        "game console",
+        ["vr headset", "virtual reality headset"],
+        "camera drone",
+        "camera",
+        "action camera",
+        "usb cable",
+        "phone charger",
+        "power bank",
+        "external hard drive",
+        ["memory card", "sd card"],
+        ["usb flash drive", "pen drive"],
+        "projector"
+      ]
+    },
+    {
+      "id": "computer-parts",
+      "name": "Computer parts",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["pop"],
+      "items": [
+        "motherboard",
+        ["cpu", "processor"],
+        ["ram stick", "computer memory"],
+        ["graphics card", "gpu"],
+        "circuit board",
+        "computer chip",
+        "cooling fan",
+        "hard disk",
+        "ssd"
+      ]
+    },
+    {
+      "id": "internet-networks",
+      "name": "Internet and networks",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse", "glow"],
+      "items": [
+        "internet",
+        "world wide web globe",
+        ["wi-fi router", "router"],
+        "modem",
+        "network",
+        "ethernet cable",
+        "fibre optic cable",
+        "undersea cable",
+        "5g tower",
+        "server",
+        "server rack",
+        "data centre",
+        "cloud computing",
+        "download progress",
+        "upload to cloud",
+        "bandwidth"
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "name": "Cybersecurity",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse", "shake"],
+      "items": [
+        "cybersecurity",
+        "password",
+        "strong password",
+        "hacker",
+        ["computer virus", "malware"],
+        "phishing",
+        "firewall",
+        "encryption",
+        "two-factor authentication",
+        "data privacy",
+        "scam alert"
+      ]
+    },
+    {
+      "id": "ai-robots",
+      "name": "AI and robots",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["blink", "glow"],
+      "items": [
+        ["artificial intelligence", "ai"],
+        "ai chip",
+        "chatbot",
+        "machine learning",
+        "neural network",
+        "robot",
+        "robot arm",
+        "robot vacuum",
+        "voice assistant",
+        "face recognition"
+      ]
+    },
+    {
+      "id": "programming",
+      "name": "Programming",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["draw", "pop"],
+      "items": [
+        ["code", "coding"],
+        "code screen",
+        "software bug",
+        "algorithm",
+        "binary code",
+        "html tags",
+        "terminal window",
+        "app",
+        "mobile app",
+        "website",
+        "web browser",
+        "database",
+        "api",
+        "debugging",
+        "open source"
+      ]
+    },
+    {
+      "id": "smart-home",
+      "name": "Smart home",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["glow", "pulse"],
+      "items": [
+        "smart home",
+        "smart bulb",
+        "smart thermostat",
+        "smart lock",
+        "smart plug",
+        "cctv camera",
+        "video doorbell",
+        "smart tv"
+      ]
+    },
+    {
+      "id": "telecom",
+      "name": "Telecoms",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["pulse"],
+      "items": [
+        ["mobile tower", "cell tower"],
+        "sim card",
+        "satellite phone",
+        "telephone exchange",
+        "qr code",
+        "contactless symbol"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-bahrain"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-bahrain)">
+    <rect x="0" y="0" width="300" height="200" fill="#CE1126"/>
+    <polygon points="0.0,0.0 75.0,0.0 115.0,20.0 75.0,40.0 115.0,60.0 75.0,80.0 115.0,100.0 75.0,120.0 115.0,140.0 75.0,160.0 115.0,180.0 75.0,200.0 0.0,200.0" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="86" y="220" width="68" height="220" fill="#5A5662" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="86,220 102,206 138,206 154,220 138,234 102,234" fill="#7A7684" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="156" y="160" width="68" height="280" fill="#4A4752" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="156,160 172,146 208,146 224,160 208,174 172,174" fill="#7A7684" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="226" y="190" width="68" height="250" fill="#5A5662" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="226,190 242,176 278,176 294,190 278,204 242,204" fill="#7A7684" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="296" y="140" width="68" height="300" fill="#4A4752" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="296,140 312,126 348,126 364,140 348,154 312,154" fill="#7A7684" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="366" y="240" width="68" height="200" fill="#5A5662" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="366,240 382,226 418,226 434,240 418,254 382,254" fill="#7A7684" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

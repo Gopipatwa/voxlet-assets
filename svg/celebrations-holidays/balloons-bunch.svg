@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M180 283.5 C160 324.0 200 360 180 405.0" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M180 283.5 C160 324.0 200 360 180 405.0" fill="none" stroke="#2E2A3B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="180" cy="180" rx="77.4" ry="90" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="168,284 192,284 180,266" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="149.4" cy="144.0" rx="14.4" ry="23.400000000000002" fill="#7DB2FF" transform="rotate(-25 149.4 144.0)"/>
+  <path d="M330 279.25 C310 322.0 350 360 330 407.5" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M330 279.25 C310 322.0 350 360 330 407.5" fill="none" stroke="#2E2A3B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="330" cy="170" rx="81.7" ry="95" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="318,279 342,279 330,261" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="297.7" cy="132.0" rx="15.200000000000001" ry="24.7" fill="#F9B57A" transform="rotate(-25 297.7 132.0)"/>
+  <path d="M256 223.5 C236 264.0 276 300 256 345.0" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 223.5 C236 264.0 276 300 256 345.0" fill="none" stroke="#2E2A3B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="256" cy="120" rx="77.4" ry="90" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="244,224 268,224 256,206" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="225.4" cy="84.0" rx="14.4" ry="23.400000000000002" fill="#9BD7A8" transform="rotate(-25 225.4 84.0)"/>
+</svg>

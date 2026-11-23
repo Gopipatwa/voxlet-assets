@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-algeria"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-algeria)">
+    <rect x="0" y="0" width="150.5" height="200" fill="#006233"/>
+    <rect x="150" y="0" width="150.5" height="200" fill="#FFFFFF"/>
+    <circle cx="155" cy="100" r="50" fill="#D21034"/>
+    <circle cx="170" cy="100" r="41" fill="#FFFFFF"/>
+    <polygon points="156.0,100.0 171.2,95.1 171.2,79.1 180.6,92.0 195.8,87.1 186.4,100.0 195.8,112.9 180.6,108.0 171.2,120.9 171.2,104.9" fill="#D21034"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

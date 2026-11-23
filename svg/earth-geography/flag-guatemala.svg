@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-guatemala"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-guatemala)">
+    <rect x="0" y="0" width="100.5" height="200" fill="#4997D0"/>
+    <rect x="100" y="0" width="100.5" height="200" fill="#FFFFFF"/>
+    <rect x="200" y="0" width="100.5" height="200" fill="#4997D0"/>
+    <circle cx="150" cy="100" r="30" fill="none" stroke="#2A7A2A" stroke-width="7"/>
+    <path d="M128 120 L172 80 M172 120 L128 80" fill="none" stroke="#8A8A8A" stroke-width="4" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M140 96 C150 86 162 90 160 100 L150 108 Z" fill="#2A9A4A"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

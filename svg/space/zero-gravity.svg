@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#E5E7EB" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="rotate(25 256 256) translate(256 256) scale(0.8) translate(-256 -256)">
+    <path d="M226 330 L190 430 M286 330 L340 420" fill="none" stroke="#2E2A3B" stroke-width="72" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M226 330 L190 430 M286 330 L340 420" fill="none" stroke="#F4F1EA" stroke-width="52" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="170" y="170" width="172" height="180" rx="40" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M190 210 C150 200 120 170 100 130" fill="none" stroke="#2E2A3B" stroke-width="66" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M190 210 C150 200 120 170 100 130" fill="none" stroke="#F4F1EA" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="186" y="180" width="140" height="170" rx="46" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="226" y="230" width="60" height="50" rx="8" fill="#5A7AC0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M322 210 C362 220 392 250 410 290" fill="none" stroke="#2E2A3B" stroke-width="66" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M322 210 C362 220 392 250 410 290" fill="none" stroke="#F4F1EA" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="256" cy="124" r="78" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="262" cy="128" rx="54" ry="44" fill="#2C4A7A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="244" cy="114" rx="16" ry="10" fill="#8FB8F8"/>
+  </g>
+  <circle cx="90" cy="120" r="16" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="420" cy="140" r="16" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="100" cy="400" r="16" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-brunei"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-brunei)">
+    <rect x="0" y="0" width="300" height="200" fill="#F7E017"/>
+    <polygon points="0.0,30.0 300.0,130.0 300.0,160.0 0.0,60.0" fill="#FFFFFF"/>
+    <polygon points="0.0,60.0 300.0,160.0 300.0,190.0 0.0,90.0" fill="#000000"/>
+    <circle cx="150" cy="112" r="34" fill="#CF1126"/>
+    <circle cx="150" cy="100.1" r="27.2" fill="#F7E017"/>
+    <rect x="146" y="58" width="8" height="56" fill="#CF1126"/>
+    <polygon points="120.0,66.0 180.0,66.0 150.0,48.0" fill="#CF1126"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

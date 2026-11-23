@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 340) scale(0.8 0.8) translate(-256 -256)">
+    <path d="M256 140 C210 110 130 104 70 120 V400 C130 384 210 390 256 420 Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 140 C302 110 382 104 442 120 V400 C382 384 302 390 256 420 Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M60 130 V420 C140 400 210 410 256 440 C302 410 372 400 452 420 V130 L442 120 V400 C382 384 302 390 256 420 C210 390 130 384 70 400 V120 Z" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M110 180 C160 172 200 178 230 190 M282 190 C312 178 352 172 402 180" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M110 220 C160 212 200 218 230 230 M282 230 C312 218 352 212 402 220" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M110 260 C160 252 200 258 230 270 M282 270 C312 258 352 252 402 260" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M110 300 C160 292 200 298 230 310 M282 310 C312 298 352 292 402 300" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <polygon points="256.0,60.0 269.6,106.4 316.0,120.0 269.6,133.6 256.0,180.0 242.4,133.6 196.0,120.0 242.4,106.4" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="160.0,134.0 165.9,154.1 186.0,160.0 165.9,165.9 160.0,186.0 154.1,165.9 134.0,160.0 154.1,154.1" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="356.0,134.0 361.9,154.1 382.0,160.0 361.9,165.9 356.0,186.0 350.1,165.9 330.0,160.0 350.1,154.1" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

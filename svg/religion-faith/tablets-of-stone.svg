@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M90 440 V170 C90 110 240 110 240 170 V440Z" fill="#C7C2B8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 440 V170 C272 110 422 110 422 170 V440Z" fill="#C7C2B8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M120 220 H210" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 270 H210" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 320 H210" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 370 H210" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M302 220 H392" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M302 270 H392" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M302 320 H392" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M302 370 H392" fill="none" stroke="#8C877E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

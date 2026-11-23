@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-peninsula"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#7FC4EE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-peninsula)">
+  <path d="M0 512 V380 C60 370 130 400 180 360 C220 330 200 250 230 190 C260 130 320 120 340 170 C360 220 310 290 330 350 C350 400 440 380 512 400 V512 Z" fill="#EBD49A" stroke="#EBD49A" stroke-width="26"/>
+  <path d="M0 512 V380 C60 370 130 400 180 360 C220 330 200 250 230 190 C260 130 320 120 340 170 C360 220 310 290 330 350 C350 400 440 380 512 400 V512 Z" fill="#7CC56F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="276" y="200" width="7" height="20" fill="#8A5A33" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="280" cy="189" r="17" fill="#3FA45A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M60 120 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 146 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

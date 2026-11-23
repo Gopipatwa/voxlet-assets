@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-north-macedonia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-north-macedonia)">
+    <rect x="0" y="0" width="300" height="200" fill="#D20000"/>
+    <polygon points="150.0,100.0 406.1,54.9 406.1,145.1" fill="#FFE600"/>
+    <polygon points="150.0,100.0 363.0,249.1 299.1,313.0" fill="#FFE600"/>
+    <polygon points="150.0,100.0 195.1,356.1 104.9,356.1" fill="#FFE600"/>
+    <polygon points="150.0,100.0 0.9,313.0 -63.0,249.1" fill="#FFE600"/>
+    <polygon points="150.0,100.0 -106.1,145.1 -106.1,54.9" fill="#FFE600"/>
+    <polygon points="150.0,100.0 -63.0,-49.1 0.9,-113.0" fill="#FFE600"/>
+    <polygon points="150.0,100.0 104.9,-156.1 195.1,-156.1" fill="#FFE600"/>
+    <polygon points="150.0,100.0 299.1,-113.0 363.0,-49.1" fill="#FFE600"/>
+    <circle cx="150" cy="100" r="30" fill="#D20000"/>
+    <circle cx="150" cy="100" r="24" fill="#FFE600"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

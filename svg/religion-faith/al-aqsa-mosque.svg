@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="40" width="472" height="432" rx="30" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="280" width="392" height="160" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="350" width="392" height="90" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M70 440 V395 C70 368 88 363 88 359 C88 363 106 368 106 395 V440Z" fill="#7A6A55"/>
+  <path d="M126 440 V395 C126 368 144 363 144 359 C144 363 162 368 162 395 V440Z" fill="#7A6A55"/>
+  <path d="M182 440 V395 C182 368 200 363 200 359 C200 363 218 368 218 395 V440Z" fill="#7A6A55"/>
+  <path d="M238 440 V395 C238 368 256 363 256 359 C256 363 274 368 274 395 V440Z" fill="#7A6A55"/>
+  <path d="M294 440 V395 C294 368 312 363 312 359 C312 363 330 368 330 395 V440Z" fill="#7A6A55"/>
+  <path d="M350 440 V395 C350 368 368 363 368 359 C368 363 386 368 386 395 V440Z" fill="#7A6A55"/>
+  <path d="M406 440 V395 C406 368 424 363 424 359 C424 363 442 368 442 395 V440Z" fill="#7A6A55"/>
+  <rect x="200" y="230" width="112" height="50" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M190 230 A66 66 0 0 1 322 230Z" fill="#8D98A6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 164 V140.9" fill="none" stroke="#2E2A3B" stroke-width="25.28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 164 V140.9" fill="none" stroke="#E8A520" stroke-width="5.28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="136.28" r="6.6000000000000005" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="409.0" y="120" width="22" height="160" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="402.4" y="180.8" width="35.2" height="9.9" rx="3" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="404.6" y="111.2" width="30.799999999999997" height="9.9" rx="3" fill="#D9CBB0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="407.9,111.2 432.1,111.2 420,71.6" fill="#8D98A6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="420" cy="68.3" r="3.96" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

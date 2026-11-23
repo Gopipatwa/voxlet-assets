@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-slovakia"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-slovakia)">
+    <rect x="0" y="0" width="300" height="67.1667" fill="#FFFFFF"/>
+    <rect x="0" y="66.6667" width="300" height="67.1667" fill="#0B4EA2"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#EE1C25"/>
+    <path d="M70 50 H140 V110 C140 140 118 152 105 158 C92 152 70 140 70 110 Z" fill="#EE1C25" stroke="#FFFFFF" stroke-width="5"/>
+    <path d="M105 62 V132 M86 84 H124 M92 102 H118" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M76 130 C86 118 96 118 105 130 C114 118 124 118 134 130 C126 146 116 152 105 156 C94 152 84 146 76 130 Z" fill="#0B4EA2"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

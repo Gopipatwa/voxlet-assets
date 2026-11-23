@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-samoa"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-samoa)">
+    <rect x="0" y="0" width="300" height="200" fill="#CE1126"/>
+    <rect x="0" y="0" width="150" height="100" fill="#002B7F"/>
+    <polygon points="75.0,10.0 77.2,16.9 84.5,16.9 78.6,21.2 80.9,28.1 75.0,23.8 69.1,28.1 71.4,21.2 65.5,16.9 72.8,16.9" fill="#FFFFFF"/>
+    <polygon points="50.0,40.0 52.2,46.9 59.5,46.9 53.6,51.2 55.9,58.1 50.0,53.8 44.1,58.1 46.4,51.2 40.5,46.9 47.8,46.9" fill="#FFFFFF"/>
+    <polygon points="100.0,36.0 102.2,42.9 109.5,42.9 103.6,47.2 105.9,54.1 100.0,49.8 94.1,54.1 96.4,47.2 90.5,42.9 97.8,42.9" fill="#FFFFFF"/>
+    <polygon points="75.0,68.0 77.7,76.3 86.4,76.3 79.4,81.4 82.1,89.7 75.0,84.6 67.9,89.7 70.6,81.4 63.6,76.3 72.3,76.3" fill="#FFFFFF"/>
+    <polygon points="88.0,57.0 89.1,60.5 92.8,60.5 89.8,62.6 90.9,66.0 88.0,63.9 85.1,66.0 86.2,62.6 83.2,60.5 86.9,60.5" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

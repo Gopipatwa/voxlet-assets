@@ -1,0 +1,196 @@
+{
+  "id": "weather-climate",
+  "name": "Weather & Climate",
+  "description": "Weather conditions, clouds, rain, snow, wind, storms, weather instruments, rainbow and lightning, seasons (including monsoon), floods, drought, wildfire, the water cycle and climate change. The sun and moon belong to space; earthquakes and volcanoes to earth-geography.",
+  "groups": [
+    {
+      "id": "weather-conditions",
+      "name": "Weather conditions",
+      "kind": "icon",
+      "recolor": "themed",
+      "motion": ["float", "pulse"],
+      "items": [
+        ["sunny", "sunny weather", "clear sky"],
+        "partly cloudy",
+        ["cloudy", "overcast"],
+        ["rainy", "rainy weather"],
+        "drizzle",
+        ["heavy rain", "downpour"],
+        "thunderstorm",
+        ["snowy", "snowfall"],
+        "sleet",
+        ["hail", "hailstones"],
+        ["foggy", "fog"],
+        "mist",
+        ["windy", "wind"],
+        "breeze",
+        ["hot weather", "heatwave"],
+        "cold weather",
+        ["freezing weather", "frost"],
+        ["humid", "humidity"],
+        "weather forecast"
+      ]
+    },
+    {
+      "id": "clouds",
+      "name": "Clouds",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["float", "fade"],
+      "items": [
+        "cloud",
+        "fluffy cloud",
+        "cumulus",
+        "stratus",
+        "cirrus",
+        ["cumulonimbus", "storm cloud"],
+        ["nimbus", "rain cloud"],
+        "altocumulus",
+        "mammatus clouds",
+        "lenticular cloud"
+      ]
+    },
+    {
+      "id": "rain-snow",
+      "name": "Rain, snow and ice",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["drop", "drip", "twinkle"],
+      "items": [
+        "raindrop",
+        "puddle",
+        "umbrella in rain",
+        "snowflake",
+        "snowman",
+        "snowball",
+        "icicle",
+        "ice crystal",
+        "frosty window",
+        "blizzard",
+        "avalanche"
+      ]
+    },
+    {
+      "id": "wind-storms",
+      "name": "Wind and storms",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["spin", "shake"],
+      "items": [
+        ["lightning", "lightning strike"],
+        "thunder",
+        ["tornado", "twister"],
+        ["hurricane", "cyclone", "typhoon"],
+        "eye of the storm",
+        ["dust storm", "sandstorm"],
+        ["whirlwind", "dust devil"],
+        "gust of wind",
+        "waterspout"
+      ]
+    },
+    {
+      "id": "rainbow-sky",
+      "name": "Rainbow and sky",
+      "kind": "illustration",
+      "recolor": "keep",
+      "motion": ["glow", "fade"],
+      "items": [
+        "rainbow",
+        "double rainbow",
+        "halo around sun",
+        "sun dog",
+        "blue sky",
+        "red sky at sunset"
+      ]
+    },
+    {
+      "id": "instruments",
+      "name": "Weather instruments",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["spin", "rotate"],
+      "items": [
+        "weather vane",
+        "windsock",
+        "anemometer",
+        "rain gauge",
+        "barometer",
+        "hygrometer",
+        "weather balloon",
+        "weather station",
+        "weather radar",
+        "weather map"
+      ]
+    },
+    {
+      "id": "seasons",
+      "name": "Seasons",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["fade", "sway"],
+      "items": [
+        ["spring", "spring season"],
+        ["summer", "summer season"],
+        ["autumn", "fall", "autumn season"],
+        ["winter", "winter season"],
+        ["monsoon", "rainy season"],
+        "dry season",
+        "four seasons"
+      ]
+    },
+    {
+      "id": "extreme-weather",
+      "name": "Extreme weather and disasters",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["shake", "pulse"],
+      "items": [
+        "flood",
+        "flash flood",
+        "drought",
+        ["wildfire", "forest fire"],
+        "heatstroke weather",
+        "cold wave",
+        "cloudburst",
+        "storm surge"
+      ]
+    },
+    {
+      "id": "water-cycle",
+      "name": "Water cycle",
+      "kind": "scene",
+      "recolor": "keep",
+      "motion": ["rise", "drop"],
+      "items": [
+        "water cycle",
+        "evaporation arrows",
+        "condensation clouds",
+        "precipitation",
+        "runoff",
+        "groundwater"
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate and climate change",
+      "kind": "illustration",
+      "recolor": "themed",
+      "motion": ["rise", "pulse"],
+      "items": [
+        "climate",
+        "climate change",
+        "global warming",
+        "greenhouse effect",
+        "melting glacier",
+        "melting ice caps",
+        "rising sea level",
+        "carbon footprint",
+        "ozone layer",
+        "ozone hole",
+        "climate zones",
+        "thermometer rising",
+        "polar bear on melting ice"
+      ]
+    }
+  ]
+}

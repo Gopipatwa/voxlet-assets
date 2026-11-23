@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <ellipse cx="256" cy="420" rx="230" ry="40" fill="#8C6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M50 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M50 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M110 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M170 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M230 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M290 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M350 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M410 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M410 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M470 440 V320" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M470 440 V320" fill="none" stroke="#C9A27A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 340 H472 M40 390 H472" fill="none" stroke="#2E2A3B" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M40 340 H472 M40 390 H472" fill="none" stroke="#C9A27A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

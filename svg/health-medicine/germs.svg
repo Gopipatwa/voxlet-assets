@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M290 220 L322 220" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M290 220 L322 220" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="322" cy="220" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M278 265 L305 281" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M278 265 L305 281" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="305" cy="281" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M245 298 L261 325" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M245 298 L261 325" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="261" cy="325" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M200 310 L200 342" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M200 310 L200 342" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="342" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M155 298 L139 325" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M155 298 L139 325" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="139" cy="325" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M122 265 L95 281" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M122 265 L95 281" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="95" cy="281" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M110 220 L78 220" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M110 220 L78 220" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="78" cy="220" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M122 175 L95 159" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M122 175 L95 159" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="95" cy="159" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M155 142 L139 115" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M155 142 L139 115" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="139" cy="115" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M200 130 L200 98" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M200 130 L200 98" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="98" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M245 142 L261 115" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M245 142 L261 115" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="261" cy="115" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M278 175 L305 159" fill="none" stroke="#2E2A3B" stroke-width="30.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M278 175 L305 159" fill="none" stroke="#6EC84A" stroke-width="10.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="305" cy="159" r="11" fill="#58A03B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="200" cy="220" r="90" fill="#6EC84A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-left" data-pivot="173 211">
+    <circle cx="173.0" cy="211.0" r="10.8" fill="#1F1F24"/>
+    <circle cx="176.8" cy="207.2" r="3.8" fill="#FFFFFF"/>
+  </g>
+  <g id="part-eye-right" data-pivot="227 211">
+    <circle cx="227.0" cy="211.0" r="10.8" fill="#1F1F24"/>
+    <circle cx="230.8" cy="207.2" r="3.8" fill="#FFFFFF"/>
+  </g>
+  <path d="M173 252 Q200 234 227 252" fill="none" stroke="#2E2A3B" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M420 320 L444 320" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M420 320 L444 320" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="444" cy="320" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M411 355 L432 367" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M411 355 L432 367" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="432" cy="367" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M385 381 L397 402" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M385 381 L397 402" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="397" cy="402" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M350 390 L350 414" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M350 390 L350 414" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="350" cy="414" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M315 381 L303 402" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M315 381 L303 402" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="303" cy="402" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M289 355 L268 367" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M289 355 L268 367" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="268" cy="367" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M280 320 L256 320" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M280 320 L256 320" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="320" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M289 285 L268 273" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M289 285 L268 273" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="268" cy="273" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M315 259 L303 238" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M315 259 L303 238" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="303" cy="238" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M350 250 L350 226" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M350 250 L350 226" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="350" cy="226" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M385 259 L397 238" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M385 259 L397 238" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="397" cy="238" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M411 285 L432 273" fill="none" stroke="#2E2A3B" stroke-width="28.4" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M411 285 L432 273" fill="none" stroke="#B880E8" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="432" cy="273" r="8" fill="#9366B9" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="350" cy="320" r="70" fill="#B880E8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-left" data-pivot="329 313">
+    <circle cx="329.0" cy="313.0" r="8.4" fill="#1F1F24"/>
+    <circle cx="331.9" cy="310.1" r="2.9" fill="#FFFFFF"/>
+  </g>
+  <g id="part-eye-right" data-pivot="371 313">
+    <circle cx="371.0" cy="313.0" r="8.4" fill="#1F1F24"/>
+    <circle cx="373.9" cy="310.1" r="2.9" fill="#FFFFFF"/>
+  </g>
+  <path d="M329 344 Q350 330 371 344" fill="none" stroke="#2E2A3B" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 380 L204 380" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M190 380 L204 380" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="204" cy="380" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M185 400 L197 407" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M185 400 L197 407" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="197" cy="407" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 415 L177 427" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M170 415 L177 427" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="177" cy="427" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M150 420 L150 434" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 420 L150 434" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="434" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M130 415 L123 427" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M130 415 L123 427" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="123" cy="427" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M115 400 L103 407" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M115 400 L103 407" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="103" cy="407" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M110 380 L96 380" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M110 380 L96 380" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="96" cy="380" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M115 360 L103 353" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M115 360 L103 353" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="103" cy="353" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M130 345 L123 333" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M130 345 L123 333" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="123" cy="333" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M150 340 L150 326" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 340 L150 326" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="326" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 345 L177 333" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M170 345 L177 333" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="177" cy="333" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M185 360 L197 353" fill="none" stroke="#2E2A3B" stroke-width="24.8" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M185 360 L197 353" fill="none" stroke="#F5913E" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="197" cy="353" r="5" fill="#C47431" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="150" cy="380" r="40" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-eye-left" data-pivot="138 376">
+    <circle cx="138.0" cy="376.0" r="4.8" fill="#1F1F24"/>
+    <circle cx="139.7" cy="374.3" r="1.7" fill="#FFFFFF"/>
+  </g>
+  <g id="part-eye-right" data-pivot="162 376">
+    <circle cx="162.0" cy="376.0" r="4.8" fill="#1F1F24"/>
+    <circle cx="163.7" cy="374.3" r="1.7" fill="#FFFFFF"/>
+  </g>
+  <path d="M138 394 Q150 386 162 394" fill="none" stroke="#2E2A3B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

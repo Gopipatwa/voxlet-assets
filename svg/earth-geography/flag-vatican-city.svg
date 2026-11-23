@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-vatican-city"><rect width="200" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(96.0 96.0) scale(1.6000)">
+    <g clip-path="url(#fc-vatican-city)">
+    <rect x="0" y="0" width="100.5" height="200" fill="#FFE000"/>
+    <rect x="100" y="0" width="100.5" height="200" fill="#FFFFFF"/>
+    <path d="M120 150 L170 90 M170 150 L120 90" fill="none" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M132 52 C132 36 158 36 158 52 L162 78 H128 Z" fill="#D4AF37"/>
+    </g>
+  </g>
+  <rect x="96.0" y="96.0" width="320.0" height="320.0" rx="19.2" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

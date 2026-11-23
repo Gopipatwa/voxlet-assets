@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-turkmenistan"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-turkmenistan)">
+    <rect x="0" y="0" width="300" height="200" fill="#00843D"/>
+    <rect x="36" y="0" width="54" height="200" fill="#D22630"/>
+    <path d="M63 14 L82 28 L63 42 L44 28 Z" fill="#FFB81C"/>
+    <circle cx="63" cy="28" r="6" fill="#00843D"/>
+    <path d="M63 50 L82 64 L63 78 L44 64 Z" fill="#FFB81C"/>
+    <circle cx="63" cy="64" r="6" fill="#00843D"/>
+    <path d="M63 86 L82 100 L63 114 L44 100 Z" fill="#FFB81C"/>
+    <circle cx="63" cy="100" r="6" fill="#00843D"/>
+    <path d="M63 122 L82 136 L63 150 L44 136 Z" fill="#FFB81C"/>
+    <circle cx="63" cy="136" r="6" fill="#00843D"/>
+    <path d="M63 158 L82 172 L63 186 L44 172 Z" fill="#FFB81C"/>
+    <circle cx="63" cy="172" r="6" fill="#00843D"/>
+    <path d="M63 194 L82 208 L63 222 L44 208 Z" fill="#FFB81C"/>
+    <circle cx="63" cy="208" r="6" fill="#00843D"/>
+    <circle cx="130" cy="50" r="24" fill="#FFFFFF"/>
+    <circle cx="137.2" cy="50" r="19.68" fill="#00843D"/>
+    <polygon points="150.0,24.0 151.3,28.1 155.7,28.1 152.2,30.7 153.5,34.9 150.0,32.3 146.5,34.9 147.8,30.7 144.3,28.1 148.7,28.1" fill="#FFFFFF"/>
+    <polygon points="164.0,36.0 165.3,40.1 169.7,40.1 166.2,42.7 167.5,46.9 164.0,44.3 160.5,46.9 161.8,42.7 158.3,40.1 162.7,40.1" fill="#FFFFFF"/>
+    <polygon points="170.0,54.0 171.3,58.1 175.7,58.1 172.2,60.7 173.5,64.9 170.0,62.3 166.5,64.9 167.8,60.7 164.3,58.1 168.7,58.1" fill="#FFFFFF"/>
+    <polygon points="152.0,46.0 153.3,50.1 157.7,50.1 154.2,52.7 155.5,56.9 152.0,54.3 148.5,56.9 149.8,52.7 146.3,50.1 150.7,50.1" fill="#FFFFFF"/>
+    <polygon points="164.0,68.0 165.3,72.1 169.7,72.1 166.2,74.7 167.5,78.9 164.0,76.3 160.5,78.9 161.8,74.7 158.3,72.1 162.7,72.1" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

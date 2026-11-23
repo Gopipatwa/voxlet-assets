@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="40" y="220" width="432" height="180" fill="#EEF0F3" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M51 400 V310 C51 256 71 245 71 238 C71 245 91 256 91 310 V400Z" fill="#8FA6C9"/>
+  <path d="M113 400 V310 C113 256 133 245 133 238 C133 245 152 256 152 310 V400Z" fill="#8FA6C9"/>
+  <path d="M175 400 V310 C175 256 194 245 194 238 C194 245 214 256 214 310 V400Z" fill="#8FA6C9"/>
+  <path d="M236 400 V310 C236 256 256 245 256 238 C256 245 276 256 276 310 V400Z" fill="#8FA6C9"/>
+  <path d="M298 400 V310 C298 256 318 245 318 238 C318 245 337 256 337 310 V400Z" fill="#8FA6C9"/>
+  <path d="M360 400 V310 C360 256 379 245 379 238 C379 245 399 256 399 310 V400Z" fill="#8FA6C9"/>
+  <path d="M421 400 V310 C421 256 441 245 441 238 C441 245 461 256 461 310 V400Z" fill="#8FA6C9"/>
+  <path d="M40 400 C60 340 110 330 140 400Z" fill="#BFA58A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M372 400 C400 340 450 330 472 400Z" fill="#BFA58A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M160 430 H350 M327.0 449.3 L350.0 430.0 L327.0 410.7 M352 452 H162 M185.0 432.7 L162.0 452.0 L185.0 471.3" fill="none" stroke="#4CB963" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

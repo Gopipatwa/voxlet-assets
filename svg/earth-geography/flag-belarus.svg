@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="fc-belarus"><rect width="300" height="200" rx="12"/></clipPath></defs>
+  <g transform="translate(36.0 109.3) scale(1.4667)">
+    <g clip-path="url(#fc-belarus)">
+    <rect x="0" y="0" width="300" height="133.833" fill="#C8313E"/>
+    <rect x="0" y="133.333" width="300" height="67.1667" fill="#4AA657"/>
+    <rect x="0" y="0" width="44" height="200" fill="#FFFFFF"/>
+    <path d="M22 4 L38 15 L22 26 L6 15 Z" fill="#C8313E"/>
+    <path d="M22 34 L38 45 L22 56 L6 45 Z" fill="#C8313E"/>
+    <path d="M22 64 L38 75 L22 86 L6 75 Z" fill="#C8313E"/>
+    <path d="M22 94 L38 105 L22 116 L6 105 Z" fill="#C8313E"/>
+    <path d="M22 124 L38 135 L22 146 L6 135 Z" fill="#C8313E"/>
+    <path d="M22 154 L38 165 L22 176 L6 165 Z" fill="#C8313E"/>
+    <path d="M22 184 L38 195 L22 206 L6 195 Z" fill="#C8313E"/>
+    </g>
+  </g>
+  <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>
