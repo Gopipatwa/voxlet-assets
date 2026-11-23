@@ -102,10 +102,14 @@ Tick each box here when it is done.
       have.
 
 ### Phase 5: animated parts in the engine
-- [ ] `render.rs`: find `part-*` groups and their `data-pivot`, and move each part with its idle
-      motion (blink, flap, sway, wave, spin, flicker, tick, beat, breathe).
-- [ ] Add those motions to `motion.rs` (`Emphasis`), in the same closed-form spring style.
-- [ ] Test frames: a bird (flap), a clock (tick), a candle (flicker), a heart (beat).
+- [x] Engine (`native/video/src/parts.rs` in the voxlet repo): pictures with `part-*` groups and a
+      `data-pivot` get an idle loop (2.4 s): `part-eye-*` blink, `part-wing-*` flap, `part-flame`
+      flickers, `part-glow` pulses, `part-hand-minute`/`part-hand-hour` turn, `part-wheel`/`part-globe`
+      spin. Each picture is parsed at 24 loop steps, once each, and cached.
+- [x] Tested with the real pack (`vidtool install-local`, then `vidtool render`): wings flap and eyes
+      blink in rendered frames.
+- [ ] More motions when drawings need them: sway (plants, flags), wave (hands), beat (hearts),
+      breathe (sleeping animals), needle (compass).
 
 ### Phase 6: draw everything, playlist by playlist
 Drawn by Claude by hand (decided November 2026), about 50 to 100 drawings per batch, reviewed
