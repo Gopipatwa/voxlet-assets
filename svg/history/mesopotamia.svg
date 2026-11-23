@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M0 430 C100 400 200 450 300 420 C400 400 460 430 512 410 V512 H0Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="360" width="432" height="70" fill="#6EC4E8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="360" width="432" height="14" fill="#FFFFFF" fill-opacity="0.5"/>
+  <rect x="126.0" y="340" width="260" height="80" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M126.0 380 H386.0" fill="none" stroke="#C9A86A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="161.0" y="260" width="190" height="80" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M161.0 300 H351.0" fill="none" stroke="#C9A86A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="196.0" y="180" width="120" height="80" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M196.0 220 H316.0" fill="none" stroke="#C9A86A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="226" y="120" width="60" height="60" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="240" y="70" width="32" height="50" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

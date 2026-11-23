@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(220 470) scale(1.0) translate(-256 -470)">
+    <rect x="206" y="340" width="46" height="124" rx="18" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="260" y="340" width="46" height="124" rx="18" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="198" y="448" width="62" height="22" rx="10" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="252" y="448" width="62" height="22" rx="10" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="150" y="200" width="44" height="130" rx="20" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="318" y="200" width="44" height="130" rx="20" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="172" cy="338" r="20" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="340" cy="338" r="20" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="176" y="190" width="160" height="170" rx="40" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="256" cy="130" r="62" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="234" cy="138" r="7" fill="#1F1F24"/>
+    <circle cx="278" cy="138" r="7" fill="#1F1F24"/>
+    <path d="M190 130 C190 60 322 60 322 130Z" fill="#8A8F9B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="240" y="30" width="32" height="60" rx="8" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="320" y="230" width="100" height="170" rx="20" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="336" y="250" width="68" height="130" rx="12" fill="#E8A520"/>
+  <path d="M120 180 L90 420" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M120 180 L90 420" fill="none" stroke="#6E4A2A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="120,180 104,130 140,150" fill="#8A8F9B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

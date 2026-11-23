@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="rotate(20 170 200)">
+    <path d="M170 110 A90 90 0 1 1 169.9 110Z M144 174 H196 V226 H144Z" fill="#E8A520" fill-rule="evenodd" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M170 138 v14 M170 248 v14 M108 200 h14 M218 200 h14" fill="none" stroke="#B97C12" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="rotate(-15 340 280)">
+    <path d="M340 190 A90 90 0 1 1 339.9 190Z M314 254 H366 V306 H314Z" fill="#E8A520" fill-rule="evenodd" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M340 218 v14 M340 328 v14 M278 280 h14 M388 280 h14" fill="none" stroke="#B97C12" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="rotate(0 210 370)">
+    <path d="M210 280 A90 90 0 1 1 209.9 280Z M184 344 H236 V396 H184Z" fill="#E8A520" fill-rule="evenodd" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M210 308 v14 M210 418 v14 M148 370 h14 M258 370 h14" fill="none" stroke="#B97C12" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

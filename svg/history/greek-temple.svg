@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="40,190 256,60 472,190" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="120,180 256,100 392,180" fill="#8FD0FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="190" width="432" height="34" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="224" width="40" height="190" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M74 230 V400 M86 230 V400" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="120" y="224" width="40" height="190" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M134 230 V400 M146 230 V400" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="180" y="224" width="40" height="190" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M194 230 V400 M206 230 V400" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="240" y="224" width="40" height="190" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M254 230 V400 M266 230 V400" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="300" y="224" width="40" height="190" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M314 230 V400 M326 230 V400" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="360" y="224" width="40" height="190" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M374 230 V400 M386 230 V400" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="420" y="224" width="40" height="190" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M434 230 V400 M446 230 V400" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="20" y="414" width="472" height="24" rx="6" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="0" y="438" width="512" height="24" rx="6" fill="#C9A86A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

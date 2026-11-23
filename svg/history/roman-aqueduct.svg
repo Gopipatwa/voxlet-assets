@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="20" y="130" width="472" height="60" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="20" y="140" width="472" height="24" fill="#6EC4E8"/>
+  <path d="M20 190 H100 V330 H86 V260 C86 230 34 230 34 260 V330 H20Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M100 190 H180 V330 H166 V260 C166 230 114 230 114 260 V330 H100Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M180 190 H260 V330 H246 V260 C246 230 194 230 194 260 V330 H180Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M260 190 H340 V330 H326 V260 C326 230 274 230 274 260 V330 H260Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M340 190 H420 V330 H406 V260 C406 230 354 230 354 260 V330 H340Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M420 190 H500 V330 H486 V260 C486 230 434 230 434 260 V330 H420Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M60 330 H140 V460 H126 V390 C126 360 74 360 74 390 V460 H60Z" fill="#C9A86A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M140 330 H220 V460 H206 V390 C206 360 154 360 154 390 V460 H140Z" fill="#C9A86A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M220 330 H300 V460 H286 V390 C286 360 234 360 234 390 V460 H220Z" fill="#C9A86A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M300 330 H380 V460 H366 V390 C366 360 314 360 314 390 V460 H300Z" fill="#C9A86A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M380 330 H460 V460 H446 V390 C446 360 394 360 394 390 V460 H380Z" fill="#C9A86A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

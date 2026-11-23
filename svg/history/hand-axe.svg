@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="rotate(-30 256 256)">
+    <path d="M256 60 C330 130 380 220 340 330 C320 390 290 420 256 420 C222 420 192 390 172 330 C132 220 182 130 256 60Z" fill="#B8B2A7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 100 C300 160 330 230 310 310 C300 350 280 380 256 380" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-opacity="0.4"/>
+    <path d="M256 140 L230 220 L256 280 L232 340" fill="none" stroke="#8F897E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

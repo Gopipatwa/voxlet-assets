@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M20 130 H492 V200 H20Z" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="20" y="170" width="472" height="30" fill="#B8B2A7"/>
+  <path d="M20 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M340 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M380 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M420 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M460 170 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 200 H462 V270 H50Z" fill="#2F8A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="50" y="240" width="412" height="30" fill="#B8B2A7"/>
+  <path d="M50 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M130 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M330 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M370 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M410 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M450 240 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 270 H432 V340 H80Z" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="80" y="310" width="352" height="30" fill="#B8B2A7"/>
+  <path d="M80 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M280 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 310 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 340 H402 V410 H110Z" fill="#2F8A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="110" y="380" width="292" height="30" fill="#B8B2A7"/>
+  <path d="M110 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M270 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M310 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M390 380 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 410 H372 V480 H140Z" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="140" y="450" width="232" height="30" fill="#B8B2A7"/>
+  <path d="M140 450 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 450 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 450 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 450 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 450 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M340 450 v30" fill="none" stroke="#8F897E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="256,40 340,130 172,130" fill="#8F897E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

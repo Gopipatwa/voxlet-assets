@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M60 190 H152 L160 420 C160 450 140 460 106 460 C72 460 52 450 52 420Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M62 190 C62 130 150 130 150 190Z" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="72" y="290" width="68" height="60" rx="8" fill="#3D8BFD"/>
+  <circle cx="88" cy="176" r="6" fill="#FFFFFF"/>
+  <circle cx="126" cy="176" r="6" fill="#FFFFFF"/>
+  <polygon points="84,120 100,150 68,150" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M160 190 H252 L260 420 C260 450 240 460 206 460 C172 460 152 450 152 420Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M162 190 C162 130 250 130 250 190Z" fill="#8C6A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="172" y="290" width="68" height="60" rx="8" fill="#3D8BFD"/>
+  <circle cx="188" cy="176" r="6" fill="#FFFFFF"/>
+  <circle cx="226" cy="176" r="6" fill="#FFFFFF"/>
+  <polygon points="184,120 200,150 168,150" fill="#8C6A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M260 190 H352 L360 420 C360 450 340 460 306 460 C272 460 252 450 252 420Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M262 190 C262 130 350 130 350 190Z" fill="#3B3B44" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="290" width="68" height="60" rx="8" fill="#3D8BFD"/>
+  <circle cx="288" cy="176" r="6" fill="#FFFFFF"/>
+  <circle cx="326" cy="176" r="6" fill="#FFFFFF"/>
+  <polygon points="284,120 300,150 268,150" fill="#3B3B44" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M360 190 H452 L460 420 C460 450 440 460 406 460 C372 460 352 450 352 420Z" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M362 190 C362 130 450 130 450 190Z" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="372" y="290" width="68" height="60" rx="8" fill="#3D8BFD"/>
+  <circle cx="388" cy="176" r="6" fill="#FFFFFF"/>
+  <circle cx="426" cy="176" r="6" fill="#FFFFFF"/>
+  <polygon points="384,120 400,150 368,150" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

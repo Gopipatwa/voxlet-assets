@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="60" y="50" width="392" height="412" rx="16" fill="#E8CFA0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M60 150 H452 M60 250 H452 M60 350 H452" fill="none" stroke="#C9A86A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 100 l0 30 m-18 -30 h36 M190 105 c20 -20 40 0 20 20 c-20 20 -40 0 -20 -20 M290 100 l0 30 M270 115 h40 M370 100 c-20 0 -20 30 0 30" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="140" cy="200" r="14" fill="#3D8BFD"/>
+  <path d="M200 190 h60 M200 215 h40 M300 190 l30 20 l30 -20" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 300 q30 -30 60 0 M190 285 v30 M240 290 q20 -10 20 10 M330 285 h50 M355 285 v40" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 390 h50 M120 415 h30 M230 380 v40 M260 380 q30 20 0 40 M340 390 c30 -20 30 30 0 20" fill="none" stroke="#6E4A2A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
