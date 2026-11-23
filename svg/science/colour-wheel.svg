@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M256 256 L256 66 A190 190 0 0 1 351 91Z" fill="#E5484D"/>
+  <path d="M256 256 L351 91 A190 190 0 0 1 421 161Z" fill="#F5913E"/>
+  <path d="M256 256 L421 161 A190 190 0 0 1 446 256Z" fill="#FFC83D"/>
+  <path d="M256 256 L446 256 A190 190 0 0 1 421 351Z" fill="#B8D84A"/>
+  <path d="M256 256 L421 351 A190 190 0 0 1 351 421Z" fill="#4CB963"/>
+  <path d="M256 256 L351 421 A190 190 0 0 1 256 446Z" fill="#2FB5A8"/>
+  <path d="M256 256 L256 446 A190 190 0 0 1 161 421Z" fill="#8FD0FF"/>
+  <path d="M256 256 L161 421 A190 190 0 0 1 91 351Z" fill="#3D8BFD"/>
+  <path d="M256 256 L91 351 A190 190 0 0 1 66 256Z" fill="#8B5CF6"/>
+  <path d="M256 256 L66 256 A190 190 0 0 1 91 161Z" fill="#C04FB5"/>
+  <path d="M256 256 L91 161 A190 190 0 0 1 161 91Z" fill="#F7A1B5"/>
+  <path d="M256 256 L161 91 A190 190 0 0 1 256 66Z" fill="#B5323A"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="#2E2A3B" stroke-width="10" data-outline="stroke"/>
+  <circle cx="256" cy="256" r="60" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

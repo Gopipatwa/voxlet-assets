@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="100" y="70" width="312" height="300" rx="30" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M110 110 H402 V360 H110Z" fill="#7DB2FF" fill-opacity="0.6"/>
+  <path d="M170 330 V190 C170 120 250 110 256 150 C262 110 342 120 342 190 V330" fill="none" stroke="#E5484D" stroke-width="16" stroke-linecap="round"/>
+  <polygon points="170,300 140,330 200,330" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="342,230 312,200 372,200" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="70" y="374" width="372" height="36" rx="14" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="translate(200 450) scale(0.5)">
+    <path d="M0 -90 C30 -40 56 -20 50 20 C46 46 26 56 0 56 C-26 56 -46 46 -50 20 C-56 -20 -30 -40 0 -90Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M0 -30 C16 0 28 10 24 30 C20 46 10 50 0 50 C-10 50 -20 46 -24 30 C-28 10 -16 0 0 -30Z" fill="#FFC83D"/>
+  </g>
+  <g transform="translate(312 450) scale(0.5)">
+    <path d="M0 -90 C30 -40 56 -20 50 20 C46 46 26 56 0 56 C-26 56 -46 46 -50 20 C-56 -20 -30 -40 0 -90Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M0 -30 C16 0 28 10 24 30 C20 46 10 50 0 50 C-10 50 -20 46 -24 30 C-28 10 -16 0 0 -30Z" fill="#FFC83D"/>
+  </g>
+</svg>

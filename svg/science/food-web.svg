@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M110 250 L256 250" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M110 250 L256 250" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 250 L400 250" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M110 250 L400 250" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 250 L180 420" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 250 L180 420" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 250 L350 420" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 250 L350 420" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 250 L350 420" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 250 L350 420" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 250 L180 420" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 250 L180 420" fill="none" stroke="#C9CED6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="70" r="44" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="110" cy="250" r="44" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="250" r="44" fill="#E8B878" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="400" cy="250" r="44" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="180" cy="420" r="44" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="350" cy="420" r="44" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

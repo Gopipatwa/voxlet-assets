@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="256,40 340,150 256,250 172,150" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 40 V250 M172 150 H340" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 250 C280 330 220 380 250 450" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 250 C280 330 220 380 250 450" fill="none" stroke="#E8B878" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="236" cy="410" r="20" fill="none" stroke="#E8A520" stroke-width="12"/>
+  <rect x="224" y="420" width="24" height="60" rx="6" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="412,90 372,158 398,158 386,210 430,134 402,134 424,90" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M90 100 C40 100 30 150 70 160 H160 C200 160 200 110 160 100 C150 60 110 60 90 100Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

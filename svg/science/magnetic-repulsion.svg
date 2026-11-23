@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="60" y="210" width="140" height="92" rx="14" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="312" y="210" width="140" height="92" rx="14" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M224 256 L176 256" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M224 256 L176 256" fill="none" stroke="#2E2A3B" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="162,256 205,239 205,273" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M288 256 L336 256" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M288 256 L336 256" fill="none" stroke="#2E2A3B" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="350,256 307,273 307,239" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256.0,234.0 260.0,249.1 275.1,245.0 264.0,256.0 275.1,267.0 260.0,262.9 256.0,278.0 252.0,262.9 236.9,267.0 248.0,256.0 236.9,245.0 252.0,249.1" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

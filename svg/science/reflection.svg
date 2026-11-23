@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M60 400 H452" fill="none" stroke="#2E2A3B" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M60 400 H452" fill="none" stroke="#6B7280" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="40" y="412" width="432" height="18" fill="#7DB2FF"/>
+  <path d="M256 400 V120" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 130 L256 400" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M80 130 L256 400" fill="none" stroke="#FFC83D" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 400 L432 130" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 400 L432 130" fill="none" stroke="#FFC83D" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="256.0,372.0 260.6,388.9 275.8,380.2 267.1,395.4 284.0,400.0 267.1,404.6 275.8,419.8 260.6,411.1 256.0,428.0 251.4,411.1 236.2,419.8 244.9,404.6 228.0,400.0 244.9,395.4 236.2,380.2 251.4,388.9" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

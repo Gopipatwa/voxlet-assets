@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="70" y="180" width="240" height="210" rx="34" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="88" y="196" width="204" height="36" rx="14" fill="#7DB2FF"/>
+  <circle cx="190" cy="300" r="62" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-wheel" data-pivot="190 300">
+    <rect x="176" y="262" width="28" height="76" rx="10" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="152" y="286" width="76" height="28" rx="10" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="310" y="250" width="60" height="34" rx="8" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M370 267 C420 267 430 340 450 340" fill="none" stroke="#2E2A3B" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M370 267 C420 267 430 340 450 340" fill="none" stroke="#6B7280" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="430,98 396,157 418,157 408,202 447,136 422,136 441,98" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="100" y="390" width="180" height="36" rx="10" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>
