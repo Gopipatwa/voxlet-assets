@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M60 440 V260 C60 130 150 70 256 70 C362 70 452 130 452 260 V440Z" fill="#7DB2FF" fill-opacity="0.55" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M60 440 V260 C60 130 150 70 256 70 C362 70 452 130 452 260 V440" fill="none" stroke="#3D8BFD" stroke-width="14" stroke-linecap="round"/>
+  <polygon points="256,102 280,116 280,144 256,158 232,144 232,116" fill="#3D8BFD" fill-opacity="0.6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="150,162 174,176 174,204 150,218 126,204 126,176" fill="#3D8BFD" fill-opacity="0.6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="362,162 386,176 386,204 362,218 338,204 338,176" fill="#3D8BFD" fill-opacity="0.6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256,222 280,236 280,264 256,278 232,264 232,236" fill="#3D8BFD" fill-opacity="0.6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="110,272 134,286 134,314 110,328 86,314 86,286" fill="#3D8BFD" fill-opacity="0.6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="402,272 426,286 426,314 402,328 378,314 378,286" fill="#3D8BFD" fill-opacity="0.6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="190" y="400" width="132" height="60" rx="20" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="430" r="14" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256.0,66.0 263.1,82.9 280.0,90.0 263.1,97.1 256.0,114.0 248.9,97.1 232.0,90.0 248.9,82.9" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

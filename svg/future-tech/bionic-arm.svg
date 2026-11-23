@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="60" y="200" width="110" height="110" rx="30" fill="#F2C29B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="160" y="210" width="130" height="90" rx="26" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="290" cy="256" r="30" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="300" y="210" width="110" height="90" rx="24" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M400 256 L455 211" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 256 L455 211" fill="none" stroke="#2C6BD6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 256 L460 244" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 256 L460 244" fill="none" stroke="#2C6BD6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 256 L459 280" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 256 L459 280" fill="none" stroke="#2C6BD6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 256 L453 310" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 256 L453 310" fill="none" stroke="#2C6BD6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 250 L452 220" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 250 L452 220" fill="none" stroke="#2C6BD6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 240 H270 M180 270 H250" fill="none" stroke="#7DB2FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

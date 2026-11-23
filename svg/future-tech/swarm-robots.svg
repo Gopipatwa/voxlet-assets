@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(120 120) scale(0.9)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(250 90) scale(0.7)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(370 140) scale(0.9)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(170 250) scale(0.75)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(310 260) scale(1.0)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(90 380) scale(0.8)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(230 390) scale(0.7)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(390 390) scale(0.9)">
+    <rect x="-44" y="-30" width="88" height="60" rx="20" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="-16" cy="-4" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="-4" r="9" fill="#FFFFFF"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M-30 30 l-10 16 M30 30 l10 16 M0 -30 v-18" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

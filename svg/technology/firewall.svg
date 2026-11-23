@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="60" y="200" width="392" height="240" rx="14" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="212" width="94" height="64" rx="8" fill="#7DB2FF"/>
+  <rect x="160" y="212" width="94" height="64" rx="8" fill="#3D8BFD"/>
+  <rect x="260" y="212" width="94" height="64" rx="8" fill="#7DB2FF"/>
+  <rect x="360" y="212" width="92" height="64" rx="8" fill="#3D8BFD"/>
+  <rect x="60" y="288" width="44" height="64" rx="8" fill="#3D8BFD"/>
+  <rect x="110" y="288" width="94" height="64" rx="8" fill="#7DB2FF"/>
+  <rect x="210" y="288" width="94" height="64" rx="8" fill="#3D8BFD"/>
+  <rect x="310" y="288" width="94" height="64" rx="8" fill="#7DB2FF"/>
+  <rect x="60" y="364" width="94" height="64" rx="8" fill="#7DB2FF"/>
+  <rect x="160" y="364" width="94" height="64" rx="8" fill="#3D8BFD"/>
+  <rect x="260" y="364" width="94" height="64" rx="8" fill="#7DB2FF"/>
+  <rect x="360" y="364" width="92" height="64" rx="8" fill="#3D8BFD"/>
+  <path d="M256 40 C300 100 360 130 340 210 C330 250 300 260 256 260 C212 260 182 250 172 210 C152 130 212 100 256 40Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 120 C276 150 300 170 292 210 C286 232 266 238 256 238 C246 238 226 232 220 210 C212 170 236 150 256 120Z" fill="#F9B57A"/>
+</svg>

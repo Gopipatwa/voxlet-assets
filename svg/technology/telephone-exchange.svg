@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="50" y="100" width="412" height="300" rx="30" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="100" cy="160" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="100" cy="160" r="8" fill="#C9CED6"/>
+  <circle cx="162" cy="160" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="162" cy="160" r="8" fill="#C9CED6"/>
+  <circle cx="224" cy="160" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="224" cy="160" r="8" fill="#C9CED6"/>
+  <circle cx="286" cy="160" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="286" cy="160" r="8" fill="#C9CED6"/>
+  <circle cx="348" cy="160" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="348" cy="160" r="8" fill="#C9CED6"/>
+  <circle cx="410" cy="160" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="410" cy="160" r="8" fill="#C9CED6"/>
+  <circle cx="100" cy="220" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="100" cy="220" r="8" fill="#C9CED6"/>
+  <circle cx="162" cy="220" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="162" cy="220" r="8" fill="#C9CED6"/>
+  <circle cx="224" cy="220" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="224" cy="220" r="8" fill="#C9CED6"/>
+  <circle cx="286" cy="220" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="286" cy="220" r="8" fill="#C9CED6"/>
+  <circle cx="348" cy="220" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="348" cy="220" r="8" fill="#C9CED6"/>
+  <circle cx="410" cy="220" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="410" cy="220" r="8" fill="#C9CED6"/>
+  <circle cx="100" cy="280" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="100" cy="280" r="8" fill="#C9CED6"/>
+  <circle cx="162" cy="280" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="162" cy="280" r="8" fill="#C9CED6"/>
+  <circle cx="224" cy="280" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="224" cy="280" r="8" fill="#C9CED6"/>
+  <circle cx="286" cy="280" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="286" cy="280" r="8" fill="#C9CED6"/>
+  <circle cx="348" cy="280" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="348" cy="280" r="8" fill="#C9CED6"/>
+  <circle cx="410" cy="280" r="18" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="410" cy="280" r="8" fill="#C9CED6"/>
+  <path d="M100 160 C130 230 200 200 224 280 M286 220 C330 300 380 250 410 340" fill="none" stroke="#2E2A3B" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M100 160 C130 230 200 200 224 280 M286 220 C330 300 380 250 410 340" fill="none" stroke="#F5913E" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="70" y="340" width="372" height="40" rx="14" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

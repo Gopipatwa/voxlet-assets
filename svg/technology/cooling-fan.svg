@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="60" y="60" width="392" height="392" rx="60" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="256" r="170" fill="#C9CED6"/>
+  <g id="part-wheel" data-pivot="256 256">
+    <path d="M256 256 L397 205 Q386 331 386 331 Q371 324 256 256Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 256 L348 374 Q225 403 225 403 Q277 378 256 256Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 256 L172 380 Q107 272 107 272 Q195 306 256 256Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 256 L112 215 Q195 119 195 119 Q239 206 256 256Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 256 L251 106 Q367 156 367 156 Q348 217 256 256Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <circle cx="256" cy="256" r="34" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="92" cy="92" r="12" fill="#7DB2FF"/>
+  <circle cx="420" cy="92" r="12" fill="#7DB2FF"/>
+  <circle cx="92" cy="420" r="12" fill="#7DB2FF"/>
+  <circle cx="420" cy="420" r="12" fill="#7DB2FF"/>
+</svg>

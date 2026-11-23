@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 220) scale(0.9) translate(-256 -256)">
+    <path d="M110 470 C110 360 170 310 256 310 C342 310 402 360 402 470Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M256 50 C340 50 380 130 370 210 C362 270 330 310 256 310 C182 310 150 270 142 210 C132 130 172 50 256 50Z" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <ellipse cx="256" cy="200" rx="82" ry="90" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="226" cy="196" r="10" fill="#F9B57A"/>
+    <circle cx="286" cy="196" r="10" fill="#F9B57A"/>
+  </g>
+  <rect x="130" y="370" width="252" height="100" rx="14" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="146" y="384" width="220" height="60" rx="8" fill="#2E2A3B"/>
+  <path d="M170 410 H230 M170 430 H290" fill="none" stroke="#F9B57A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 470 H402 L420 490 H92Z" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

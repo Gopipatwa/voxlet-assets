@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M50 330 C50 290 80 260 120 250 L170 190 H340 L392 250 C440 260 464 290 464 330 V370 H50Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M184 205 H330 L366 250 H146Z" fill="#7DB2FF"/>
+  <circle cx="140" cy="375" r="44" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="140" cy="375" r="16" fill="#C9CED6"/>
+  <circle cx="372" cy="375" r="44" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="372" cy="375" r="16" fill="#C9CED6"/>
+  <rect x="220" y="130" width="72" height="44" rx="12" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M204 122 A60 60 0 0 1 308 122" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M152 92 A120 120 0 0 1 360 92" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M70 440 H140 M190 440 H260 M310 440 H380" fill="none" stroke="#C9CED6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

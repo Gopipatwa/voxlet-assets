@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="40" y="250" width="320" height="210" rx="24" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M54 268 L200 380 L346 268" fill="none" stroke="#3D8BFD" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 30 V250 C400 330 320 330 330 260" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M400 30 V250 C400 330 320 330 330 260" fill="none" stroke="#2E2A3B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="330,260 306,282 342,288" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="400" cy="30" r="16" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="440" cy="360" r="40" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M445.5 366.8H434.5L432.7 335.0H447.3ZM432.9 378.6Q432.9 375.0 435.0 373.6Q437.1 372.1 440.0 372.1Q442.8 372.1 444.9 373.6Q446.9 375.0 446.9 378.6Q446.9 382.0 444.9 383.5Q442.8 385.0 440.0 385.0Q437.1 385.0 435.0 383.5Q432.9 382.0 432.9 378.6Z" fill="#2E2A3B"/>
+</svg>

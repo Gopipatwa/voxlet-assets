@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M256 70 C150 60 90 150 110 240 C100 290 130 330 170 340 V400 H340 V340 C400 320 430 250 410 190 C400 110 340 60 256 70Z" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 120 V330 M256 190 H330 M256 250 H190 M256 300 H320" fill="none" stroke="#2C6BD6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="330" cy="190" r="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="190" cy="250" r="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="320" cy="300" r="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="120" r="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="180" y="400" width="152" height="60" rx="16" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M253.4 448.0 251.7 441.3H240.0L238.2 448.0H227.6L239.3 412.0H252.2L264.0 448.0ZM248.1 427.5Q247.9 426.5 247.4 424.7Q247.0 422.9 246.5 421.0Q246.1 419.1 245.8 417.9Q245.6 419.1 245.2 420.9Q244.8 422.7 244.3 424.5Q243.9 426.3 243.6 427.5L242.0 433.3H249.7ZM284.4 448.0H265.7V442.5L270.2 440.8V419.3L265.7 417.7V412.2H284.4V417.7L279.9 419.3V440.8L284.4 442.5Z" fill="#FFFFFF"/>
+</svg>
