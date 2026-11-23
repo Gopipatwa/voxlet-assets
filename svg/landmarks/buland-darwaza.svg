@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-buland-darwaza"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-buland-darwaza)">
+  <path d="M0 440 C140 440 340 440 512 440 V512 H0 Z" fill="#B8945A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="120,440 140,400 372,400 392,440" fill="#D27A5E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="130" y="130" width="252" height="272" rx="0" fill="#B5523A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M196 400 V252 Q196 192 256 180 Q316 192 316 252 V400 Z" fill="#8E3B28" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M140 140 H372" fill="none" stroke="#F4F1EA" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="136" y="98" width="28" height="32" rx="0" fill="#D27A5E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M135 98 A15 15 0 0 1 165 98 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M150 83 V78" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 83 V78" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="196" y="98" width="28" height="32" rx="0" fill="#D27A5E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M195 98 A15 15 0 0 1 225 98 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M210 83 V78" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M210 83 V78" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="288" y="98" width="28" height="32" rx="0" fill="#D27A5E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M287 98 A15 15 0 0 1 317 98 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M302 83 V78" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M302 83 V78" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="348" y="98" width="28" height="32" rx="0" fill="#D27A5E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M347 98 A15 15 0 0 1 377 98 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M362 83 V78" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M362 83 V78" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

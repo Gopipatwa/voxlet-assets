@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-hawa-mahal"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-hawa-mahal)">
+  <path d="M0 450 C140 450 340 450 512 450 V512 H0 Z" fill="#B8945A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="60,450 60,250 130,200 200,140 256,100 312,140 382,200 452,250 452,450" fill="#E58A8A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="204" y="160" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M204 160 A12 12 0 0 1 228 160 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="238" y="160" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M238 160 A12 12 0 0 1 262 160 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="160" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 160 A12 12 0 0 1 296 160 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="170" y="206" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 206 A12 12 0 0 1 194 206 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="204" y="206" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M204 206 A12 12 0 0 1 228 206 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="238" y="206" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M238 206 A12 12 0 0 1 262 206 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="206" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 206 A12 12 0 0 1 296 206 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="306" y="206" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M306 206 A12 12 0 0 1 330 206 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="136" y="252" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M136 252 A12 12 0 0 1 160 252 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="170" y="252" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 252 A12 12 0 0 1 194 252 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="204" y="252" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M204 252 A12 12 0 0 1 228 252 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="238" y="252" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M238 252 A12 12 0 0 1 262 252 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="252" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 252 A12 12 0 0 1 296 252 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="306" y="252" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M306 252 A12 12 0 0 1 330 252 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="340" y="252" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M340 252 A12 12 0 0 1 364 252 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="102" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M102 298 A12 12 0 0 1 126 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="136" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M136 298 A12 12 0 0 1 160 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="170" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 298 A12 12 0 0 1 194 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="204" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M204 298 A12 12 0 0 1 228 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="238" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M238 298 A12 12 0 0 1 262 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 298 A12 12 0 0 1 296 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="306" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M306 298 A12 12 0 0 1 330 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="340" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M340 298 A12 12 0 0 1 364 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="374" y="298" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M374 298 A12 12 0 0 1 398 298 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="68" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M68 344 A12 12 0 0 1 92 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="102" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M102 344 A12 12 0 0 1 126 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="136" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M136 344 A12 12 0 0 1 160 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="170" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 344 A12 12 0 0 1 194 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="204" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M204 344 A12 12 0 0 1 228 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="238" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M238 344 A12 12 0 0 1 262 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 344 A12 12 0 0 1 296 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="306" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M306 344 A12 12 0 0 1 330 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="340" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M340 344 A12 12 0 0 1 364 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="374" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M374 344 A12 12 0 0 1 398 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="408" y="344" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M408 344 A12 12 0 0 1 432 344 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="68" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M68 390 A12 12 0 0 1 92 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="102" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M102 390 A12 12 0 0 1 126 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="136" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M136 390 A12 12 0 0 1 160 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="170" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 390 A12 12 0 0 1 194 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="204" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M204 390 A12 12 0 0 1 228 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="238" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M238 390 A12 12 0 0 1 262 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="272" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 390 A12 12 0 0 1 296 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="306" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M306 390 A12 12 0 0 1 330 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="340" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M340 390 A12 12 0 0 1 364 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="374" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M374 390 A12 12 0 0 1 398 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="408" y="390" width="24" height="30" rx="10" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M408 390 A12 12 0 0 1 432 390 Z" fill="#F7C9B5" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

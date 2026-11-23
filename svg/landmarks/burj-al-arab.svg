@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-burj-al-arab"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-burj-al-arab)">
+  <rect x="0" y="400" width="512" height="120" fill="#5BB0F0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M70 430 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 456 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 400 V90 C320 120 380 260 360 400 Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M200 90 L180 70 L200 60 Z" fill="#8C99A8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M206 130 C268 136 306 140 342 150" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 160 C274 166 310 170 344 180" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 190 C280 196 315 200 346 210" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 220 C286 226 320 230 348 240" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 250 C292 256 324 260 350 270" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 280 C298 286 328 290 351 300" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 310 C304 316 333 320 353 330" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 340 C310 346 338 350 355 360" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 370 C316 376 342 380 357 390" fill="none" stroke="#D8D2C4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="170" y="90" width="30" height="310" rx="0" fill="#8C99A8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="176" cy="210" r="26" fill="#5E6B7A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="140" y="396" width="260" height="16" rx="0" fill="#EBD49A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-taj-mahal"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#CDE8F7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-taj-mahal)">
+  <rect x="0" y="410" width="512" height="110" fill="#A8DAF7" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="384" width="432" height="28" rx="0" fill="#D8D2C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="59" y="194" width="22" height="190" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="55" y="332" width="31" height="10" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="55" y="284" width="31" height="10" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="55" y="236" width="31" height="10" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="57" y="190" width="26" height="8" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M57 190 A13 13 0 0 1 83 190 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M70 177 V172" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M70 177 V172" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="431" y="194" width="22" height="190" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="427" y="332" width="31" height="10" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="427" y="284" width="31" height="10" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="427" y="236" width="31" height="10" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="429" y="190" width="26" height="8" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M429 190 A13 13 0 0 1 455 190 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M442 177 V172" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M442 177 V172" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="130" y="250" width="252" height="134" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M214 384 V314 Q214 272 256 264 Q298 272 298 314 V384 Z" fill="#C9C1AE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M151 330 V293 Q151 274 170 270 Q189 274 189 293 V330 Z" fill="#C9C1AE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M151 380 V363 Q151 344 170 340 Q189 344 189 363 V380 Z" fill="#C9C1AE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M323 330 V293 Q323 274 342 270 Q361 274 361 293 V330 Z" fill="#C9C1AE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M323 380 V363 Q323 344 342 340 Q361 344 361 363 V380 Z" fill="#C9C1AE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="138" y="226" width="44" height="24" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M136 226 A24 24 0 0 1 184 226 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M160 202 V194" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M160 202 V194" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="330" y="226" width="44" height="24" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M328 226 A24 24 0 0 1 376 226 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M352 202 V194" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M352 202 V194" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="206" y="226" width="100" height="26" rx="0" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M182 228 C164 176 212 139 256 98 C300 139 348 176 330 228 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 98 V73" fill="none" stroke="#2E2A3B" stroke-width="25.92" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 98 V73" fill="none" stroke="#E8A520" stroke-width="5.92" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="236" y="420" width="40" height="70" fill="#5BB0F0"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

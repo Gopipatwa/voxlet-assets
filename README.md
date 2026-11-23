@@ -97,7 +97,7 @@ Tick each box here when it is done.
 - [x] The app downloads it like the other packs (pack `voxlet-own` in the app's `packs.json`, format
       `voxlet-own`, from this repo's latest GitHub Release); it is listed first.
 - [x] Search ranks `voxlet-own` first; the downloaded packs become the fallback.
-- [ ] First GitHub Release of this repo with `voxlet-own.zip` (needs the repo on GitHub).
+- [x] First GitHub Release of this repo with `voxlet-own.zip` (v2026.11.23).
 - [ ] Gemini's storyboard and quiz prompts get the catalogue's names, so they ask for pictures we
       have.
 
@@ -117,9 +117,14 @@ after each. Each category has a script `drawings/<category>.py` using
 `tools/draw_lib.py`; run `python drawings/<category>.py [ids…]` to (re)draw.
 - [ ] Engine: a `border` on/off option when loading own-pack SVGs (uses the `data-outline` marks).
 
-Progress (3,210 of 7,824): finished: `symbols-signs`, `concepts-ideas`, `brain-teasers-logic`,
+Progress (3,598 of 7,824): finished: `symbols-signs`, `concepts-ideas`, `brain-teasers-logic`,
 `religion-faith`, `celebrations-holidays`, `animals`, `ocean-underwater`, `space`, `human-body`,
-`health-medicine`, `psychology-mind`, `earth-geography`. Next: `cities-capitals`, `landmarks`.
+`health-medicine`, `psychology-mind`, `earth-geography`, `cities-capitals`, `landmarks`.
+Next: `science`, `math`, `inventions-discoveries`, `future-tech`, `technology`.
+
+`cities-capitals` (`drawings/cities_capitals.py`): the country's map with a pin at the city, the
+country's flag and the city's name (coordinates typed by hand; Jerusalem shows Israel and Palestine
+together with no flag). `landmarks` (`drawings/landmarks.py`): hand-drawn scenes.
 
 Animals: four-legged mammals use `quad()` in `drawings/_animals.py` (one silhouette: back line, deep
 chest, haunch, tapered neck, skull + muzzle head, legs with knees and hocks; patterns clipped to the body).
@@ -150,7 +155,7 @@ Order:
 3. [x] Animal Quiz, Ocean & Underwater (`animals`, `ocean-underwater`)
 4. [x] Space Quiz (`space`)
 5. [x] Human Body Quiz, Psychology (`human-body`, `health-medicine`, `psychology-mind`)
-6. [ ] Geography, Flags & Capitals (`earth-geography` done) (`earth-geography`, `cities-capitals`, `landmarks`)
+6. [x] Geography, Flags & Capitals (`earth-geography`, `cities-capitals`, `landmarks`)
 7. [ ] Science, Inventions, Future (`science`, `math`, `inventions-discoveries`, `future-tech`, `technology`)
 8. [ ] History, Human Origins, Mythology, Mysteries (`history`, `fantasy-mythology`, `mysteries-unexplained`)
 9. [ ] Food, Sports, Daily Life, Money, Movies, World Records, Words (the rest)

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-mysore-palace"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#1E2A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-mysore-palace)">
+  <path d="M0 450 C140 450 340 450 512 450 V512 H0 Z" fill="#4E9E4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="260" width="392" height="190" rx="0" fill="#E8E0D0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M73 450 V397 A17 17 0 0 1 107 397 V450 Z" fill="#9C8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M128 450 V397 A17 17 0 0 1 162 397 V450 Z" fill="#9C8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M183 450 V397 A17 17 0 0 1 217 397 V450 Z" fill="#9C8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M238 450 V397 A17 17 0 0 1 272 397 V450 Z" fill="#9C8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M293 450 V397 A17 17 0 0 1 327 397 V450 Z" fill="#9C8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M348 450 V397 A17 17 0 0 1 382 397 V450 Z" fill="#9C8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M403 450 V397 A17 17 0 0 1 437 397 V450 Z" fill="#9C8A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="210" y="180" width="92" height="270" rx="0" fill="#E8E0D0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M210 180 C198 148 228 125 256 100 C284 125 314 148 302 180 Z" fill="#D86A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 100 V83" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 100 V83" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="68" y="200" width="44" height="60" rx="0" fill="#E8E0D0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M66 200 C60 183 76 171 90 158 C104 171 120 183 114 200 Z" fill="#D86A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M90 158 V150" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M90 158 V150" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="400" y="200" width="44" height="60" rx="0" fill="#E8E0D0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M398 200 C392 183 408 171 422 158 C436 171 452 183 446 200 Z" fill="#D86A6A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M422 158 V150" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M422 158 V150" fill="none" stroke="#E8A520" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="70" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="90" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="110" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="130" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="150" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="170" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="190" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="210" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="230" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="250" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="270" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="290" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="310" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="330" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="350" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="370" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="390" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="410" cy="262" r="4" fill="#FFC83D"/>
+  <circle cx="430" cy="262" r="4" fill="#FFC83D"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M256.6 315.8 L247.8 336.7 L243.2 376.0 L235.6 373.3 L231.4 366.6 L230.4 355.7 L222.8 338.7 L201.7 322.1 L183.3 274.9 L182.4 270.0 L188.0 248.5 L187.2 226.5 L226.6 155.1 L242.9 134.0 L259.2 107.1 L284.9 96.2 L291.6 88.4 L296.9 86.0 L303.0 86.1 L310.4 94.2 L323.5 100.9 L327.7 105.1 L329.6 112.2 L320.9 125.1 L321.6 150.2 L314.4 171.8 L304.5 191.9 L293.8 246.3 L287.4 268.1 L279.4 285.9 L268.7 302.3Z" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256.6 315.8 L247.8 336.7 L243.2 376.0 L235.6 373.3 L231.4 366.6 L230.4 355.7 L222.8 338.7 L201.7 322.1 L183.3 274.9 L182.4 270.0 L188.0 248.5 L187.2 226.5 L226.6 155.1 L242.9 134.0 L259.2 107.1 L284.9 96.2 L291.6 88.4 L296.9 86.0 L303.0 86.1 L310.4 94.2 L323.5 100.9 L327.7 105.1 L329.6 112.2 L320.9 125.1 L321.6 150.2 L314.4 171.8 L304.5 191.9 L293.8 246.3 L287.4 268.1 L279.4 285.9 L268.7 302.3Z" fill="#3D8BFD"/>
+  <path d="M301 107 C295 89 275 77 275 59 A26 26 0 1 1 327 59 C327 77 307 89 301 107 Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="301" cy="59" r="10" fill="#FFFFFF"/>
+  <rect x="168" y="396" width="304" height="76" rx="38" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M249.8 454.0H239.1V423.0H229.4V414.2H259.6V423.0H249.8ZM285.8 454.0 283.8 446.5H270.9L268.9 454.0H257.0L270.0 414.0H284.4L297.5 454.0ZM279.9 431.2Q279.6 430.1 279.1 428.1Q278.6 426.2 278.1 424.0Q277.6 421.9 277.3 420.6Q277.1 421.9 276.6 423.9Q276.1 425.9 275.6 427.9Q275.2 429.8 274.8 431.2L273.1 437.7H281.6ZM320.2 454.0H299.4V447.9L304.4 446.0V422.1L299.4 420.3V414.2H320.2V420.3L315.2 422.1V446.0L320.2 447.9ZM340.2 414.2Q347.8 414.2 351.5 417.5Q355.3 420.8 355.3 426.8Q355.3 429.6 354.5 432.0Q353.7 434.5 352.0 436.5Q350.2 438.5 347.3 439.6Q344.4 440.8 340.2 440.8H337.2V454.0H326.4V414.2ZM339.9 422.9H337.2V432.0H339.3Q341.4 432.0 343.0 430.9Q344.5 429.8 344.5 427.1Q344.5 425.2 343.4 424.0Q342.3 422.9 339.9 422.9ZM385.3 454.0H361.6V414.2H385.3V422.8H372.4V429.1H384.4V437.7H372.4V445.2H385.3ZM410.6 454.0H389.9V447.9L394.8 446.0V422.1L389.9 420.3V414.2H410.6V420.3L405.7 422.1V446.0L410.6 447.9Z" fill="#FFFFFF"/>
+  <g transform="translate(30.3 370.6) scale(0.27)">
+    <defs><clipPath id="fc-taiwan"><rect width="300" height="200" rx="12"/></clipPath></defs>
+    <g transform="translate(36.0 109.3) scale(1.4667)">
+      <g clip-path="url(#fc-taiwan)">
+      <rect x="0" y="0" width="300" height="200" fill="#FE0000"/>
+      <rect x="0" y="0" width="150" height="100" fill="#000095"/>
+      <polygon points="91.0,47.4 107.4,50.0 91.0,52.6" fill="#FFFFFF"/>
+      <polygon points="90.1,55.8 103.1,66.2 87.6,60.2" fill="#FFFFFF"/>
+      <polygon points="85.2,62.6 91.2,78.1 80.8,65.1" fill="#FFFFFF"/>
+      <polygon points="77.6,66.0 75.0,82.4 72.4,66.0" fill="#FFFFFF"/>
+      <polygon points="69.2,65.1 58.8,78.1 64.8,62.6" fill="#FFFFFF"/>
+      <polygon points="62.4,60.2 46.9,66.2 59.9,55.8" fill="#FFFFFF"/>
+      <polygon points="59.0,52.6 42.6,50.0 59.0,47.4" fill="#FFFFFF"/>
+      <polygon points="59.9,44.2 46.9,33.8 62.4,39.8" fill="#FFFFFF"/>
+      <polygon points="64.8,37.4 58.8,21.9 69.2,34.9" fill="#FFFFFF"/>
+      <polygon points="72.4,34.0 75.0,17.6 77.6,34.0" fill="#FFFFFF"/>
+      <polygon points="80.8,34.9 91.2,21.9 85.2,37.4" fill="#FFFFFF"/>
+      <polygon points="87.6,39.8 103.1,33.8 90.1,44.2" fill="#FFFFFF"/>
+      <circle cx="75" cy="50" r="18" fill="#FFFFFF"/>
+      <circle cx="75" cy="50" r="16" fill="#000095"/>
+      <circle cx="75" cy="50" r="13" fill="#FFFFFF"/>
+      </g>
+    </g>
+    <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

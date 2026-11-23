@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-hampi"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-hampi)">
+  <circle cx="80" cy="300" r="70" fill="#C9A27A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="430" cy="290" r="80" fill="#C9A27A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="140" cy="260" r="50" fill="#C9A27A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M0 430 C140 430 340 430 512 430 V512 H0 Z" fill="#B8945A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="170" y="260" width="172" height="130" rx="0" fill="#BFAE94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M176 280 H336" fill="none" stroke="#9C8A70" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 320 H336" fill="none" stroke="#9C8A70" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 360 H336" fill="none" stroke="#9C8A70" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="180,260 210,190 302,190 332,260" fill="#BFAE94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="215,190 256,140 297,190" fill="#BFAE94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="190" cy="400" r="40" fill="#9C8A70" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="190" cy="400" r="12" fill="#BFAE94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="322" cy="400" r="40" fill="#9C8A70" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="322" cy="400" r="12" fill="#BFAE94" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

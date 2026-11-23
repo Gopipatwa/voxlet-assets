@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-statue-of-liberty"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-statue-of-liberty)">
+  <rect x="0" y="440" width="512" height="80" fill="#5BB0F0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M70 470 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 496 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="176,440 196,330 316,330 336,440" fill="#C9B08A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M210 330 C206 260 214 200 230 170 H282 C298 200 306 260 302 330 Z" fill="#7FC4AA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="150" r="26" fill="#7FC4AA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M233 142 L213 134" fill="none" stroke="#7FC4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M239 133 L223 118" fill="none" stroke="#7FC4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M247 128 L239 107" fill="none" stroke="#7FC4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M257 126 L258 104" fill="none" stroke="#7FC4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M267 128 L276 109" fill="none" stroke="#7FC4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M274 135 L291 120" fill="none" stroke="#7FC4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M279 143 L300 137" fill="none" stroke="#7FC4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M282 180 L322 90" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M282 180 L322 90" fill="none" stroke="#7FC4AA" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M322 92 C310 70 330 50 322 30 C344 46 346 76 330 92 Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="214" y="210" width="40" height="30" rx="4" fill="#6AB098" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

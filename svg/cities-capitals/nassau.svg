@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="175" cy="224" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="190" cy="108" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="366" cy="367" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="159" cy="195" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="141" cy="99" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="188" cy="178" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="330" cy="289" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="317" cy="225" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="337" cy="303" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="233" cy="172" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="257" cy="250" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="290" cy="265" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="271" cy="210" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="384" cy="306" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="383" cy="348" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M191 177 C185 159 165 147 165 129 A26 26 0 1 1 217 129 C217 147 197 159 191 177 Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="191" cy="129" r="10" fill="#FFFFFF"/>
+  <rect x="168" y="396" width="304" height="76" rx="38" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M246.8 453.5H233.0L218.8 426.0H218.6Q218.7 427.3 218.8 429.1Q218.9 430.8 219.0 432.6Q219.0 434.4 219.0 435.9V453.5H209.7V414.5H223.5L237.6 441.6H237.8Q237.7 440.3 237.6 438.6Q237.5 436.9 237.5 435.2Q237.4 433.5 237.4 432.1V414.5H246.8ZM279.0 453.5 277.1 446.2H264.5L262.5 453.5H251.0L263.7 414.4H277.7L290.5 453.5ZM273.3 431.2Q273.0 430.1 272.5 428.2Q272.0 426.3 271.5 424.2Q271.0 422.1 270.8 420.8Q270.5 422.1 270.1 424.1Q269.6 426.0 269.2 428.0Q268.7 429.9 268.4 431.2L266.7 437.5H275.0ZM320.2 441.6Q320.2 444.8 318.6 447.6Q317.0 450.5 313.6 452.2Q310.3 454.0 304.9 454.0Q302.3 454.0 300.3 453.8Q298.3 453.5 296.5 453.0Q294.8 452.4 292.9 451.5V442.2Q296.1 443.8 299.3 444.6Q302.5 445.4 305.1 445.4Q307.5 445.4 308.6 444.6Q309.7 443.8 309.7 442.6Q309.7 441.0 308.1 440.1Q306.5 439.1 302.6 437.4Q299.8 436.1 297.6 434.6Q295.5 433.1 294.4 430.9Q293.2 428.7 293.2 425.4Q293.2 421.6 295.1 419.1Q296.9 416.6 300.2 415.3Q303.5 414.0 307.9 414.0Q311.7 414.0 314.7 414.8Q317.8 415.7 320.2 416.8L317.0 424.9Q314.5 423.8 312.0 423.1Q309.6 422.4 307.5 422.4Q305.5 422.4 304.6 423.1Q303.6 423.8 303.6 424.9Q303.6 425.8 304.3 426.5Q305.0 427.2 306.7 428.1Q308.4 428.9 311.3 430.2Q314.1 431.5 316.1 433.0Q318.1 434.5 319.1 436.5Q320.2 438.6 320.2 441.6ZM351.6 441.6Q351.6 444.8 350.0 447.6Q348.4 450.5 345.1 452.2Q341.7 454.0 336.4 454.0Q333.7 454.0 331.7 453.8Q329.7 453.5 328.0 453.0Q326.2 452.4 324.4 451.5V442.2Q327.5 443.8 330.8 444.6Q334.0 445.4 336.6 445.4Q338.9 445.4 340.0 444.6Q341.1 443.8 341.1 442.6Q341.1 441.0 339.5 440.1Q337.9 439.1 334.1 437.4Q331.2 436.1 329.1 434.6Q326.9 433.1 325.8 430.9Q324.7 428.7 324.7 425.4Q324.7 421.6 326.5 419.1Q328.4 416.6 331.7 415.3Q335.0 414.0 339.3 414.0Q343.1 414.0 346.2 414.8Q349.2 415.7 351.6 416.8L348.4 424.9Q345.9 423.8 343.5 423.1Q341.1 422.4 339.0 422.4Q337.0 422.4 336.0 423.1Q335.1 423.8 335.1 424.9Q335.1 425.8 335.8 426.5Q336.5 427.2 338.1 428.1Q339.8 428.9 342.7 430.2Q345.5 431.5 347.5 433.0Q349.5 434.5 350.6 436.5Q351.6 438.6 351.6 441.6ZM381.5 453.5 379.6 446.2H366.9L365.0 453.5H353.4L366.1 414.4H380.1L393.0 453.5ZM375.7 431.2Q375.4 430.1 375.0 428.2Q374.5 426.3 374.0 424.2Q373.5 422.1 373.2 420.8Q373.0 422.1 372.5 424.1Q372.1 426.0 371.6 428.0Q371.1 429.9 370.8 431.2L369.1 437.5H377.4ZM430.3 438.0Q430.3 445.3 426.1 449.7Q421.9 454.0 413.5 454.0Q405.4 454.0 401.2 449.9Q397.0 445.8 397.0 438.2V414.5H407.5V437.4Q407.5 441.5 409.1 443.4Q410.7 445.2 413.7 445.2Q416.9 445.2 418.3 443.3Q419.8 441.5 419.8 437.3V414.5H430.3Z" fill="#FFFFFF"/>
+  <g transform="translate(30.3 370.6) scale(0.27)">
+    <defs><clipPath id="fc-bahamas"><rect width="300" height="200" rx="12"/></clipPath></defs>
+    <g transform="translate(36.0 109.3) scale(1.4667)">
+      <g clip-path="url(#fc-bahamas)">
+      <rect x="0" y="0" width="300" height="67.1667" fill="#00778B"/>
+      <rect x="0" y="66.6667" width="300" height="67.1667" fill="#FFC72C"/>
+      <rect x="0" y="133.333" width="300" height="67.1667" fill="#00778B"/>
+      <polygon points="0.0,0.0 135.0,100.0 0.0,200.0" fill="#000000"/>
+      </g>
+    </g>
+    <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

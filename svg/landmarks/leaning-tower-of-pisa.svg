@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-leaning-tower-of-pisa"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-leaning-tower-of-pisa)">
+  <path d="M0 450 C140 450 340 450 512 450 V512 H0 Z" fill="#7CC56F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g transform="rotate(5 256 450)">
+    <rect x="196" y="120" width="120" height="330" rx="0" fill="#F2EEE4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="190" y="144" width="132" height="10" rx="0" fill="#DCD6C6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M208 184 V160 A6 6 0 0 1 220 160 V184 Z" fill="#C9C1AE"/>
+    <path d="M230 184 V160 A6 6 0 0 1 242 160 V184 Z" fill="#C9C1AE"/>
+    <path d="M252 184 V160 A6 6 0 0 1 264 160 V184 Z" fill="#C9C1AE"/>
+    <path d="M274 184 V160 A6 6 0 0 1 286 160 V184 Z" fill="#C9C1AE"/>
+    <path d="M296 184 V160 A6 6 0 0 1 308 160 V184 Z" fill="#C9C1AE"/>
+    <rect x="190" y="188" width="132" height="10" rx="0" fill="#DCD6C6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M208 228 V204 A6 6 0 0 1 220 204 V228 Z" fill="#C9C1AE"/>
+    <path d="M230 228 V204 A6 6 0 0 1 242 204 V228 Z" fill="#C9C1AE"/>
+    <path d="M252 228 V204 A6 6 0 0 1 264 204 V228 Z" fill="#C9C1AE"/>
+    <path d="M274 228 V204 A6 6 0 0 1 286 204 V228 Z" fill="#C9C1AE"/>
+    <path d="M296 228 V204 A6 6 0 0 1 308 204 V228 Z" fill="#C9C1AE"/>
+    <rect x="190" y="232" width="132" height="10" rx="0" fill="#DCD6C6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M208 272 V248 A6 6 0 0 1 220 248 V272 Z" fill="#C9C1AE"/>
+    <path d="M230 272 V248 A6 6 0 0 1 242 248 V272 Z" fill="#C9C1AE"/>
+    <path d="M252 272 V248 A6 6 0 0 1 264 248 V272 Z" fill="#C9C1AE"/>
+    <path d="M274 272 V248 A6 6 0 0 1 286 248 V272 Z" fill="#C9C1AE"/>
+    <path d="M296 272 V248 A6 6 0 0 1 308 248 V272 Z" fill="#C9C1AE"/>
+    <rect x="190" y="276" width="132" height="10" rx="0" fill="#DCD6C6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M208 316 V292 A6 6 0 0 1 220 292 V316 Z" fill="#C9C1AE"/>
+    <path d="M230 316 V292 A6 6 0 0 1 242 292 V316 Z" fill="#C9C1AE"/>
+    <path d="M252 316 V292 A6 6 0 0 1 264 292 V316 Z" fill="#C9C1AE"/>
+    <path d="M274 316 V292 A6 6 0 0 1 286 292 V316 Z" fill="#C9C1AE"/>
+    <path d="M296 316 V292 A6 6 0 0 1 308 292 V316 Z" fill="#C9C1AE"/>
+    <rect x="190" y="320" width="132" height="10" rx="0" fill="#DCD6C6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M208 360 V336 A6 6 0 0 1 220 336 V360 Z" fill="#C9C1AE"/>
+    <path d="M230 360 V336 A6 6 0 0 1 242 336 V360 Z" fill="#C9C1AE"/>
+    <path d="M252 360 V336 A6 6 0 0 1 264 336 V360 Z" fill="#C9C1AE"/>
+    <path d="M274 360 V336 A6 6 0 0 1 286 336 V360 Z" fill="#C9C1AE"/>
+    <path d="M296 360 V336 A6 6 0 0 1 308 336 V360 Z" fill="#C9C1AE"/>
+    <rect x="190" y="364" width="132" height="10" rx="0" fill="#DCD6C6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M208 404 V380 A6 6 0 0 1 220 380 V404 Z" fill="#C9C1AE"/>
+    <path d="M230 404 V380 A6 6 0 0 1 242 380 V404 Z" fill="#C9C1AE"/>
+    <path d="M252 404 V380 A6 6 0 0 1 264 380 V404 Z" fill="#C9C1AE"/>
+    <path d="M274 404 V380 A6 6 0 0 1 286 380 V404 Z" fill="#C9C1AE"/>
+    <path d="M296 404 V380 A6 6 0 0 1 308 380 V404 Z" fill="#C9C1AE"/>
+    <rect x="190" y="408" width="132" height="10" rx="0" fill="#DCD6C6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M208 448 V424 A6 6 0 0 1 220 424 V448 Z" fill="#C9C1AE"/>
+    <path d="M230 448 V424 A6 6 0 0 1 242 424 V448 Z" fill="#C9C1AE"/>
+    <path d="M252 448 V424 A6 6 0 0 1 264 424 V448 Z" fill="#C9C1AE"/>
+    <path d="M274 448 V424 A6 6 0 0 1 286 424 V448 Z" fill="#C9C1AE"/>
+    <path d="M296 448 V424 A6 6 0 0 1 308 424 V448 Z" fill="#C9C1AE"/>
+    <rect x="214" y="80" width="84" height="40" rx="0" fill="#F2EEE4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

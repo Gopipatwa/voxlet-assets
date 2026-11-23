@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-plitvice-lakes"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-plitvice-lakes)">
+  <rect x="0" y="90" width="512" height="430" fill="#4E9E4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="256" cy="150" rx="150.0" ry="44" fill="#3DC8C0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="230" cy="140" rx="75.0" ry="10" fill="#7FE0D8"/>
+  <ellipse cx="256" cy="270" rx="190.0" ry="44" fill="#3DC8C0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="230" cy="260" rx="95.0" ry="10" fill="#7FE0D8"/>
+  <ellipse cx="256" cy="400" rx="235.0" ry="44" fill="#3DC8C0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="230" cy="390" rx="117.5" ry="10" fill="#7FE0D8"/>
+  <rect x="184" y="192" width="32" height="40" rx="0" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M194 196 V228 M206 196 V228" fill="none" stroke="#BFE6FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="284" y="192" width="32" height="40" rx="0" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M294 196 V228 M306 196 V228" fill="none" stroke="#BFE6FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="134" y="312" width="32" height="50" rx="0" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M144 316 V358 M156 316 V358" fill="none" stroke="#BFE6FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="240" y="312" width="32" height="50" rx="0" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M250 316 V358 M262 316 V358" fill="none" stroke="#BFE6FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="344" y="312" width="32" height="50" rx="0" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M354 316 V358 M366 316 V358" fill="none" stroke="#BFE6FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="36" y="96" width="8" height="24" fill="#8A5A33" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="40,48 62,100 18,100" fill="#2F7F45" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="466" y="96" width="8" height="24" fill="#8A5A33" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="470,48 492,100 448,100" fill="#2F7F45" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="56" y="226" width="8" height="24" fill="#8A5A33" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="60,178 82,230 38,230" fill="#2F7F45" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="446" y="226" width="8" height="24" fill="#8A5A33" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="450,178 472,230 428,230" fill="#2F7F45" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

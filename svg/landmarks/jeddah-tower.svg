@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-jeddah-tower"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-jeddah-tower)">
+  <rect x="0" y="440" width="512" height="80" fill="#5BB0F0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M70 470 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 496 q15 -10 30 0 t30 0" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="206,440 250,40 262,40 306,440" fill="#C8DCEC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256,440 256,60 306,440" fill="#9CC0DA"/>
+  <path d="M249 100 H263" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M244 140 H268" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M239 180 H273" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M234 220 H278" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230 260 H282" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M225 300 H287" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 340 H292" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M215 380 H297" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 420 H302" fill="none" stroke="#5E6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

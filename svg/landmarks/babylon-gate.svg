@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-babylon-gate"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#FFE3B0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-babylon-gate)">
+  <path d="M0 440 C140 440 340 440 512 440 V512 H0 Z" fill="#EBD49A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="110" y="140" width="292" height="300" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="70" y="110" width="80" height="330" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="70" y="96" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="98" y="96" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="126" y="96" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="362" y="110" width="80" height="330" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="362" y="96" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="390" y="96" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="418" y="96" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="150" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="178" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="206" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="234" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="262" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="290" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="318" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="346" y="126" width="14" height="14" rx="0" fill="#2A5FA8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M211 440 V305 A45 45 0 0 1 301 305 V440 Z" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M128 210 h44 v-10 l-6 -8 h-26 l-8 -8 v18 z" fill="#FFC83D"/>
+  <path d="M340 210 h44 v-10 l-6 -8 h-26 l-8 -8 v18 z" fill="#FFC83D"/>
+  <path d="M128 330 h44 v-10 l-6 -8 h-26 l-8 -8 v18 z" fill="#FFC83D"/>
+  <path d="M340 330 h44 v-10 l-6 -8 h-26 l-8 -8 v18 z" fill="#FFC83D"/>
+  <path d="M234 210 h44 v-10 l-6 -8 h-26 l-8 -8 v18 z" fill="#FFC83D"/>
+  <path d="M70 180 H442" fill="none" stroke="#FFC83D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

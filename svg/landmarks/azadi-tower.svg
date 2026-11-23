@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-azadi-tower"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#FFD9B0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-azadi-tower)">
+  <path d="M0 440 C140 440 340 440 512 440 V512 H0 Z" fill="#B8C8A0" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M110 440 C150 360 200 300 220 220 C230 170 230 120 240 80 H272 C282 120 282 170 292 220 C312 300 362 360 402 440 H330 C310 380 290 340 256 330 C222 340 202 380 182 440 Z" fill="#F4F1EA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M232 120 H280" fill="none" stroke="#7FB0D8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M228 160 H284" fill="none" stroke="#7FB0D8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M224 200 H288" fill="none" stroke="#7FB0D8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="199" cy="150" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="224" cy="198" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="259" cy="220" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="253" cy="199" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="261" cy="262" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="240" cy="162" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="255" cy="179" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="254" cy="152" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="212" cy="174" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="226" cy="109" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="225" cy="92" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="325" cy="374" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="304" cy="342" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="297" cy="312" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M261 264 C255 246 235 234 235 216 A26 26 0 1 1 287 216 C287 234 267 246 261 264 Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="261" cy="216" r="10" fill="#FFFFFF"/>
+  <rect x="168" y="396" width="304" height="76" rx="38" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M202.1 416.6Q208.7 416.6 212.0 419.5Q215.3 422.3 215.3 427.7Q215.3 430.1 214.6 432.2Q213.9 434.4 212.4 436.1Q210.9 437.9 208.3 438.9Q205.8 439.9 202.1 439.9H199.4V451.5H190.0V416.6ZM201.9 424.2H199.4V432.2H201.3Q203.1 432.2 204.5 431.3Q205.9 430.3 205.9 427.9Q205.9 426.3 204.9 425.2Q203.9 424.2 201.9 424.2ZM253.5 434.0Q253.5 439.4 251.8 443.4Q250.0 447.5 246.3 449.7Q242.6 452.0 236.6 452.0Q230.7 452.0 226.9 449.7Q223.2 447.5 221.4 443.4Q219.6 439.3 219.6 433.9Q219.6 428.5 221.4 424.5Q223.2 420.4 227.0 418.2Q230.7 416.0 236.6 416.0Q242.6 416.0 246.3 418.3Q250.0 420.5 251.8 424.5Q253.5 428.6 253.5 434.0ZM229.5 434.0Q229.5 438.7 231.2 441.4Q232.8 444.1 236.6 444.1Q240.5 444.1 242.0 441.4Q243.6 438.7 243.6 434.0Q243.6 429.2 242.0 426.5Q240.5 423.8 236.6 423.8Q232.7 423.8 231.1 426.5Q229.5 429.2 229.5 434.0ZM271.2 416.6Q285.5 416.6 285.5 426.9Q285.5 430.1 283.9 432.4Q282.3 434.7 279.5 436.3L289.7 451.5H279.0L271.6 438.8H269.2V451.5H259.8V416.6ZM271.1 423.7H269.2V431.7H271.0Q273.1 431.7 274.5 430.7Q275.9 429.8 275.9 427.3Q275.9 425.6 274.8 424.7Q273.7 423.7 271.1 423.7ZM308.3 451.5H298.8V424.3H290.3V416.6H316.8V424.3H308.3ZM364.6 416.6 353.2 451.5H342.1L330.7 416.6H341.3L346.0 434.3Q346.3 435.2 346.6 436.8Q347.0 438.4 347.3 439.9Q347.6 441.5 347.7 442.5Q347.7 441.5 348.0 440.0Q348.3 438.4 348.6 436.9Q348.9 435.3 349.2 434.4L354.1 416.6ZM384.4 451.5H366.3V446.1L370.6 444.4V423.6L366.3 422.0V416.6H384.4V422.0L380.1 423.6V444.4L384.4 446.1ZM389.9 451.5V416.6H399.3V443.8H412.7V451.5ZM439.7 451.5 438.0 444.9H426.6L424.9 451.5H414.5L425.9 416.4H438.5L450.0 451.5ZM434.5 431.5Q434.3 430.6 433.8 428.8Q433.4 427.1 433.0 425.2Q432.5 423.4 432.3 422.2Q432.1 423.4 431.7 425.1Q431.2 426.9 430.8 428.6Q430.4 430.3 430.1 431.5L428.6 437.2H436.0Z" fill="#FFFFFF"/>
+  <g transform="translate(30.3 370.6) scale(0.27)">
+    <defs><clipPath id="fc-vanuatu"><rect width="300" height="200" rx="12"/></clipPath></defs>
+    <g transform="translate(36.0 109.3) scale(1.4667)">
+      <g clip-path="url(#fc-vanuatu)">
+      <rect x="0" y="0" width="300" height="100.5" fill="#D21034"/>
+      <rect x="0" y="100" width="300" height="100.5" fill="#009543"/>
+      <path d="M0 0 L130 100 H300 M0 200 L130 100" fill="none" stroke="#000000" stroke-width="40" stroke-linecap="butt" stroke-linejoin="round"/>
+      <path d="M0 0 L130 100 H300 M0 200 L130 100" fill="none" stroke="#FDCE12" stroke-width="20" stroke-linecap="butt" stroke-linejoin="round"/>
+      <path d="M0 0 L130 100 H300 M0 200 L130 100" fill="none" stroke="#000000" stroke-width="10" stroke-linecap="butt" stroke-linejoin="round"/>
+      <polygon points="0.0,20.0 104.0,100.0 0.0,180.0" fill="#000000"/>
+      <circle cx="40" cy="100" r="20" fill="none" stroke="#FDCE12" stroke-width="6"/>
+      </g>
+    </g>
+    <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

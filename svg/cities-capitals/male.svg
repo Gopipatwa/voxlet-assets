@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="244" cy="368" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="270" cy="100" r="14" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M272 105 C266 87 246 75 246 57 A26 26 0 1 1 298 57 C298 75 278 87 272 105 Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="272" cy="57" r="10" fill="#FFFFFF"/>
+  <rect x="168" y="396" width="304" height="76" rx="38" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M262.1 454.0 253.9 425.3H253.7Q253.8 426.4 253.9 428.3Q254.0 430.2 254.1 432.4Q254.3 434.6 254.3 436.7V454.0H244.7V414.2H259.1L267.4 442.5H267.6L275.7 414.2H290.1V454.0H280.2V436.5Q280.2 434.6 280.3 432.5Q280.3 430.3 280.4 428.4Q280.5 426.5 280.6 425.4H280.4L272.3 454.0ZM323.1 454.0 321.1 446.5H308.2L306.2 454.0H294.4L307.4 414.0H321.7L334.9 454.0ZM317.2 431.2Q316.9 430.1 316.4 428.1Q315.9 426.2 315.4 424.0Q314.9 421.9 314.6 420.6Q314.4 421.9 313.9 423.9Q313.4 425.9 313.0 427.9Q312.5 429.8 312.2 431.2L310.4 437.7H318.9ZM339.2 454.0V414.2H349.9V445.3H365.3V454.0ZM395.3 454.0H371.6V414.2H395.3V422.8H382.4V429.1H394.3V437.7H382.4V445.2H395.3Z" fill="#FFFFFF"/>
+  <g transform="translate(30.3 370.6) scale(0.27)">
+    <defs><clipPath id="fc-maldives"><rect width="300" height="200" rx="12"/></clipPath></defs>
+    <g transform="translate(36.0 109.3) scale(1.4667)">
+      <g clip-path="url(#fc-maldives)">
+      <rect x="0" y="0" width="300" height="200" fill="#D21034"/>
+      <rect x="50" y="50" width="200" height="100" fill="#007E3A"/>
+      <circle cx="150" cy="100" r="34" fill="#FFFFFF"/>
+      <circle cx="160.88" cy="100" r="27.88" fill="#007E3A"/>
+      </g>
+    </g>
+    <rect x="36.0" y="109.3" width="440.0" height="293.3" rx="17.6" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

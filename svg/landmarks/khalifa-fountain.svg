@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-khalifa-fountain"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#1E2A4A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-khalifa-fountain)">
+  <circle cx="80" cy="80" r="4" fill="#FFFFFF"/>
+  <circle cx="150" cy="140" r="4" fill="#FFFFFF"/>
+  <circle cx="420" cy="70" r="4" fill="#FFFFFF"/>
+  <circle cx="360" cy="150" r="4" fill="#FFFFFF"/>
+  <circle cx="250" cy="60" r="4" fill="#FFFFFF"/>
+  <circle cx="460" cy="200" r="4" fill="#FFFFFF"/>
+  <circle cx="60" cy="220" r="4" fill="#FFFFFF"/>
+  <rect x="0" y="380" width="512" height="140" fill="#1E3A5A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="236,380 250,60 262,60 276,380" fill="#6E8AAA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M80 380 C74 284.0 86 236.0 80 220" fill="none" stroke="#D8F0FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="80" cy="220" r="12" fill="#EAF7FF"/>
+  <path d="M140 380 C134 242.0 146 173.0 140 150" fill="none" stroke="#D8F0FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="140" cy="150" r="12" fill="#EAF7FF"/>
+  <path d="M200 380 C194 212.0 206 128.0 200 100" fill="none" stroke="#D8F0FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="100" r="12" fill="#EAF7FF"/>
+  <path d="M312 380 C306 212.0 318 128.0 312 100" fill="none" stroke="#D8F0FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="312" cy="100" r="12" fill="#EAF7FF"/>
+  <path d="M372 380 C366 242.0 378 173.0 372 150" fill="none" stroke="#D8F0FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="372" cy="150" r="12" fill="#EAF7FF"/>
+  <path d="M432 380 C426 284.0 438 236.0 432 220" fill="none" stroke="#D8F0FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="432" cy="220" r="12" fill="#EAF7FF"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

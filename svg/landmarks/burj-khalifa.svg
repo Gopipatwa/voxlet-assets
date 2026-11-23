@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-burj-khalifa"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-burj-khalifa)">
+  <path d="M0 460 C140 460 340 460 512 460 V512 H0 Z" fill="#EBD49A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="186,460 200,400 298,400 319,460" fill="#B8D8EE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="198,400 210,340 291,340 308,400" fill="#9CC9E8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="208,340 218,280 285,280 299,340" fill="#B8D8EE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="218,280 226,220 279,220 290,280" fill="#9CC9E8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="228,220 234,160 273,160 281,220" fill="#B8D8EE" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="238,160 242,110 267,110 272,160" fill="#9CC9E8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 112 V40" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 112 V40" fill="none" stroke="#8C99A8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="70" y="340" width="40" height="120" rx="0" fill="#A8B8C8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="120" y="370" width="40" height="90" rx="0" fill="#A8B8C8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="370" y="350" width="40" height="110" rx="0" fill="#A8B8C8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="420" y="380" width="40" height="80" rx="0" fill="#A8B8C8" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

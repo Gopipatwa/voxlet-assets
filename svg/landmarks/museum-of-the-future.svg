@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-museum-of-the-future"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-museum-of-the-future)">
+  <path d="M0 430 C140 430 340 430 512 430 V512 H0 Z" fill="#A6DB8E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="150" y="360" width="212" height="70" rx="0" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 70 C410 70 460 200 420 300 C390 370 320 380 256 380 C190 380 122 370 92 300 C52 200 102 70 256 70 Z M256 150 C330 150 360 210 340 270 C320 310 290 314 256 314 C222 314 192 310 172 270 C152 210 182 150 256 150 Z" fill="#DDE3EA" fill-rule="evenodd" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M406 225 L374 243" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M393 277 L355 283" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M356 320 L320 313" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M302 347 L273 328" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 352 L223 325" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M181 336 L179 305" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M135 300 L148 271" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M109 252 L136 229" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M109 198 L145 186" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M135 150 L173 150" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M181 114 L215 127" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 98 L264 121" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M302 103 L312 133" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M356 130 L351 161" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M393 173 L372 200" fill="none" stroke="#5E6B7A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

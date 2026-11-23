@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-white-house"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#BFE6FA" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-white-house)">
+  <path d="M0 420 C140 420 340 420 512 420 V512 H0 Z" fill="#7CC56F" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="40" y="240" width="432" height="180" rx="0" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="60" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="60" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="94" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="94" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="128" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="128" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="162" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="162" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="196" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="196" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="230" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="230" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="264" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="264" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="298" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="298" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="332" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="332" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="366" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="366" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="400" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="400" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="434" y="270" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="434" y="340" width="16" height="30" rx="0" fill="#8C9AAA"/>
+  <rect x="176" y="200" width="160" height="220" rx="0" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="186" y="220" width="14" height="200" rx="0" fill="#D8D2C4"/>
+  <rect x="216" y="220" width="14" height="200" rx="0" fill="#D8D2C4"/>
+  <rect x="246" y="220" width="14" height="200" rx="0" fill="#D8D2C4"/>
+  <rect x="276" y="220" width="14" height="200" rx="0" fill="#D8D2C4"/>
+  <rect x="306" y="220" width="14" height="200" rx="0" fill="#D8D2C4"/>
+  <polygon points="166,200 256,160 346,200" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 160 V110" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 160 V110" fill="none" stroke="#2E2A3B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="258" y="110" width="40" height="8" rx="0" fill="#B22234"/>
+  <rect x="258" y="118" width="40" height="8" rx="0" fill="#FFFFFF"/>
+  <rect x="258" y="126" width="40" height="8" rx="0" fill="#B22234"/>
+  <rect x="258" y="110" width="16" height="14" rx="0" fill="#3C3B6E"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

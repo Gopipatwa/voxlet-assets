@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><clipPath id="clip-antelope-canyon"><rect x="24" y="24" width="464" height="464" rx="36"/></clipPath></defs>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#8E3B1E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g clip-path="url(#clip-antelope-canyon)">
+  <path d="M60 0 C140 120 20 260 100 520 H0 C-60 260 60 120 0 0 Z" fill="#E8955E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M452 0 C372 120 492 260 412 520 H512 C572 260 452 120 512 0 Z" fill="#E8955E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M100 0 C180 120 60 260 140 520 H40 C-20 260 100 120 40 0 Z" fill="#D9774A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M412 0 C332 120 452 260 372 520 H472 C532 260 412 120 472 0 Z" fill="#D9774A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M140 0 C220 120 100 260 180 520 H80 C20 260 140 120 80 0 Z" fill="#F0B070" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M372 0 C292 120 412 260 332 520 H432 C492 260 372 120 432 0 Z" fill="#F0B070" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M180 0 C260 120 140 260 220 520 H120 C60 260 180 120 120 0 Z" fill="#C9653E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M332 0 C252 120 372 260 292 520 H392 C452 260 332 120 392 0 Z" fill="#C9653E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="236,0 276,0 300,520 212,520" fill="#FFF3D0" opacity="0.6"/>
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="none" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>
