@@ -14,8 +14,8 @@ Releases. Licence: see [LICENSE](LICENSE) (own pack, for use through Voxlet only
 python toolsuild_pack.py
 ```
 
-This writes `distoxlet-own.zip` (index plus every drawn SVG; `dist/` is not in git). Make a
-GitHub Release in this repo (tag like `v2026.11.23`) and attach `distoxlet-own.zip` with exactly
+This writes `dist/voxlet-own.zip` (index plus every drawn SVG; `dist/` is not in git). Make a
+GitHub Release in this repo (tag like `v2026.11.23`) and attach `dist/voxlet-own.zip` with exactly
 that name. The app's pack list (`native/video/assets/packs.json` in the voxlet repo, pack
 `voxlet-own`) downloads `releases/latest/download/voxlet-own.zip`, so the newest release is what
 users get when they install or re-install the pack. Update `size_mb` there when it grows a lot.
