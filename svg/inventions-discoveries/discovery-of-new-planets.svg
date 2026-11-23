@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="300" cy="250" r="100" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M215 220 C260 200 330 220 390 210 C395 225 395 240 390 250 C330 260 260 240 210 250Z" fill="#F9B57A"/>
+  <ellipse cx="300" cy="260" rx="190" ry="48" fill="none" stroke="#2E2A3B" stroke-width="40" transform="rotate(-18 300 260)" data-outline="under"/>
+  <ellipse cx="300" cy="260" rx="190" ry="48" fill="none" stroke="#7DB2FF" stroke-width="20" transform="rotate(-18 300 260)"/>
+  <polygon points="90.0,72.0 97.8,92.2 118.0,100.0 97.8,107.8 90.0,128.0 82.2,107.8 62.0,100.0 82.2,92.2" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="440.0,80.0 445.7,94.3 460.0,100.0 445.7,105.7 440.0,120.0 434.3,105.7 420.0,100.0 434.3,94.3" fill="#F9B57A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="110.0,404.0 114.2,415.8 126.0,420.0 114.2,424.2 110.0,436.0 105.8,424.2 94.0,420.0 105.8,415.8" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

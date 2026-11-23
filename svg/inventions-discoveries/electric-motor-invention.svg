@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="100" y="160" width="300" height="220" rx="60" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="124" y="180" width="160" height="26" rx="12" fill="#FFFFFF" fill-opacity="0.4"/>
+  <rect x="400" y="240" width="70" height="60" rx="8" fill="#8A8F9B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <g id="part-wheel" data-pivot="250 270">
+    <circle cx="250" cy="270" r="70" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <circle cx="288" cy="270" r="12" fill="#B97C12"/>
+    <circle cx="250" cy="308" r="12" fill="#B97C12"/>
+    <circle cx="212" cy="270" r="12" fill="#B97C12"/>
+    <circle cx="250" cy="232" r="12" fill="#B97C12"/>
+  </g>
+  <circle cx="250" cy="270" r="16" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="120" y="380" width="260" height="36" rx="10" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="129,65 99,116 118,116 110,155 143,98 122,98 138,65" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

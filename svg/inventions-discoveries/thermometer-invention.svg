@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="214" y="40" width="84" height="330" rx="42" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="420" r="62" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="240" y="130" width="32" height="300" rx="16" fill="#E5484D"/>
+  <path d="M320 80 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 106 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 132 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 158 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 184 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 210 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 236 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 262 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 288 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 314 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="226" y="60" width="14" height="60" rx="7" fill="#FFFFFF" fill-opacity="0.7"/>
+</svg>

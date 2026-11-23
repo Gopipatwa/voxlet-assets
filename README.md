@@ -21,7 +21,7 @@ that name. The app's pack list (`native/video/assets/packs.json` in the voxlet r
 users get when they install or re-install the pack. Update `size_mb` there when it grows a lot.
 
 **Made so far**: the viewer (with a border on/off toggle), the drawing helpers
-(`tools/draw_lib.py`), 3,210 drawings, the pack builder (`tools/build_pack.py`), the catalogue checker (`tools/check_catalog.py`) and the full
+(`tools/draw_lib.py`), 4,349 drawings, the pack builder (`tools/build_pack.py`), the catalogue checker (`tools/check_catalog.py`) and the full
 catalogue (47 categories, 467 groups, 7,824 items).
 
 > **New session?** Say **"start asset studio"**. Claude reads this file, finds the first unchecked
@@ -117,10 +117,20 @@ after each. Each category has a script `drawings/<category>.py` using
 `tools/draw_lib.py`; run `python drawings/<category>.py [ids…]` to (re)draw.
 - [ ] Engine: a `border` on/off option when loading own-pack SVGs (uses the `data-outline` marks).
 
-Progress (3,598 of 7,824): finished: `symbols-signs`, `concepts-ideas`, `brain-teasers-logic`,
+Progress (4,349 of 7,824): finished: `symbols-signs`, `concepts-ideas`, `brain-teasers-logic`,
 `religion-faith`, `celebrations-holidays`, `animals`, `ocean-underwater`, `space`, `human-body`,
-`health-medicine`, `psychology-mind`, `earth-geography`, `cities-capitals`, `landmarks`.
-Next: `science`, `math`, `inventions-discoveries`, `future-tech`, `technology`.
+`health-medicine`, `psychology-mind`, `earth-geography`, `cities-capitals`, `landmarks`, `science`, `math`,
+`inventions-discoveries`, `future-tech`, `technology`.
+Next: `history`, `fantasy-mythology`, `mysteries-unexplained` (step 8).
+
+`science` (`science_elements.py`: the 118 element tiles, colour = element family; `science.py`, `science2.py`,
+`science3.py`: lab equipment, atoms, matter, forces, electricity, light/sound/heat, biology, experiments), `math`
+(`math_a.py`: mono symbols, number tiles, fractions, 2D/3D shapes; `math_b.py`: geometry, tools, charts,
+probability, measurement), `technology` (`technology_a.py`, `technology_b.py`), `future-tech` (`future_tech.py`) and
+`inventions-discoveries` (`inventions_a.py` natural colours, `inventions_b.py` themed). Technology, future-tech and
+recent inventions use the themed palette only (helpers in `drawings/_tech.py`). `tools/sheet.html` is a contact
+sheet for review: `http://localhost:8765/tools/sheet.html?cat=science&cols=8&ids=a,b,c` (also `from`, `n`, `skip`,
+`match`, `dark=1`, `noborder=1`).
 
 `cities-capitals` (`drawings/cities_capitals.py`): the country's map with a pin at the city, the
 country's flag and the city's name (coordinates typed by hand; Jerusalem shows Israel and Palestine
@@ -156,7 +166,7 @@ Order:
 4. [x] Space Quiz (`space`)
 5. [x] Human Body Quiz, Psychology (`human-body`, `health-medicine`, `psychology-mind`)
 6. [x] Geography, Flags & Capitals (`earth-geography`, `cities-capitals`, `landmarks`)
-7. [ ] Science, Inventions, Future (`science`, `math`, `inventions-discoveries`, `future-tech`, `technology`)
+7. [x] Science, Inventions, Future (`science`, `math`, `inventions-discoveries`, `future-tech`, `technology`)
 8. [ ] History, Human Origins, Mythology, Mysteries (`history`, `fantasy-mythology`, `mysteries-unexplained`)
 9. [ ] Food, Sports, Daily Life, Money, Movies, World Records, Words (the rest)
 10. [ ] Everything else in the catalogue

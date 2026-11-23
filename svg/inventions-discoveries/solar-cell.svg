@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <polygon points="110,160 430,160 470,400 70,400" fill="#2C6BD6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M100 220 H440" fill="none" stroke="#7DB2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 280 H450" fill="none" stroke="#7DB2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 340 H460" fill="none" stroke="#7DB2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M166 160 L150 400" fill="none" stroke="#7DB2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M222 160 L230 400" fill="none" stroke="#7DB2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M278 160 L310 400" fill="none" stroke="#7DB2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M334 160 L390 400" fill="none" stroke="#7DB2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="80" r="48" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M462 80 L486 80" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M444 124 L461 141" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 142 L400 166" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M356 124 L339 141" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M338 80 L314 80" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M356 36 L339 19" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 18 L400 -6" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M444 36 L461 19" fill="none" stroke="#F5913E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

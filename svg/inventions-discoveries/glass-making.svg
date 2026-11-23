@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M60 440 V220 C60 160 130 130 180 130 H230 V440Z" fill="#8A8F9B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="96" y="290" width="90" height="90" rx="14" fill="#6B7280"/>
+  <g transform="translate(140 350) scale(0.5)">
+    <path d="M0 -90 C30 -40 56 -20 50 20 C46 46 26 56 0 56 C-26 56 -46 46 -50 20 C-56 -20 -30 -40 0 -90Z" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M0 -30 C16 0 28 10 24 30 C20 46 10 50 0 50 C-10 50 -20 46 -24 30 C-28 10 -16 0 0 -30Z" fill="#FFC83D"/>
+  </g>
+  <path d="M300 440 V300 C300 260 330 230 360 230 C390 230 420 260 420 300 V440Z" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="336" y="140" width="48" height="100" rx="10" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="330" y="120" width="60" height="26" rx="8" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M310 320 H410 V430 H310Z" fill="#8FD0FF" fill-opacity="0.5"/>
+  <path d="M240 190 L290 160" fill="none" stroke="#2E2A3B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M240 190 L290 160" fill="none" stroke="#6E4A2A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

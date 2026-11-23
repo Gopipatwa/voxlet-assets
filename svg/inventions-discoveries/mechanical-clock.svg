@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="140" y="40" width="232" height="420" rx="20" fill="#9A6A3A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M140 80 L256 20 L372 80Z" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="190" r="94" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="190" r="94" fill="none" stroke="#D9A520" stroke-width="14"/>
+  <path d="M326 190 L338 190" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M317 225 L327 231" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M291 251 L297 261" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 260 L256 272" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M221 251 L215 261" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M195 225 L185 231" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186 190 L174 190" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M195 155 L185 149" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M221 129 L215 119" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 120 L256 108" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M291 129 L297 119" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M317 155 L327 149" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="part-hand-minute" data-pivot="256 190">
+    <path d="M256 190 V126" fill="none" stroke="#1F1F24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="part-hand-hour" data-pivot="256 190">
+    <path d="M256 190 L300 214" fill="none" stroke="#1F1F24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="256" cy="190" r="10" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="190" y="320" width="132" height="100" rx="12" fill="#6E4A2A"/>
+  <circle cx="256" cy="370" r="34" fill="#D9A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

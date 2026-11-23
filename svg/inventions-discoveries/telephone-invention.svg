@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <ellipse cx="256" cy="450" rx="130" ry="30" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 450 V150" fill="none" stroke="#2E2A3B" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 450 V150" fill="none" stroke="#1F1F24" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 60 L342 60 L296 150 L216 150Z" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="256" cy="62" rx="82" ry="14" fill="#6B7280"/>
+  <path d="M296 250 C380 250 410 300 400 330" fill="none" stroke="#2E2A3B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M296 250 C380 250 410 300 400 330" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="372" y="290" width="56" height="140" rx="24" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="400" cy="290" r="34" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="400" cy="438" r="34" fill="#1F1F24" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="250" r="26" fill="#D9A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="250" r="10" fill="#B97C12"/>
+</svg>

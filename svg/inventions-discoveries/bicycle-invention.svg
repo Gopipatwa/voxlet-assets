@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="part-wheel" data-pivot="330 330">
+    <circle cx="330" cy="330" r="86" fill="none" stroke="#2E2A3B" stroke-width="26" data-outline="under"/>
+    <circle cx="330" cy="330" r="86" fill="none" stroke="#1F1F24" stroke-width="12"/>
+    <path d="M330 330 L410 330" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L410 330" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L395 377" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L395 377" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L355 406" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L355 406" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L305 406" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L305 406" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L265 377" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L265 377" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L250 330" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L250 330" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L265 283" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L265 283" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L305 254" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L305 254" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L355 254" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L355 254" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M330 330 L395 283" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M330 330 L395 283" fill="none" stroke="#C9CED6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="part-wheel" data-pivot="150 380">
+    <circle cx="150" cy="380" r="40" fill="none" stroke="#2E2A3B" stroke-width="26" data-outline="under"/>
+    <circle cx="150" cy="380" r="40" fill="none" stroke="#1F1F24" stroke-width="12"/>
+  </g>
+  <path d="M150 380 L220 150 L320 150 M330 330 L300 150 M200 150 H300" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M150 380 L220 150 L320 150 M330 330 L300 150 M200 150 H300" fill="none" stroke="#E5484D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 150 L280 100 H320 M170 100 H250" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M300 150 L280 100 H320 M170 100 H250" fill="none" stroke="#1F1F24" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="330" cy="330" r="14" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

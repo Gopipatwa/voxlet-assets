@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="rotate(-40 256 256)">
+    <rect x="130" y="210" width="230" height="92" rx="12" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="140" y="220" width="130" height="72" fill="#8FD0FF"/>
+    <rect x="360" y="236" width="40" height="40" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M400 256 H490" fill="none" stroke="#2E2A3B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M400 256 H490" fill="none" stroke="#C9CED6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="70" y="196" width="60" height="120" rx="8" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M30 256 H70" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+    <path d="M30 256 H70" fill="none" stroke="#C9CED6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M370 330 C400 330 430 350 430 380 V450 H350 V380 C350 350 340 330 370 330Z" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="360" y="312" width="60" height="28" rx="8" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="360" y="390" width="60" height="50" fill="#8FD0FF"/>
+</svg>

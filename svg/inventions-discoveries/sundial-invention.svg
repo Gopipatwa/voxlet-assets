@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <ellipse cx="256" cy="330" rx="200" ry="90" fill="#C9CED6" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="256" cy="330" rx="160" ry="66" fill="#FFFFFF"/>
+  <path d="M398 330 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M379 382 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M327 421 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 435 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M185 421 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M133 382 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M113 330 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M133 278 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M185 239 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 225 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M327 239 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M379 277 l0 0" fill="none" stroke="#6B7280" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="388" cy="352" r="7" fill="#6B7280"/>
+  <circle cx="326" cy="385" r="7" fill="#6B7280"/>
+  <circle cx="232" cy="392" r="7" fill="#6B7280"/>
+  <circle cx="149" cy="370" r="7" fill="#6B7280"/>
+  <circle cx="116" cy="330" r="7" fill="#6B7280"/>
+  <circle cx="149" cy="290" r="7" fill="#6B7280"/>
+  <circle cx="232" cy="268" r="7" fill="#6B7280"/>
+  <circle cx="326" cy="275" r="7" fill="#6B7280"/>
+  <circle cx="388" cy="308" r="7" fill="#6B7280"/>
+  <polygon points="256,330 256,330 330,290 330,150" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="256,330 330,290 300,340" fill="#B97C12" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <ellipse cx="370" cy="360" rx="90" ry="16" fill="#6B7280" fill-opacity="0.35"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="230" cy="240" r="170" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="230" cy="240" r="170" fill="none" stroke="#2E2A3B" stroke-width="10" data-outline="stroke"/>
+  <circle cx="170" cy="180" r="28" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M198 180 L212 180" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 204 L191 216" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M156 204 L149 216" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M142 180 L128 180" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M156 156 L149 144" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 156 L191 144" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="280" cy="160" r="22" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M302 160 L313 160" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M291 179 L296 189" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M269 179 L264 189" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M258 160 L247 160" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M269 141 L264 131" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M291 141 L296 131" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="250" cy="290" r="34" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M284 290 L301 290" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M267 319 L276 334" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M233 319 L224 334" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M216 290 L199 290" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M233 261 L224 246" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M267 261 L276 246" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="160" cy="310" r="20" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M180 310 L190 310" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 327 L175 336" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 327 L145 336" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 310 L130 310" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 293 L145 284" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 293 L175 284" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="330" cy="260" r="18" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M348 260 L357 260" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M339 276 L344 283" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M321 276 L316 283" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M312 260 L303 260" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M321 244 L316 237" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M339 244 L344 237" fill="none" stroke="#F5913E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 360 L450 460" fill="none" stroke="#2E2A3B" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M350 360 L450 460" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

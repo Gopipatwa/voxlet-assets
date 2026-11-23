@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="196" fill="#D9A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="256" cy="256" r="156" fill="#F7E3C4" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M171 341 L154 358" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 287 L117 293" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 225 L117 219" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M171 171 L154 154" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M225 140 L219 117" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M287 140 L293 117" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M341 171 L358 154" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M372 225 L395 219" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M372 287 L395 293" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M341 341 L358 358" fill="none" stroke="#1F1F24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 256 L330 190" fill="none" stroke="#E5484D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="16" fill="#6E4A2A" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M255.1 349.9H247.0V337.7H237.6V349.9H229.5V320.0H237.6V331.1H247.0V320.0H255.1ZM268.5 326.3Q271.0 326.3 272.5 327.3Q273.9 328.2 274.9 329.6H275.0L275.6 326.8H282.5V350.0Q282.5 354.9 279.5 357.4Q276.5 360.0 270.2 360.0Q267.4 360.0 265.2 359.7Q263.1 359.4 261.1 358.7V352.0Q263.2 352.9 265.1 353.3Q267.0 353.8 269.7 353.8Q274.5 353.8 274.5 350.3V349.9Q274.5 348.7 274.8 347.0H274.5Q273.7 348.4 272.3 349.4Q270.8 350.4 268.4 350.4Q264.7 350.4 262.4 347.3Q260.1 344.2 260.1 338.4Q260.1 332.5 262.5 329.4Q264.8 326.3 268.5 326.3ZM271.6 332.5Q268.2 332.5 268.2 338.5Q268.2 341.5 269.1 342.8Q269.9 344.2 271.7 344.2Q273.7 344.2 274.4 342.9Q275.2 341.7 275.2 339.2V338.2Q275.2 335.5 274.4 334.0Q273.7 332.5 271.6 332.5Z" fill="#6E4A2A"/>
+</svg>
