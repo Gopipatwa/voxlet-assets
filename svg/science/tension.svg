@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="30" y="180" width="80" height="150" rx="14" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="402" y="180" width="80" height="150" rx="14" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M110 255 H402" fill="none" stroke="#2E2A3B" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M110 255 H402" fill="none" stroke="#E8B878" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M270 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M330 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 244 l14 22" fill="none" stroke="#9A6A3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 130 L60 130" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M160 130 L60 130" fill="none" stroke="#E5484D" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="44,130 89,113 89,147" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M352 130 L452 130" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M352 130 L452 130" fill="none" stroke="#E5484D" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="468,130 423,147 423,113" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

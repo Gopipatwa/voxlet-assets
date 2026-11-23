@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256.0" cy="256.0" r="92.4" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="226.4" cy="226.4" r="24.0" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="348.4" cy="188.8" r="92.4" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="318.8" cy="159.2" r="24.0" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="172.0" cy="172.0" r="92.4" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="142.4" cy="142.4" r="24.0" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="239.2" cy="356.8" r="92.4" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="209.6" cy="327.2" r="24.0" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="356.8" cy="323.2" r="92.4" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="327.2" cy="293.6" r="24.0" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="146.8" cy="306.4" r="92.4" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="117.2" cy="276.8" r="24.0" fill="#FFFFFF" fill-opacity="0.55"/>
+</svg>

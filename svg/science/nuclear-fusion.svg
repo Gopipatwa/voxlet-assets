@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="100" cy="180" r="56" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="82.1" cy="162.1" r="14.6" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="100" cy="332" r="56" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="82.1" cy="314.1" r="14.6" fill="#FFFFFF" fill-opacity="0.55"/>
+  <path d="M170 256 L250 256" fill="none" stroke="#2E2A3B" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M170 256 L250 256" fill="none" stroke="#F5913E" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="266,256 219,274 219,238" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="380" cy="256" r="96" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="349.3" cy="225.3" r="25.0" fill="#FFFFFF" fill-opacity="0.55"/>
+  <polygon points="440.0,76.0 447.7,101.5 471.1,88.9 458.5,112.3 484.0,120.0 458.5,127.7 471.1,151.1 447.7,138.5 440.0,164.0 432.3,138.5 408.9,151.1 421.5,127.7 396.0,120.0 421.5,112.3 408.9,88.9 432.3,101.5" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <polygon points="440.0,356.0 446.1,377.2 465.5,366.5 454.8,385.9 476.0,392.0 454.8,398.1 465.5,417.5 446.1,406.8 440.0,428.0 433.9,406.8 414.5,417.5 425.2,398.1 404.0,392.0 425.2,385.9 414.5,366.5 433.9,377.2" fill="#FFC83D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

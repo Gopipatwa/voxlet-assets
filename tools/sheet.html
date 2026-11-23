@@ -9,7 +9,7 @@ document.getElementById('g').style.gridTemplateColumns=`repeat(${cols},1fr)`;
 if(q.get('dark'))document.body.style.background='#222';
 (async()=>{const t=await (await fetch(`/svg/${cat}/`)).text();
 let ids=[...t.matchAll(/href="[^"]*?([^\/"]+)\.svg"/g)].map(m=>m[1]);
-if(q.get('skip'))ids=ids.filter(i=>!i.includes(q.get('skip')));if(q.get('match'))ids=ids.filter(i=>i.includes(q.get('match')));
+if(q.get('ids'))ids=q.get('ids').split(',');if(q.get('skip'))ids=ids.filter(i=>!i.includes(q.get('skip')));if(q.get('match'))ids=ids.filter(i=>i.includes(q.get('match')));
 const g=document.getElementById('g');
 for(const id of ids.slice(from,from+n)){const d=document.createElement('div');d.className='c'+(q.get('dark')?' dark':'');
 const im=document.createElement('img');

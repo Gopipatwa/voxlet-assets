@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="380" r="130" fill="#7DB2FF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M170 330 C200 300 250 310 270 330 C300 350 350 330 380 350 C400 380 380 400 340 410 C290 440 190 420 170 380Z" fill="#4CB963"/>
+  <circle cx="256" cy="100" r="34" fill="#F5913E" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <path d="M256 150 L256 238" fill="none" stroke="#2E2A3B" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M256 150 L256 238" fill="none" stroke="#E5484D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="256,254 234,200 278,200" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="140" cy="140" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="125.9" cy="125.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="140" cy="256" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="125.9" cy="241.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="140" cy="372" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="125.9" cy="357.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="256" cy="140" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="241.9" cy="125.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="256" cy="256" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="241.9" cy="241.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="256" cy="372" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="241.9" cy="357.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="372" cy="140" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="357.9" cy="125.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="372" cy="256" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="357.9" cy="241.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <circle cx="372" cy="372" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="357.9" cy="357.9" r="11.4" fill="#FFFFFF" fill-opacity="0.55"/>
+  <path d="M140 140 H372 M140 256 H372 M140 372 H372" fill="none" stroke="#2E2A3B" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M140 140 H372 M140 256 H372 M140 372 H372" fill="none" stroke="#7DB2FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
