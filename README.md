@@ -11,7 +11,7 @@ Releases. Licence: see [LICENSE](LICENSE) (own pack, for use through Voxlet only
 ## Publishing a new version of the pack
 
 ```powershell
-python toolsuild_pack.py
+python tools/build_pack.py
 ```
 
 This writes `dist/voxlet-own.zip` (index plus every drawn SVG; `dist/` is not in git). Make a
