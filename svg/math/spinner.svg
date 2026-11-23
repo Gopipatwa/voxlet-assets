@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M256 256 L256 66 A190 190 0 0 1 421 161Z" fill="#E5484D"/>
+  <path d="M256 256 L421 161 A190 190 0 0 1 421 351Z" fill="#3D8BFD"/>
+  <path d="M256 256 L421 351 A190 190 0 0 1 256 446Z" fill="#FFC83D"/>
+  <path d="M256 256 L256 446 A190 190 0 0 1 91 351Z" fill="#4CB963"/>
+  <path d="M256 256 L91 351 A190 190 0 0 1 91 161Z" fill="#F5913E"/>
+  <path d="M256 256 L91 161 A190 190 0 0 1 256 66Z" fill="#8B5CF6"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="#2E2A3B" stroke-width="10" data-outline="stroke"/>
+  <g id="part-wheel" data-pivot="256 256">
+    <path d="M256 256 L220 150 L256 60 L292 150Z" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <circle cx="256" cy="256" r="26" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+</svg>

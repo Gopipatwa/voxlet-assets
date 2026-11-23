@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="rotate(-14 200 270)">
+    <rect x="100" y="100" width="190" height="290" rx="24" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M158.4 179.8 156.4 172.4H143.7L141.7 179.8H130.0L142.8 140.2H157.0L170.0 179.8ZM152.5 157.2Q152.3 156.2 151.8 154.2Q151.3 152.3 150.8 150.2Q150.3 148.1 150.0 146.7Q149.8 148.1 149.3 150.1Q148.8 152.0 148.4 154.0Q147.9 155.9 147.6 157.2L145.9 163.7H154.2Z" fill="#E5484D"/>
+    <path d="M195 330 C150 290 140 260 160 245 C175 235 190 245 195 255 C200 245 215 235 230 245 C250 260 240 290 195 330Z" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+  <g transform="rotate(12 330 260)">
+    <rect x="230" y="110" width="190" height="290" rx="24" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <path d="M299.7 193.3H285.5L276.4 175.5L272.6 177.7V193.3H260.0V146.7H272.6V166.9Q273.4 165.4 274.5 163.9Q275.5 162.4 276.5 161.0L286.3 146.7H300.0L285.3 167.6Z" fill="#2E2A3B"/>
+    <path d="M325 330 L290 290 L325 250 L360 290Z" fill="#2E2A3B" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  </g>
+</svg>

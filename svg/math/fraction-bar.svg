@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="52" y="190" width="102" height="132" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="154" y="190" width="102" height="132" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="256" y="190" width="102" height="132" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="358" y="190" width="102" height="132" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="52" y="190" width="408" height="132" rx="16" fill="none" stroke="#2E2A3B" stroke-width="10" data-outline="stroke"/>
+  <path d="M278.4 100.7Q278.4 105.6 276.3 109.1Q274.2 112.6 270.8 114.8Q267.4 117.0 263.3 118.2V118.5Q271.5 119.4 275.9 123.4Q280.4 127.3 280.4 134.6Q280.4 140.1 277.4 144.8Q274.4 149.5 268.1 152.2Q261.9 155.0 251.9 155.0Q245.4 155.0 240.7 154.0Q236.0 153.0 231.6 151.3V136.0Q236.1 138.3 240.8 139.4Q245.5 140.5 249.3 140.5Q256.0 140.5 258.5 138.6Q260.9 136.7 260.9 133.4Q260.9 131.2 259.7 129.5Q258.5 127.8 255.4 127.0Q252.3 126.1 246.4 126.1H242.2V112.3H246.5Q254.3 112.3 257.4 110.3Q260.5 108.3 260.5 105.1Q260.5 102.4 258.4 101.1Q256.3 99.8 252.9 99.8Q249.8 99.8 247.1 100.6Q244.4 101.5 242.4 102.5Q240.4 103.5 239.4 104.2L231.7 91.9Q235.9 89.0 241.4 87.0Q246.9 85.0 255.8 85.0Q266.3 85.0 272.3 89.2Q278.4 93.4 278.4 100.7Z" fill="#3D8BFD"/>
+  <path d="M216 160 H296" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

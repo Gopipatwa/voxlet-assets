@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="rotate(-35 256 256)">
+    <rect x="20" y="190" width="472" height="132" rx="16" fill="#E8A520" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+    <rect x="34" y="200" width="444" height="28" rx="10" fill="#FFFFFF" fill-opacity="0.35"/>
+    <path d="M50 190 v44" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M70 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M90 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M111 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M131 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M151 190 v44" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M171 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M191 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M212 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M232 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M252 190 v44" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M272 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M292 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M313 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M333 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M353 190 v44" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M373 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M393 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M414 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M434 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M454 190 v44" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M474 190 v28" fill="none" stroke="#2E2A3B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

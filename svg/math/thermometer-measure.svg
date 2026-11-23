@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="206" y="40" width="76" height="340" rx="38" fill="#E3F3FC" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="244" cy="420" r="58" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <rect x="230" y="150" width="28" height="270" rx="14" fill="#E5484D"/>
+  <path d="M300 80 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 106 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 132 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 158 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 184 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 210 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 236 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 262 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 288 h34" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 314 h22" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M373.5 99.3Q369.2 99.3 365.9 97.4Q362.5 95.6 360.6 92.3Q358.8 89.0 358.8 84.7Q358.8 80.5 360.6 77.2Q362.5 73.8 365.9 71.9Q369.2 70.0 373.5 70.0Q377.8 70.0 381.1 71.9Q384.4 73.8 386.3 77.2Q388.2 80.5 388.2 84.7Q388.2 89.0 386.3 92.3Q384.4 95.6 381.1 97.4Q377.8 99.3 373.5 99.3ZM373.5 89.8Q375.8 89.8 377.3 88.4Q378.7 87.0 378.7 84.7Q378.7 82.3 377.3 80.9Q375.8 79.4 373.5 79.4Q371.1 79.4 369.7 80.9Q368.2 82.3 368.2 84.7Q368.2 87.0 369.7 88.4Q371.1 89.8 373.5 89.8ZM423.0 82.9Q417.5 82.9 414.3 87.5Q411.1 92.1 411.1 100.2Q411.1 108.5 414.3 112.8Q417.5 117.1 423.9 117.1Q427.8 117.1 431.4 116.0Q435.0 115.0 438.7 113.4V126.7Q434.9 128.4 430.8 129.2Q426.8 130.0 422.2 130.0Q412.7 130.0 406.7 126.2Q400.6 122.5 397.8 115.7Q394.9 109.0 394.9 100.2Q394.9 91.3 398.2 84.6Q401.4 77.8 407.8 73.9Q414.1 70.0 423.2 70.0Q427.4 70.0 432.1 71.0Q436.7 72.0 441.2 74.1L436.4 86.5Q433.2 85.0 430.0 83.9Q426.7 82.9 423.0 82.9Z" fill="#3D8BFD"/>
+</svg>
