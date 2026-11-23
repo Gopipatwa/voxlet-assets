@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M170 170 L256 270 L350 190 M256 270 L220 380 M256 270 L350 340" fill="none" stroke="#2E2A3B" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" data-outline="under"/>
+  <path d="M170 170 L256 270 L350 190 M256 270 L220 380 M256 270 L350 340" fill="none" stroke="#C9CED6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="170" cy="170" r="44" fill="#E5484D" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="156.8" cy="156.8" r="11.440000000000001" fill="#FFFFFF" fill-opacity="0.6"/>
+  <circle cx="256" cy="270" r="54" fill="#6B7280" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="239.8" cy="253.8" r="14.040000000000001" fill="#FFFFFF" fill-opacity="0.6"/>
+  <circle cx="350" cy="190" r="44" fill="#3D8BFD" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="336.8" cy="176.8" r="11.440000000000001" fill="#FFFFFF" fill-opacity="0.6"/>
+  <circle cx="220" cy="380" r="44" fill="#FFFFFF" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="206.8" cy="366.8" r="11.440000000000001" fill="#FFFFFF" fill-opacity="0.6"/>
+  <circle cx="350" cy="340" r="40" fill="#4CB963" stroke="#2E2A3B" stroke-width="10" stroke-linejoin="round" data-outline="stroke"/>
+  <circle cx="338.0" cy="328.0" r="10.4" fill="#FFFFFF" fill-opacity="0.6"/>
+</svg>

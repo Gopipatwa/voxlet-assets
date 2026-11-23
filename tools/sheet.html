@@ -1,0 +1,21 @@
+<!doctype html><meta charset="utf-8"><title>sheet</title>
+<style>body{margin:0;background:#fff;font:11px sans-serif}#g{display:grid;gap:4px;padding:4px}
+.c{border:1px solid #ddd;text-align:center;overflow:hidden}.c img{width:100%;display:block}.c.dark{background:#222;color:#eee}</style>
+<div id="g"></div>
+<script>
+// sheet.html?cat=science&from=0&n=40&cols=8&dark=1&match=elem&noborder=1
+const q=new URLSearchParams(location.search);const cat=q.get('cat')||'science',from=+(q.get('from')||0),n=+(q.get('n')||40),cols=+(q.get('cols')||8);
+document.getElementById('g').style.gridTemplateColumns=`repeat(${cols},1fr)`;
+if(q.get('dark'))document.body.style.background='#222';
+(async()=>{const t=await (await fetch(`/svg/${cat}/`)).text();
+let ids=[...t.matchAll(/href="[^"]*?([^\/"]+)\.svg"/g)].map(m=>m[1]);
+if(q.get('skip'))ids=ids.filter(i=>!i.includes(q.get('skip')));if(q.get('match'))ids=ids.filter(i=>i.includes(q.get('match')));
+const g=document.getElementById('g');
+for(const id of ids.slice(from,from+n)){const d=document.createElement('div');d.className='c'+(q.get('dark')?' dark':'');
+const im=document.createElement('img');
+if(q.get('noborder')){const s=await (await fetch(`/svg/${cat}/${id}.svg`)).text();
+ const f=s.replace(/\n?[ \t]*<[^<>]*data-outline="under"[^<>]*\/>/g,'').replace(/<[^<>]*data-outline="stroke"[^<>]*\/>/g,m=>m.replace(/\sstroke(-width|-linejoin)?="[^"]*"/g,''));
+ im.src='data:image/svg+xml;utf8,'+encodeURIComponent(f);}else im.src=`/svg/${cat}/${id}.svg?`+Date.now();
+d.append(im,id);g.append(d);}
+})();
+</script>
